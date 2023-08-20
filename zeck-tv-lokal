@@ -107,9 +107,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Metro TV 2
 http://210.210.155.37/uq2663/h/h12/index.m3u8
 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",JAKARTA GLOBE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
-
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
