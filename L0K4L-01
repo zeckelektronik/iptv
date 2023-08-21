@@ -1,0 +1,567 @@
+#EXTM3U
+#EXTINF:-1,TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:-1,TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
+
+#EXTINF:-1,INDOSIAR
+http://cdrs.linknetott.aspirapps.net/channelgroup3/cg331production/ch8/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0414_221130_1115
+
+#EXTINF:-1,SCTV
+https://beetv.my.id/x/oxygen-sctv-gojokkk.m3u8
+
+#EXTINF:-1,SCTV 2
+http://rr2.dens.tv/s/s03/index.m3u8
+
+#EXTINF:-1,NET TV
+https://beetv.my.id/x/oxygen-nettv-hd-gojokkk.m3u8
+
+#EXTINF:-1,NET TV 2
+http://rr2.dens.tv/s/s08/index.m3u8
+
+#EXTINF:-1,ANTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0013_221201_1630
+
+#EXTINF:-1,ANTV
+https://beetv.my.id/x/oxygen-antv-gojokkk.m3u8
+
+#EXTINF:-1,RAJAWALI TV
+http://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+
+#EXTINF:-1,RCTI
+https://www.dropbox.com/s/lye02yzs6vmemnp/dzifp-rplus-rcti.m3u8?dl=1|user-agent=android-R+
+
+#EXTINF:-1,GTV
+https://www.dropbox.com/s/sjydixjqe66hu5k/dzifp-rplus-gtv.m3u8?dl=1|user-agent=android-R+
+
+#EXTINF:-1,MNCTV
+https://www.dropbox.com/s/yfxrpbs3pfeo78a/dzifp-rplus%3Dmnctv.m3u8?dl=1!user-agent=android-R+
+
+#EXTINF:-1,INEWS 2
+https://beetv.my.id/x/oxygen-inews-gojokkk.m3u8
+
+#EXTINF:-1,MOJI
+https://i.ibb.co/XsLqk8f/SGN-09-03-2022-1662138932019.png",MOJI
+
+#EXTINF:-1,TVONE
+https://beetv.my.id/x/oxygen-tvone-gojokkk.m3u8
+
+#EXTINF:-1,TVONE 2
+http://rr2.dens.tv/s/s105/index.m3u8
+
+#EXTINF:-1,METRO TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+
+#EXTINF:-1,KOMPAS TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+
+#EXTINF:-1,TVRI SPORTS
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI 3 Budaya
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
+#EXTINF:-1,TVRI Jakarta
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+
+#EXTINF:-1,TVRI Yogyakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+
+#EXTINF:-1,TVRI Bandung
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Aceh
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Bali
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Bengkulu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Jambi
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Jawa Barat
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Jawa Tengah
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Jawa Timur
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Kalbar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Kalsel
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+
+#EXTINF:-1,TVRI Kaltim
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Kalteng
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+
+#EXTINF:-1,TVRI Lampung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI Papua
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI Sulsel Makasar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI Sulteng Palu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI Sulut Manado
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI Sumatra Selatan
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
+
+#EXTINF:-1,AXN
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/165079.ts
+
+#EXTINF:-1,CELESTIAL MOVIES HD
+http://rr1.dens.tv/h/h14/index.m3u8
+
+#EXTINF:-1,CELESTIAL CLASSIC MOVIES HD
+http://rr2.dens.tv/s/s31/index.m3u8
+
+#EXTINF:-1,GALAXY HD
+https://beetv.my.id/x/usee-galaxy-gojokkk.m3u8
+
+#EXTINF:-1,GALAXY PREMIUM HD
+https://beetv.my.id/x/usee-galaxypremium-gojokkk.m3u8
+
+#EXTINF:-1,HBO ID
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197972.ts
+
+#EXTINF:-1,HBO CINEMAX ID HD
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197964.ts
+
+#EXTINF:-1,HBO FAMILY ID HD
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/197055.ts
+
+#EXTINF:-1,HBO HITS ID HD
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/196480.ts
+
+#EXTINF:-1,HBO SIGNATURE ID HD
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/221948.ts
+
+#EXTINF:-1,HITS
+http://rr1.dens.tv/h/h37/index.m3u8
+
+#EXTINF:-1,MYCINEMA
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+
+#EXTINF:-1,MYCINEMA ASIA
+http://103.167.167.5:8111/play/a01g/index.m3u8
+
+#EXTINF:-1,MYCINEMA EROUPE
+http://210.210.155.37/uq2663/h/h18/index.m3u8
+
+#EXTINF:-1,ROCK EXTREAME
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0312_221201_1220
+
+#EXTINF:-1,THRILL (MANUAL SET RES)
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1,WARNER ID
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/157594.ts
+
+#EXTINF:-1,ZEE BIOSKOP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0161_221224_1730
+
+#EXTINF:-1,ZEE TV HD
+http://144.217.70.181:9587/hin2/ZEETVHD/playlist.m3u8?token=test
+
+#EXTINF:-1,ABU DHABI SPORT 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1,ABU DHABI SPORT 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1,ARENA PREMIUM 1
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/285558.ts
+
+#EXTINF:-1,ARENA PREMIUM 2
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/285559.ts
+
+#EXTINF:-1,ARENA PREMIUM 3
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/285560.ts
+
+#EXTINF:-1,ASTRO ARENA
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/157485.ts
+
+#EXTINF:-1,ASTRO ARENA 2
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/287793.ts
+
+#EXTINF:-1,ASSP1
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/146068.ts
+
+#EXTINF:-1,ASSP2
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157556.ts
+
+#EXTINF:-1,ASSP4
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558.ts
+
+#EXTINF:-1,ASSP5
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/287792.ts
+
+#EXTINF:-1,DUBAI RACING
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+
+#EXTINF:-1,BEIN 1 ID
+http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
+
+#EXTINF:-1,BEIN 3 ID
+http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
+
+#EXTINF:-1,BT SPORT
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/270.ts
+
+#EXTINF:-1,BT SPORT 2
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/273.ts
+
+#EXTINF:-1,BT SPORT 3
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/271.ts
+
+#EXTINF:-1,BT SPORT 4 ESPN
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/298471.ts
+
+#EXTINF:-1,DAZN 1 (ES)
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/64711.ts
+
+#EXTINF:-1,DAZN 2 (ES)
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/64712.ts
+
+#EXTINF:-1,DAZN 3 (ES)
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/269912.ts
+
+#EXTINF:-1,DAZN 4 (ES)
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/269911.ts
+
+#EXTINF:-1,DAZN F1
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/1672.ts
+
+#EXTINF:-1,DAZN LALIGA
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/297787.ts
+
+#EXTINF:-1,EDGE SPORTS (MANUAL SET RES)
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,ELEVEN 1
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/36420.ts
+
+#EXTINF:-1,ELEVEN SPORTS 1
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/1499.ts
+
+#EXTINF:-1,ELEVEN 2
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/82246.ts
+
+#EXTINF:-1,ELEVEN SPORTS 2
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/1503.ts
+
+#EXTINF:-1,ELEVEN 3
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/290476.ts
+
+#EXTINF:-1,ELEVEN SPORTS 3
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/1506.ts
+
+#EXTINF:-1,ELEVEN 4
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/1509.ts
+
+#EXTINF:-1,ELEVEN 5
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/1512.ts
+
+#EXTINF:-1,ESPN 1
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/747.ts
+
+#EXTINF:-1,ESPN 2
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/41918.ts
+
+#EXTINF:-1,ESPN 3
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/14816.ts
+
+#EXTINF:-1,ESPN 4
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/1124.ts
+
+#EXTINF:-1,EUROSPORTS 1
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/4221.ts
+
+#EXTINF:-1,EUROSPORTS 2
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/4222.ts
+
+#EXTINF:-1,DUBAI SPORTS 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,FOX SPORTS 1
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+
+#EXTINF:-1,FOX SPORTS 2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
+#EXTINF:-1,FOX SPORTS 3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
+#EXTINF:-1,MAVTV
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,MOTOR RACING
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+
+#EXTINF:-1,MMA TV
+https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
+
+#EXTINF:-1,MMA JUNKIE
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+
+#EXTINF:-1,MNC SPORT 1
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157589.ts
+
+#EXTINF:-1,MNC SPORT 2
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298548.ts
+
+#EXTINF:-1,MNC SPORT 3
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298549.ts
+
+#EXTINF:-1,MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",MOTOR
+
+#EXTINF:-1,MYSPORTS
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+
+#EXTINF:-1,POKER GO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fc54366b04b2300072e31af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1,REDBULL TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1,RMC SPORT 1
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/1937.ts
+
+#EXTINF:-1,RMC SPORT 2
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/1938.ts
+
+#EXTINF:-1,RMC SPORT 3
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/279991.ts
+
+#EXTINF:-1,SONY TEN 1
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/16622.ts
+
+#EXTINF:-1,SONY TEN 2
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/16621.ts
+
+#EXTINF:-1,SONY TEN 3
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/56191.ts
+
+#EXTINF:-1,SPOTV 2
+http://beetv.my.id/x/usee-spotv2-gojokkk.m3u8
+
+#EXTINF:-1,TENNIS HD
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1,TNT SPORTS 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1,TNT SPORTS 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1,TNT SPORTS 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1,TNT SPORTS 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1,TNT SPORTS 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1,ANIMAL PLANET
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157532.ts
+
+#EXTINF:-1,BBC EARTH
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/192995.ts
+
+#EXTINF:-1,DISCOVERY ASIA
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/197968.ts
+
+#EXTINF:-1,DISCOVERY WORLD
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/157597.ts
+
+#EXTINF:-1,HISTORY ID
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/162519.ts
+
+#EXTINF:-1,OUTSIDE HD
+https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1,PEOPLE AWESOME HD
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+
+#EXTINF:-1,SMITHSONIAN CHANNEL HD
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1,WIRED2FISH
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/282278.ts
+
+#EXTINF:-1,ANIMAX ID
+https://beetv.my.id/x/usee-animax-gojokkk.m3u8
+
+#EXTINF:-1,ANIMAX ID 2
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/165081.ts
+
+#EXTINF:-1,ANIPLUS ID
+http://210.210.155.37/session/3c285a9c-a4ad-11ec-92c6-b82a72d63267/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1,ANIPLUS ID 2
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/157611.ts
+
+#EXTINF:-1,BOOMERANG HD
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/295255.ts
+
+#EXTINF:-1,DISNEY CHANNEL
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/1113.ts
+
+#EXTINF:-1,DISNEY JUNIOR
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/1112.ts
+
+#EXTINF:-1,DISNEY XD
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/1111.ts
+
+#EXTINF:-1,MYKIDS
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+
+#EXTINF:-1,NICKLODEON
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/162510.ts
+
+#EXTINF:-1,MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1,MTV Biggest Pop 2
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS05/master.m3u8
+
+#EXTINF:-1,MTV YO
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
+#EXTINF:-1,VEVO Hip Hop (US)
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+
+#EXTINF:-1,VEVO Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
+
+#EXTINF:-1,Euro Indie Music
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+
+#EXTINF:-1,MTV Are you the One?
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1,MTV Biggest Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1,MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1,MTV Block Party
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1,MTV Catfish TV Show
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+
+#EXTINF:-1,MTV Cribs
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea815a515d149000748ee9b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1,MTV Dating
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1,MTV Latino
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1,MTV Love Music
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+
+#EXTINF:-1,MTV Mistle YO!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+#EXTINF:-1,MTV pluto.tv
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf325764025859afdd6c4d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1,MTV Pranks
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+#EXTINF:-1,===> Budhist Not 24/7 <===
+https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MOcfpqcyPD6bfx34zUeeBPiVUj0ivEGhiJ8P8uPFJLT6r2fbHlSz6UmssrAtOE-JiC1U83Vq8XkNWM_MrQyyHSFjY0T-VEDI2FDiPJeG7Ie6itc4IU93qMI3eWITkZcEGm3t7uK2fYLoBrizc32WzBUtOF2rp9aZsMwSeF7Rgd8A
+
+#EXTINF:-1,Dhamma TV HD
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+
+#EXTINF:-1,Al Quran Al Kareem TV HD
+http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-1,Al Sunnah Nabawi TV HD
+http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-1,Alwafa Tarim TV (MANUAL SET RES)
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
+#EXTINF:-1,Bahrain International (MANUAL SET RES)
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+
+#EXTINF:-1,BRTV (BadarTV) (MANUAL SET RES)
+https://e1.siar.us/badartv/live/playlist.m3u8
+
+#EXTINF:-1,IZZAH TV
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+
+#EXTINF:-1,MEKAH TV HD
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1,MTA TV (MANUAL SET RES)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+
+#EXTINF:-1,RODJA TV (MANUAL SET RES)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
+
+#EXTINF:-1,TV9
+https://streaming.indihometv.com/joss/130/tv9/playlist.m3u8
+
+#EXTINF:-1,3ABN (MANUAL SET RES)
+https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
+
+#EXTINF:-1,3ABN Latino (MANUAL SET RES)
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
+
+#EXTINF:-1,3ABN Praise Him (MANUAL SET RES)
+https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
+
+#EXTINF:-1,3ABN Kids Network (MANUAL SET RES)
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
+
+#EXTINF:-1,GMS Channel ID (MANUAL SET RES)
+http://cdrs.linknetott.aspirapps.net/channelgroup1/cg040production/ch3899/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0389_221220_2000
+
+#EXTINF:-1,Hope Channel Australia (MANUAL SET RES)
+https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8
+
+#EXTINF:-1,Iam Channel Indonesia HD
+http://iamchannel.org:1935/tes/1/chunklist.m3u8
+
+#EXTINF:-1,h_225al_clg_1q_80enc_auto/742441_e23f7af3cec15981ccb8eb268001526e.jpg" group-title="RELIGI"LLBN Asia (MANUAL SET RES)
+https://brightstar-southasia.secure.footprint.net/egress/bhandler/brightstar/brightstarSouthAsia/manifest.m3u8
+
+#EXTINF:-1,Reformed 21 Indonesia (MANUAL SET RES)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch365)/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0391_221220_1902
+
+#EXTINF:-1,SumTV (MANUAL SET RES)
+https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
+
+#EXTINF:-1,U Channel Indonesia HD
+https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel.m3u8
