@@ -24,12 +24,16 @@ http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SCTV2
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SCTV3
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SCTV4
 http://xtv.ooo:8080/88876776555/87677666654/351030
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Indosiar1
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/162138
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Indosiar2
-http://xtv.ooo:8080/88876776555/87677666654/350972
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Indosiar3
+http://xtv.ooo:8080/88876776555/87677666654/350972
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Indosiar4
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ANTV 1
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
@@ -199,3 +203,20 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/196480
 http://xtv.ooo:8080/88876776555/87677666654/350958
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HBO Signature
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/221948
+
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZECK MUSIK dangdut
+https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswaradensdut.m3u8
+
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZECK MUSIK koplo
+https://github.com/thefirefox12537/streams/raw/master/nagaswarakoplo.m3u8
+
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZECK MUSIK musika
+https://github.com/thefirefox12537/streams/raw/master/musika.m3u8
+
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZECK MUSIK pop
+https://github.com/thefirefox12537/streams/raw/master/nagaswarapop.m3u8
+
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZECK MUSIK vevo
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
