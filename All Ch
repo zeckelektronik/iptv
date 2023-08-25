@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="#?EVENT BOLA?#" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",BOLA 1http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1040328&extension=ts&play_token=UzF7Xhc9oq
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="#?EVENT BOLA?#" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",BOLA 2
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=132717&extension=ts&play_token=JIQAe2UvyK
