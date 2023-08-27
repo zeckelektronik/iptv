@@ -216,8 +216,6 @@ https://github.com/thefirefox12537/streams/raw/master/musika.m3u8
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZECK MUSIK pop
 https://github.com/thefirefox12537/streams/raw/master/nagaswarapop.m3u8
 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZECK AFF
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b2196000_sleng.m3u8
 
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZECK MUSIK vevo
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
