@@ -1,221 +1,221 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TVRI
+#EXTINF:-1 tvg-name="TVRI" tvg-id="TVRI" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TVRI
 http://210.210.155.37/qwr9ew/s/s11/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TVRI Sport
+#EXTINF:-1 tvg-name="TVRI Sport" tvg-id="TVRI Sport" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TVRI Sport
 http://210.210.155.37/qwr9ew/s/s107/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TVRI WORLD
+#EXTINF:-1 tvg-name="TVRI WORLD" tvg-id="TVRI WORLD" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TVRI WORLD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TVRI JAWA TENGAH
+#EXTINF:-1 tvg-name="TVRI JAWA TENGAH" tvg-id="TVRI JAWA TENGAH" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TVRI JAWA TENGAH
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/stream3/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",GTV 1
+#EXTINF:-1 tvg-name="GTV 1" tvg-id="GTV 1" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",GTV 1
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",GTV 2
+#EXTINF:-1 tvg-name="GTV 2" tvg-id="GTV 2" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",GTV 2
 http://xtv.ooo:8080/88876776555/87677666654/350954
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",MNC TV 1
+#EXTINF:-1 tvg-name="MNC TV 1" tvg-id="MNC TV 1" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",MNC TV 1
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",MNC TV 2
+#EXTINF:-1 tvg-name="MNC TV 2" tvg-id="MNC TV 2" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",MNC TV 2
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",MNC TV 3
+#EXTINF:-1 tvg-name="MNC TV 3" tvg-id="MNC TV 3" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",MNC TV 3
 http://mooncang.my.id/api/rplus/ch.m3u8?id=mnctv
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",RCTI 1
+#EXTINF:-1 tvg-name="RCTI 1" tvg-id="RCTI 1" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",RCTI 1
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",RCTI 2
+#EXTINF:-1 tvg-name="RCTI 2" tvg-id="RCTI 2" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",RCTI 2
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",RCTI 3
+#EXTINF:-1 tvg-name="RCTI 3" tvg-id="RCTI 3" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",RCTI 3
 http://mooncang.my.id/api/rplus/ch.m3u8?id=rcti
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SCTV1
+#EXTINF:-1 tvg-name="SCTV1" tvg-id="SCTV1" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SCTV1
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SCTV2
+#EXTINF:-1 tvg-name="SCTV2" tvg-id="SCTV2" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SCTV2
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SCTV3
+#EXTINF:-1 tvg-name="SCTV3" tvg-id="SCTV3" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SCTV3
 http://103.166.27.2:800/play/a015
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SCTV4
+#EXTINF:-1 tvg-name="SCTV4" tvg-id="SCTV4" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SCTV4
 http://xtv.ooo:8080/88876776555/87677666654/351030
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Indosiar1
+#EXTINF:-1 tvg-name="Indosiar1" tvg-id="Indosiar1" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Indosiar1
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/162138
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Indosiar2
+#EXTINF:-1 tvg-name="Indosiar2" tvg-id="Indosiar2" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Indosiar2
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Indosiar3
+#EXTINF:-1 tvg-name="Indosiar3" tvg-id="Indosiar3" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Indosiar3
 http://xtv.ooo:8080/88876776555/87677666654/350972
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Indosiar4
+#EXTINF:-1 tvg-name="Indosiar4" tvg-id="Indosiar4" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Indosiar4
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ANTV 1
+#EXTINF:-1 tvg-name="ANTV 1" tvg-id="ANTV 1" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ANTV 1
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ANTV 2
+#EXTINF:-1 tvg-name="ANTV 2" tvg-id="ANTV 2" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ANTV 2
 http://210.210.155.37/qwr9ew/s/s07/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Trans 7
+#EXTINF:-1 tvg-name="Trans 7" tvg-id="Trans 7" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Trans 7
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Trans 7 d
+#EXTINF:-1 tvg-name="Trans 7 d" tvg-id="Trans 7 d" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Trans 7 d
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Trans 7 hd
+#EXTINF:-1 tvg-name="Trans 7 hd" tvg-id="Trans 7 hd" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Trans 7 hd
 http://xtv.ooo:8080/88876776555/87677666654/351040
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Trans TV
+#EXTINF:-1 tvg-name="Trans TV" tvg-id="Trans TV" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Trans TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Trans TV d
+#EXTINF:-1 tvg-name="Trans TV d" tvg-id="Trans TV d" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Trans TV d
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Trans TV hd
+#EXTINF:-1 tvg-name="Trans TV hd" tvg-id="Trans TV hd" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Trans TV hd
 http://xtv.ooo:8080/88876776555/87677666654/351041
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Net
+#EXTINF:-1 tvg-name="Net" tvg-id="Net" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Net
 http://210.210.155.37/uq2663/h/h06/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Net 2
+#EXTINF:-1 tvg-name="Net 2" tvg-id="Net 2" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Net 2
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Net hd
+#EXTINF:-1 tvg-name="Net hd" tvg-id="Net hd" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Net hd
 http://xtv.ooo:8080/88876776555/87677666654/351010
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",RTV
+#EXTINF:-1 tvg-name="RTV" tvg-id="RTV" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",RTV
 http://210.210.155.37/dr9445/h/h10/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",RTV hd
+#EXTINF:-1 tvg-name="RTV hd" tvg-id="RTV hd" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",RTV hd
 http://xtv.ooo:8080/88876776555/87677666654/351021
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TV One 1
+#EXTINF:-1 tvg-name="TV One 1" tvg-id="TV One 1" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TV One 1
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151255.ts
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TV One 2
+#EXTINF:-1 tvg-name="TV One 2" tvg-id="TV One 2" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TV One 2
 https://av-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",INews
+#EXTINF:-1 tvg-name="INews" tvg-id="INews" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",INews
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Kompas TV
+#EXTINF:-1 tvg-name="Kompas TV" tvg-id="Kompas TV" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Kompas TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Kompas TV
+#EXTINF:-1 tvg-name="Kompas TV 2" tvg-id="Kompas TV 2" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Kompas TV 2
 http://210.210.155.37/qwr9ew/s/s104/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Metro TV 1
+#EXTINF:-1 tvg-name="Metro TV 1" tvg-id="Metro TV 1" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Metro TV 1
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Metro TV 2
+#EXTINF:-1 tvg-name="Metro TV 2" tvg-id="Metro TV 2" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Metro TV 2
 http://210.210.155.37/uq2663/h/h12/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",BERITA SATU
+#EXTINF:-1 tvg-name="BERITA SATU" tvg-id="BERITA SATU" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",CNBC Indonesia
+#EXTINF:-1 tvg-name="CNBC Indonesia" tvg-id="CNBC Indonesia" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",CNBC Indonesia
+#EXTINF:-1 tvg-name="CNBC Indonesia hd" tvg-id="CNBC Indonesia hd" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",CNBC Indonesia hd
 http://xtv.ooo:8080/88876776555/87677666654/350927
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",CNN Indonesia
+#EXTINF:-1 tvg-name="CNN Indonesia" tvg-id="CNN Indonesia" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",CNN Indonesia
+#EXTINF:-1 tvg-name="CNN Indonesia hd" tvg-id="CNN Indonesia hd" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",CNN Indonesia hd
 http://xtv.ooo:8080/88876776555/87677666654/350928
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Jogja Istimewa TV
+#EXTINF:-1 tvg-name="Jogja Istimewa TV" tvg-id="Jogja Istimewa TV" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Jogja Istimewa TV
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",JTV
+#EXTINF:-1 tvg-name="JTV" tvg-id="JTV" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",JTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Magna Channel
+#EXTINF:-1 tvg-name="Magna Channel" tvg-id="Magna Channel" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Makkah
+#EXTINF:-1 tvg-name="Makkah" tvg-id="Makkah" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Makkah
 http://210.210.155.35/session/3d4a6e12-22d9-11eb-a769-b82a72d63267/qwr9ew/s/s28/01.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TV 9 Nusantara
+#EXTINF:-1 tvg-name="TV 9 Nusantara" tvg-id="TV 9 Nusantara" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TV 9 Nusantara
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Jak TV
+#EXTINF:-1 tvg-name="Jak TV" tvg-id="Jak TV" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Jak TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SportStars
+#EXTINF:-1 tvg-name="SportStars" tvg-id="SportStars" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SportStars
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151188.ts
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SportStars 2
+#EXTINF:-1 tvg-name="SportStars 2" tvg-id="SportStars 2" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SportStars 2
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151187.ts
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SportStars 3
+#EXTINF:-1 tvg-name="SportStars 3" tvg-id="SportStars 3" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SportStars 3
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SpoTV
+#EXTINF:-1 tvg-name="SpoTV" tvg-id="SpoTV" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SpoTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SpoTV 2
+#EXTINF:-1 tvg-name="SpoTV 2" tvg-id="SpoTV 2" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SpoTV 2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Moji 1
+#EXTINF:-1 tvg-name="Moji 1" tvg-id="Moji 1" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Moji 1
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Moji 2
+#EXTINF:-1 tvg-name="Moji 2" tvg-id="Moji 2" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Moji 2
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Moji hd
+#EXTINF:-1 tvg-name="Moji hd" tvg-id="Moji hd" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Moji hd
 http://xtv.ooo:8080/88876776555/87677666654/350997
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TRUE SPORT PREMIER 1
+#EXTINF:-1 tvg-name="TRUE SPORT PREMIER 1" tvg-id="TRUE SPORT PREMIER 1" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TRUE SPORT PREMIER 1
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115758_&extension=ts
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TRUE SPORT PREMIER 2
+#EXTINF:-1 tvg-name="TRUE SPORT PREMIER 2" tvg-id="TRUE SPORT PREMIER 2" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TRUE SPORT PREMIER 2
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115508_&extension=ts
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Boomerang
+#EXTINF:-1 tvg-name="Boomerang" tvg-id="Boomerang" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Boomerang
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="Cartoon Network" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Cartoon Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",My Cinema
+#EXTINF:-1 tvg-name="My Cinema" tvg-id="My Cinema" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",My Cinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",My Cinema Asia
+#EXTINF:-1 tvg-name="My Cinema Asia" tvg-id="My Cinema Asia" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",My Cinema Asia
 http://210.210.155.37/uq2663/h/h193/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",My Family
+#EXTINF:-1 tvg-name="My Family" tvg-id="My Family" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",My Family
 http://210.210.155.37/uq2663/h/h194/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",My Kidz
+#EXTINF:-1 tvg-name="My Kidz" tvg-id="My Kidz" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",My Kidz
 http://210.210.155.37/uq2663/h/h191/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HUB SPORT PREMIER 1
+#EXTINF:-1 tvg-name="HUB SPORT PREMIER 1" tvg-id="HUB SPORT PREMIER 1" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HUB SPORT PREMIER 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1350557_&extension=ts
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ASTRO SUPERSPORT 3
+#EXTINF:-1 tvg-name="ASTRO SUPERSPORT 3" tvg-id="ASTRO SUPERSPORT 3" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ASTRO SUPERSPORT 3
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571247&extension=ts&play_token=YQu2x70UI7
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Nick Jr
+#EXTINF:-1 tvg-name="Nick Jr" tvg-id="Nick Jr" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Nick Jr
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",OKEY
+#EXTINF:-1 tvg-name="OKEY" tvg-id="OKEY" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=6
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Nickelodeon
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Animax
+#EXTINF:-1 tvg-name="Animax" tvg-id="Animax" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Animax
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Horee!
+#EXTINF:-1 tvg-name="Horee!" tvg-id="Horee!" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Horee!
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TRUE SPORT 1
+#EXTINF:-1 tvg-name="TRUE SPORT 1" tvg-id="TRUE SPORT 1" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TRUE SPORT 1
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115531_&extension=ts
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",AXN
+#EXTINF:-1 tvg-name="AXN" tvg-id="AXN" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",AXN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",PARAMOUNT NETWORK
+#EXTINF:-1 tvg-name="PARAMOUNT NETWORK" tvg-id="PARAMOUNT NETWORK" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",PARAMOUNT NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Rock Action
+#EXTINF:-1 tvg-name="Rock Action" tvg-id="Rock Action" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Rock Action
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Rock Entertaiment
+#EXTINF:-1 tvg-name="Rock Entertaiment" tvg-id="Rock Entertaiment" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Rock Entertaiment
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SONY MAX
+#EXTINF:-1 tvg-name="SONY MAX" tvg-id="SONY MAX" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",SONY MAX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch174)/index.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",UseePrime
+#EXTINF:-1 tvg-name="UseePrime" tvg-id="UseePrime" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Premier Sports
+#EXTINF:-1 tvg-name="Premier Sports" tvg-id="Premier Sports" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Premier Sports
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/premiersport.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Dunia Sinema
+#EXTINF:-1 tvg-name="Dunia Sinema" tvg-id="Dunia Sinema" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Champion TV 1
+#EXTINF:-1 tvg-name="Champion TV 1" tvg-id="Champion TV 1" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Champion TV 1
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298512
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Champion TV 2
+#EXTINF:-1 tvg-name="Champion TV 2" tvg-id="Champion TV 2" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Champion TV 2
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298513
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Champion TV 3
+#EXTINF:-1 tvg-name="Champion TV 3" tvg-id="Champion TV 3" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Champion TV 3
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298514
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Sony Pix
+#EXTINF:-1 tvg-name="Sony Pix" tvg-id="Sony Pix" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Sony Pix
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",beIN SPORTS PREMIUM 1
+#EXTINF:-1 tvg-name="beIN SPORTS PREMIUM 1" tvg-id="beIN SPORTS PREMIUM 1" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",beIN SPORTS PREMIUM 1
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/40
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",beIN SPORTS PREMIUM 2
+#EXTINF:-1 tvg-name="beIN SPORTS PREMIUM 2" tvg-id="beIN SPORTS PREMIUM 2" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",beIN SPORTS PREMIUM 2
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/41
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Citra Bioskop
+#EXTINF:-1 tvg-name="Citra Bioskop" tvg-id="Citra Bioskop" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Citra Bioskop
 http://xtv.ooo:8080/88876776555/87677666654/350923
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TRUE SPORT 2
+#EXTINF:-1 tvg-name="TRUE SPORT 2" tvg-id="TRUE SPORT 2" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",TRUE SPORT 2
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115533_&extension=ts
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Citra Drama
+#EXTINF:-1 tvg-name="Citra Drama" tvg-id="Citra Drama" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Citra Drama
 http://xtv.ooo:8080/88876776555/87677666654/350925
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZEE BIOSKOP
+#EXTINF:-1 tvg-name="ZEE BIOSKOP" tvg-id="ZEE BIOSKOP" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZEE BIOSKOP
 http://xtv.ooo:8080/88876776555/87677666654/351060
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",IMC
+#EXTINF:-1 tvg-name="IMC" tvg-id="IMC" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",IMC
 http://xtv.ooo:8080/88876776555/87677666654/350970
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Galaxy
+#EXTINF:-1 tvg-name="Galaxy" tvg-id="Galaxy" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Galaxy
 http://xtv.ooo:8080/88876776555/87677666654/350950
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Galaxy Premium
+#EXTINF:-1 tvg-name="Galaxy Premium" tvg-id="Galaxy Premium" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Galaxy Premium
 http://xtv.ooo:8080/88876776555/87677666654/350951
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Cinemax
+#EXTINF:-1 tvg-name="Cinemax" tvg-id="Cinemax" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Cinemax
 http://xtv.ooo:8080/88876776555/87677666654/350922
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HBO hd
+#EXTINF:-1 tvg-name="HBO hd" tvg-id="HBO hd" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HBO hd
 http://xtv.ooo:8080/88876776555/87677666654/350955
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HBO
+#EXTINF:-1 tvg-name="HBO" tvg-id="HBO" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HBO
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/197972
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HBO Family hd
+#EXTINF:-1 tvg-name="HBO Family hd" tvg-id="HBO Family hd" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HBO Family hd
 http://xtv.ooo:8080/88876776555/87677666654/350956
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HBO Family
+#EXTINF:-1 tvg-name="HBO Family" tvg-id="HBO Family" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HBO Family
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/197055
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HBO Hits hd
+#EXTINF:-1 tvg-name="HBO Hits hd" tvg-id="HBO Hits hd" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HBO Hits hd
 http://xtv.ooo:8080/88876776555/87677666654/350957
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HBO Hits
+#EXTINF:-1 tvg-name="HBO Hits" tvg-id="HBO Hits" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HBO Hits
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/196480
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HBO Signature hd
+#EXTINF:-1 tvg-name="HBO Signature hd" tvg-id="HBO Signature hd" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HBO Signature hd
 http://xtv.ooo:8080/88876776555/87677666654/350958
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HBO Signature
+#EXTINF:-1 tvg-name="HBO Signature" tvg-id="HBO Signature" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",HBO Signature
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/221948
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZECK MUSIK dangdut
+#EXTINF:-1 tvg-name="ZECK MUSIK dangdut" tvg-id="ZECK MUSIK dangdut" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZECK MUSIK dangdut
 https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswaradensdut.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZECK MUSIK koplo
+#EXTINF:-1 tvg-name="ZECK MUSIK koplo" tvg-id="ZECK MUSIK koplo" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZECK MUSIK koplo
 https://github.com/thefirefox12537/streams/raw/master/nagaswarakoplo.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZECK MUSIK musika
+#EXTINF:-1 tvg-name="ZECK MUSIK musika" tvg-id="ZECK MUSIK musika" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZECK MUSIK musika
 https://github.com/thefirefox12537/streams/raw/master/musika.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZECK MUSIK pop
+#EXTINF:-1 tvg-name="ZECK MUSIK pop" tvg-id="ZECK MUSIK pop" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZECK MUSIK pop
 https://github.com/thefirefox12537/streams/raw/master/nagaswarapop.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZECK MUSIK vevo
+#EXTINF:-1 tvg-name="ZECK MUSIK vevo" tvg-id="ZECK MUSIK vevo" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",ZECK MUSIK vevo
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
