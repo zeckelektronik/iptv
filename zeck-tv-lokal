@@ -5086,32 +5086,7 @@ http://210.210.155.37/x6bnqe/s/s35/index.m3u8
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="KNOWLEDGE" tvg-logo="http://www.dens.tv/images/channel-logo/117.jpg",DENS FOOD CHANNEL
 http://210.210.155.37/x6bnqe/s/s38/index.m3u8
 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: 01. ETV Live Event
-http://xtv.ooo:8080/88876776555/87677666654/350877
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: 02. ETV Live Event 02
-http://xtv.ooo:8080/88876776555/87677666654/350878
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: 24/7 Angry Birds Toons
-http://xtv.ooo:8080/88876776555/87677666654/350879
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: 24/7 BabyBus Indonesia
-http://xtv.ooo:8080/88876776555/87677666654/350880
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: 24/7 Donald Ducks
-http://xtv.ooo:8080/88876776555/87677666654/350881
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: 24/7 Doraemon
-http://xtv.ooo:8080/88876776555/87677666654/350882
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: 24/7 Just For Laughs
-http://xtv.ooo:8080/88876776555/87677666654/350883
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: 24/7 Mr Bean Cartoon
-http://xtv.ooo:8080/88876776555/87677666654/350884
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: 24/7 Mr. Bean Classic
-http://xtv.ooo:8080/88876776555/87677666654/350885
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: 24/7 Tom And Jerry
-http://xtv.ooo:8080/88876776555/87677666654/350886
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: 24/7 Upin Ipin
-http://xtv.ooo:8080/88876776555/87677666654/350887
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: 24/7 Warkop DKI
-http://xtv.ooo:8080/88876776555/87677666654/350888
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Indonesia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png",ID: ANIMAL PLANET
-http://xtv.ooo:8080/88876776555/87677666654/350889
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Indonesia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png",ID: ANIMAL PLANEThttp://xtv.ooo:8080/88876776555/87677666654/350889
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Indonesia" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png",ID: Animax
 http://xtv.ooo:8080/88876776555/87677666654/350890
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Indonesia" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png",ID: AniPlus
