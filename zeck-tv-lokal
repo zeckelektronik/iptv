@@ -5525,3 +5525,14 @@ http://xtv.ooo:8080/88876776555/87677666654/352115
 http://xtv.ooo:8080/88876776555/87677666654/352116
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="UK ? Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png",UK: BT Sport 1
 http://xtv.ooo:8080/88876776555/87677666654/346373
+
+#EXTINF:-1 group-title="HBO GORUP " ,HBO Hits
+http://103.84.206.91:8989/4007/hls/playlist.m3u8
+#EXTINF:-1 group-title="HBO GORUP " ,HBO HD
+http://103.84.206.91:8989/4002/hls/playlist.m3u8
+#EXTINF:-1 group-title="HBO GORUP " ,HBO Signature
+http://103.84.206.91:8989/4006/hls/playlist.m3u8
+#EXTINF:-1 group-title="HBO GORUP " ,HBO Family
+http://103.84.206.91:8989/4008/hls/playlist.m3u8
+#EXTINF:-1 group-title="HBO GORUP " ,CINEMAX
+http://103.84.206.91:8989/4009/hls/playlist.m3u8
