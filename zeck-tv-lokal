@@ -5523,8 +5523,7 @@ http://xtv.ooo:8080/88876776555/87677666654/352114
 http://xtv.ooo:8080/88876776555/87677666654/352115
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Malaysia" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/ab95d8e974bb7f697b1dd79c7ac0f765.png",MY: Warner TV
 http://xtv.ooo:8080/88876776555/87677666654/352116
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="UK ? Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png",UK: BT Sport 1
-http://xtv.ooo:8080/88876776555/87677666654/346373
+
 
 #EXTINF:-1 group-title="HBO GORUP " ,HBO Hits
 http://103.84.206.91:8989/4007/hls/playlist.m3u8
