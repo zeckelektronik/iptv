@@ -8307,20 +8307,7 @@ http://abf.filmbluray.id/q8u4ehc
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="James Bond" tvg-logo="http://pictures.my.id/images/James-Bond-2015.png", Spectre (2015) SUB INDO
 http://abf.filmbluray.id/a28t8d0
 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIE MANCANEGARA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",FR: Amazon Prime Cinema 1
-http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298725
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIE MANCANEGARA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",FR: Amazon Prime Cinema 2
-http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298726
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIE MANCANEGARA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",FR: Amazon Prime Cinema 4
-http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298727
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIE MANCANEGARA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",FR: Amazon Prime Cinema 5
-http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298728
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIE MANCANEGARA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",FR: Amazon Prime Cinema 6
-http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298729
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIE MANCANEGARA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",FR: Amazon Prime Cinema 7
-http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298730
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIE MANCANEGARA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",FR: Amazon Prime Cinema 8
-http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298731
+
 
 
 
@@ -10972,3 +10959,18 @@ http://pro.xviptv.com:25443/live/6532287675/4648388393/48006.ts
 http://pro.xviptv.com:25443/live/6532287675/4648388393/48027.ts
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="BEIN GRUP" tvg-logo="http://one-iptv.com/imageslogo/beINSeries2.qa.png",AR.| SERIES 2 HD
 http://pro.xviptv.com:25443/live/6532287675/4648388393/48025.ts
+
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIE MANCANEGARA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",FR: Amazon Prime Cinema 1
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298725
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIE MANCANEGARA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",FR: Amazon Prime Cinema 2
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298726
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIE MANCANEGARA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",FR: Amazon Prime Cinema 4
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298727
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIE MANCANEGARA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",FR: Amazon Prime Cinema 5
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298728
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIE MANCANEGARA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",FR: Amazon Prime Cinema 6
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298729
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIE MANCANEGARA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",FR: Amazon Prime Cinema 7
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298730
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIE MANCANEGARA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",FR: Amazon Prime Cinema 8
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298731
