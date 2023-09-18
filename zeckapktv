@@ -2246,9 +2246,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79463&extens
 
 
 
-#EXTINF:-1 tvg-id="playboy.br" tvg-name="PLAYBOY HD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="CANAIS | XXX +18 ADULTOS",PLAYBOY HD
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="PLAYBOY HD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="MOVIES",PLAYBOY HD
 http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/466402
-#EXTINF:-1 tvg-id="playboy.br" tvg-name="PLAYBOY SD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="CANAIS | XXX +18 ADULTOS",PLAYBOY SD
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="PLAYBOY SD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="MOVIES",PLAYBOY SD
 http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/466399
 #EXTINF:-1  group-title="MOVIES" tvg-logo="",Penthouse
 http://23.237.100.82:8000/PENTHOUSE/index.m3u8
