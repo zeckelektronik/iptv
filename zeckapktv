@@ -2345,14 +2345,6 @@ http://rdns.tv/0gtca76g/c1v44b4i/332972
 http://rdns.tv/0gtca76g/c1v44b4i/116089
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbomax.jpg",HBO Max 6 HD [Alter]
 http://rdns.tv/0gtca76g/c1v44b4i/332973
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="http://lxls.mx:80/images/d265586a287ff366687064426852c56e.png",NBA League Pass 1 HD
-http://rdns.tv/0gtca76g/c1v44b4i/129252
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="http://lxls.mx:80/images/d265586a287ff366687064426852c56e.png",NBA League Pass 2 HD
-http://rdns.tv/0gtca76g/c1v44b4i/129253
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="http://lxls.mx:80/images/d265586a287ff366687064426852c56e.png",NBA League Pass 3 HD
-http://rdns.tv/0gtca76g/c1v44b4i/129254
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="http://lxls.mx:80/images/d265586a287ff366687064426852c56e.png",NBA League Pass 4 HD
-http://rdns.tv/0gtca76g/c1v44b4i/129255
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/paramount.png",Paramount+ 01 HD
 http://rdns.tv/0gtca76g/c1v44b4i/350105
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/paramount.png",Paramount+ 01 HD [Alter]
@@ -2363,76 +2355,7 @@ http://rdns.tv/0gtca76g/c1v44b4i/333128
 http://rdns.tv/0gtca76g/c1v44b4i/333130
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/paramount.png",Paramount+ 04 HD
 http://rdns.tv/0gtca76g/c1v44b4i/333129
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.2.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 2 FHD
-http://rdns.tv/0gtca76g/c1v44b4i/3871
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.2.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 2 FHD [H265]
-http://rdns.tv/0gtca76g/c1v44b4i/71085
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.2.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 2 HD
-http://rdns.tv/0gtca76g/c1v44b4i/3872
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.2.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 2 HD [Alter]
-http://rdns.tv/0gtca76g/c1v44b4i/256972
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.2.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 2 SD
-http://rdns.tv/0gtca76g/c1v44b4i/4512
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.3.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 3 FHD
-http://rdns.tv/0gtca76g/c1v44b4i/3873
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.3.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 3 FHD [H265]
-http://rdns.tv/0gtca76g/c1v44b4i/71086
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.3.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 3 HD
-http://rdns.tv/0gtca76g/c1v44b4i/3874
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.3.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 3 HD [Alter]
-http://rdns.tv/0gtca76g/c1v44b4i/256973
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.3.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 3 SD
-http://rdns.tv/0gtca76g/c1v44b4i/4514
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.4.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 4 FHD
-http://rdns.tv/0gtca76g/c1v44b4i/4056
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.4.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 4 FHD [H265]
-http://rdns.tv/0gtca76g/c1v44b4i/71087
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.4.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 4 HD
-http://rdns.tv/0gtca76g/c1v44b4i/3875
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.4.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 4 HD [Alter]
-http://rdns.tv/0gtca76g/c1v44b4i/256974
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.4.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 4 SD
-http://rdns.tv/0gtca76g/c1v44b4i/4516
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.5.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 5 FHD
-http://rdns.tv/0gtca76g/c1v44b4i/3876
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.5.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 5 FHD [H265]
-http://rdns.tv/0gtca76g/c1v44b4i/71088
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.5.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 5 HD
-http://rdns.tv/0gtca76g/c1v44b4i/3877
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.5.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 5 HD [Alter]
-http://rdns.tv/0gtca76g/c1v44b4i/256975
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.5.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 5 SD
-http://rdns.tv/0gtca76g/c1v44b4i/4518
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.6.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 6 FHD
-http://rdns.tv/0gtca76g/c1v44b4i/4057
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.6.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 6 FHD [H265]
-http://rdns.tv/0gtca76g/c1v44b4i/71089
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.6.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 6 HD
-http://rdns.tv/0gtca76g/c1v44b4i/3878
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.6.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 6 HD [Alter]
-http://rdns.tv/0gtca76g/c1v44b4i/256976
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.6.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 6 SD
-http://rdns.tv/0gtca76g/c1v44b4i/4520
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.7.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 7 FHD
-http://rdns.tv/0gtca76g/c1v44b4i/4058
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.7.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 7 FHD [H265]
-http://rdns.tv/0gtca76g/c1v44b4i/71090
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.7.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 7 HD
-http://rdns.tv/0gtca76g/c1v44b4i/3879
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.7.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 7 HD [Alter]
-http://rdns.tv/0gtca76g/c1v44b4i/256977
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.7.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 7 SD
-http://rdns.tv/0gtca76g/c1v44b4i/4522
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.clubes.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiereclubes.png",Premiere Clubes FHD
-http://rdns.tv/0gtca76g/c1v44b4i/3881
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.clubes.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiereclubes.png",Premiere Clubes FHD [H265]
-http://rdns.tv/0gtca76g/c1v44b4i/71091
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.clubes.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiereclubes.png",Premiere Clubes HD
-http://rdns.tv/0gtca76g/c1v44b4i/3882
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.clubes.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiereclubes.png",Premiere Clubes HD [Alter]
-http://rdns.tv/0gtca76g/c1v44b4i/256978
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.clubes.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiereclubes.png",Premiere Clubes SD
-http://rdns.tv/0gtca76g/c1v44b4i/4524
+
 
 
 
