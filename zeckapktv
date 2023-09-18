@@ -2241,6 +2241,207 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79464&extens
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/skycinemascifiandhorror.png" group-title="MOVIES",Sky Cinema SCI-FI
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79463&extension=ts&play_token=rf5b8r8qco
 
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.2.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbo2.png",HBO 2 FHD
+http://rdns.tv/0gtca76g/c1v44b4i/3823
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.2.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbo2.png",HBO 2 FHD [H265]
+http://rdns.tv/0gtca76g/c1v44b4i/71062
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo2.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbo2.png",HBO 2 HD
+http://rdns.tv/0gtca76g/c1v44b4i/3824
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.2.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbo2.png",HBO 2 HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/262638
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.2.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbo2.png",HBO 2 SD
+http://rdns.tv/0gtca76g/c1v44b4i/4087
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.2.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbofamily.png",HBO Family FHD
+http://rdns.tv/0gtca76g/c1v44b4i/3825
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.family.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbofamily.png",HBO Family FHD [H265]
+http://rdns.tv/0gtca76g/c1v44b4i/71063
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.2.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbofamily.png",HBO Family HD
+http://rdns.tv/0gtca76g/c1v44b4i/3826
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.family.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbofamily.png",HBO Family HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/262639
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.family.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbofamily.png",HBO Family SD
+http://rdns.tv/0gtca76g/c1v44b4i/4088
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbo.png",HBO FHD
+http://rdns.tv/0gtca76g/c1v44b4i/3827
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbo.png",HBO FHD [H265]
+http://rdns.tv/0gtca76g/c1v44b4i/71064
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbo.png",HBO HD
+http://rdns.tv/0gtca76g/c1v44b4i/3828
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbo.png",HBO HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/262640
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.mundi.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbomundi.png",HBO Mundi FHD
+http://rdns.tv/0gtca76g/c1v44b4i/3829
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.mundi.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbomundi.png",HBO Mundi FHD [H265]
+http://rdns.tv/0gtca76g/c1v44b4i/71065
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.mundi.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbomundi.png",HBO Mundi HD
+http://rdns.tv/0gtca76g/c1v44b4i/3830
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.mundi.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbomundi.png",HBO Mundi HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/262641
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.mundi.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbomundi.png",HBO Mundi SD
+http://rdns.tv/0gtca76g/c1v44b4i/4091
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.plus.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hboplus.png",HBO Plus FHD
+http://rdns.tv/0gtca76g/c1v44b4i/3831
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.plus.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hboplus.png",HBO Plus FHD [H265]
+http://rdns.tv/0gtca76g/c1v44b4i/71066
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.plus.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hboplus.png",HBO Plus HD
+http://rdns.tv/0gtca76g/c1v44b4i/3832
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.plus.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hboplus.png",HBO Plus HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/262642
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.plus.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hboplus.png",HBO Plus SD
+http://rdns.tv/0gtca76g/c1v44b4i/4588
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.pop.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbopop.png",HBO Pop FHD
+http://rdns.tv/0gtca76g/c1v44b4i/3833
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.pop.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbopop.png",HBO Pop FHD [H265]
+http://rdns.tv/0gtca76g/c1v44b4i/71067
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.pop.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbopop.png",HBO Pop HD
+http://rdns.tv/0gtca76g/c1v44b4i/3834
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.pop.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbopop.png",HBO Pop HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/262643
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.pop.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbopop.png",HBO Pop SD
+http://rdns.tv/0gtca76g/c1v44b4i/4095
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbo.png",HBO SD
+http://rdns.tv/0gtca76g/c1v44b4i/4584
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.signature.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbosignature.png",HBO Signature FHD
+http://rdns.tv/0gtca76g/c1v44b4i/3835
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.signature.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbosignature.png",HBO Signature FHD [H265]
+http://rdns.tv/0gtca76g/c1v44b4i/71068
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.signature.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbosignature.png",HBO Signature HD
+http://rdns.tv/0gtca76g/c1v44b4i/3836
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.signature.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbosignature.png",HBO Signature HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/262644
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.signature.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbosignature.png",HBO Signature SD
+http://rdns.tv/0gtca76g/c1v44b4i/4097
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.xtreme.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hboxtreme.png",HBO Xtreme FHD
+http://rdns.tv/0gtca76g/c1v44b4i/4594
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.xtreme.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hboxtreme.png",HBO Xtreme FHD [H265]
+http://rdns.tv/0gtca76g/c1v44b4i/71069
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.xtreme.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hboxtreme.png",HBO Xtreme HD
+http://rdns.tv/0gtca76g/c1v44b4i/3837
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.xtreme.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hboxtreme.png",HBO Xtreme HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/262645
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="hbo.xtreme.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hboxtreme.png",HBO Xtreme SD
+http://rdns.tv/0gtca76g/c1v44b4i/4099
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbomax.jpg",HBO Max 1 HD
+http://rdns.tv/0gtca76g/c1v44b4i/104189
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbomax.jpg",HBO Max 1 HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/332968
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbomax.jpg",HBO Max 2 HD
+http://rdns.tv/0gtca76g/c1v44b4i/104190
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbomax.jpg",HBO Max 2 HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/332969
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbomax.jpg",HBO Max 3 HD
+http://rdns.tv/0gtca76g/c1v44b4i/104191
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbomax.jpg",HBO Max 3 HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/332970
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="logo N/A",HBO Max 4 HD
+http://rdns.tv/0gtca76g/c1v44b4i/104192
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbomax.jpg",HBO Max 4 HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/332971
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbomax.jpg",HBO Max 5 HD
+http://rdns.tv/0gtca76g/c1v44b4i/116086
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbomax.jpg",HBO Max 5 HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/332972
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbomax.jpg",HBO Max 6 HD
+http://rdns.tv/0gtca76g/c1v44b4i/116089
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/hbomax.jpg",HBO Max 6 HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/332973
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="http://lxls.mx:80/images/d265586a287ff366687064426852c56e.png",NBA League Pass 1 HD
+http://rdns.tv/0gtca76g/c1v44b4i/129252
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="http://lxls.mx:80/images/d265586a287ff366687064426852c56e.png",NBA League Pass 2 HD
+http://rdns.tv/0gtca76g/c1v44b4i/129253
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="http://lxls.mx:80/images/d265586a287ff366687064426852c56e.png",NBA League Pass 3 HD
+http://rdns.tv/0gtca76g/c1v44b4i/129254
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="http://lxls.mx:80/images/d265586a287ff366687064426852c56e.png",NBA League Pass 4 HD
+http://rdns.tv/0gtca76g/c1v44b4i/129255
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/paramount.png",Paramount+ 01 HD
+http://rdns.tv/0gtca76g/c1v44b4i/350105
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/paramount.png",Paramount+ 01 HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/333127
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/paramount.png",Paramount+ 02 HD
+http://rdns.tv/0gtca76g/c1v44b4i/333128
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/paramount.png",Paramount+ 03 HD
+http://rdns.tv/0gtca76g/c1v44b4i/333130
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/paramount.png",Paramount+ 04 HD
+http://rdns.tv/0gtca76g/c1v44b4i/333129
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.2.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 2 FHD
+http://rdns.tv/0gtca76g/c1v44b4i/3871
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.2.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 2 FHD [H265]
+http://rdns.tv/0gtca76g/c1v44b4i/71085
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.2.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 2 HD
+http://rdns.tv/0gtca76g/c1v44b4i/3872
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.2.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 2 HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/256972
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.2.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 2 SD
+http://rdns.tv/0gtca76g/c1v44b4i/4512
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.3.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 3 FHD
+http://rdns.tv/0gtca76g/c1v44b4i/3873
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.3.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 3 FHD [H265]
+http://rdns.tv/0gtca76g/c1v44b4i/71086
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.3.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 3 HD
+http://rdns.tv/0gtca76g/c1v44b4i/3874
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.3.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 3 HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/256973
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.3.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 3 SD
+http://rdns.tv/0gtca76g/c1v44b4i/4514
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.4.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 4 FHD
+http://rdns.tv/0gtca76g/c1v44b4i/4056
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.4.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 4 FHD [H265]
+http://rdns.tv/0gtca76g/c1v44b4i/71087
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.4.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 4 HD
+http://rdns.tv/0gtca76g/c1v44b4i/3875
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.4.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 4 HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/256974
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.4.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 4 SD
+http://rdns.tv/0gtca76g/c1v44b4i/4516
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.5.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 5 FHD
+http://rdns.tv/0gtca76g/c1v44b4i/3876
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.5.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 5 FHD [H265]
+http://rdns.tv/0gtca76g/c1v44b4i/71088
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.5.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 5 HD
+http://rdns.tv/0gtca76g/c1v44b4i/3877
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.5.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 5 HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/256975
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.5.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 5 SD
+http://rdns.tv/0gtca76g/c1v44b4i/4518
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.6.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 6 FHD
+http://rdns.tv/0gtca76g/c1v44b4i/4057
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.6.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 6 FHD [H265]
+http://rdns.tv/0gtca76g/c1v44b4i/71089
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.6.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 6 HD
+http://rdns.tv/0gtca76g/c1v44b4i/3878
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.6.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 6 HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/256976
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.6.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 6 SD
+http://rdns.tv/0gtca76g/c1v44b4i/4520
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.7.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 7 FHD
+http://rdns.tv/0gtca76g/c1v44b4i/4058
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.7.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 7 FHD [H265]
+http://rdns.tv/0gtca76g/c1v44b4i/71090
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.7.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 7 HD
+http://rdns.tv/0gtca76g/c1v44b4i/3879
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.7.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 7 HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/256977
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.7.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiere1.png",Premiere 7 SD
+http://rdns.tv/0gtca76g/c1v44b4i/4522
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.clubes.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiereclubes.png",Premiere Clubes FHD
+http://rdns.tv/0gtca76g/c1v44b4i/3881
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.clubes.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiereclubes.png",Premiere Clubes FHD [H265]
+http://rdns.tv/0gtca76g/c1v44b4i/71091
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.clubes.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiereclubes.png",Premiere Clubes HD
+http://rdns.tv/0gtca76g/c1v44b4i/3882
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.clubes.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiereclubes.png",Premiere Clubes HD [Alter]
+http://rdns.tv/0gtca76g/c1v44b4i/256978
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="premiere.clubes.br" group-title="MOVIES" tvg-logo="https://liebeurl.me/logos/premiereclubes.png",Premiere Clubes SD
+http://rdns.tv/0gtca76g/c1v44b4i/4524
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2254,6 +2455,12 @@ http://rdns.tv/0gtca76g/c1v44b4i/46202
 http://23.237.100.82:8000/PENTHOUSE/index.m3u8
 #EXTINF:-1  group-title="MOVIES" tvg-logo="",Penthouse2
 http://rdns.tv/0gtca76g/c1v44b4i/46204
+
+
+
+
+
+
 
 
 
