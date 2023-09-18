@@ -2247,12 +2247,13 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79463&extens
 
 
 #EXTINF:-1  group-title="MOVIES",PLAYBOY HD
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/466402
+http://rdns.tv/0gtca76g/c1v44b4i/46201
 #EXTINF:-1  group-title="MOVIES",PLAYBOY SD
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/466399
+http://rdns.tv/0gtca76g/c1v44b4i/46202
 #EXTINF:-1  group-title="MOVIES" tvg-logo="",Penthouse
 http://23.237.100.82:8000/PENTHOUSE/index.m3u8
-
+#EXTINF:-1  group-title="MOVIES" tvg-logo="",Penthouse2
+http://rdns.tv/0gtca76g/c1v44b4i/46204
 
 
 
