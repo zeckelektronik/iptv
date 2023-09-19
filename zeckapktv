@@ -784,34 +784,6 @@ https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-id="KTV" tvg-logo="https://tv.qreatifku.my.id/images/ktv.png",KTV
 http://202.150.172.59:80/KTV/index.m3u8
------LOCAL DIGITAL-----
-#EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="MENTARI TV" tvg-logo="https://tv.qreatifku.my.id/images/mentarid.png",MENTARI TV
-http://103.166.27.2:800/play/a018
-#EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="ANTV" tvg-logo="https://tv.qreatifku.my.id/images/antvd.png",ANTV
-https://kametv.my.id/putar/digital/antv.php
-#https://ythls.onrender.com/video/io8_c0chdBc.m3u8
-#EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="TVONE" tvg-logo="https://tv.qreatifku.my.id/images/tvoned.png",TVONE
-https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
-#EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="KOMPAS TV" tvg-logo="https://tv.qreatifku.my.id/images/kompasd.png",KOMPAS TV
-https://ythls.onrender.com/video/4rmf-lk3ito.m3u8
-#EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="TRANS TV" tvg-logo="https://tv.qreatifku.my.id/images/transtvd.png",TRANS TV
-https://kametv.my.id/putar/digital/transtv.php
-#http://103.166.27.2:800/play/a01b
-#EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="TRANS 7" tvg-logo="https://tv.qreatifku.my.id/images/trans7d.png",TRANS 7
-https://kametv.my.id/putar/digital/trans7.php
-#http://103.166.27.2:800/play/a01c
-
-#EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="SCTV" tvg-logo="https://tv.qreatifku.my.id/images/sctvd.png",SCTV
-https://kametv.my.id/putar/digital/sctv.php
-#http://103.166.27.2:800/play/a015
-#EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="INDOSIAR" tvg-logo="https://tv.qreatifku.my.id/images/indosiard.png",INDOSIAR
-https://kametv.my.id/putar/digital/indosiar.php
-#http://103.166.27.2:800/play/a016
-#EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="MOJI" tvg-logo="https://tv.qreatifku.my.id/images/mojid.png",MOJI
-https://kametv.my.id/putar/digital/moji.php
-#http://103.166.27.2:800/play/a017
-#EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="NET TV" tvg-logo="https://tv.qreatifku.my.id/images/nettvd.png",NET TV
-#http://103.152.118.53:80/play/yt/by-id/d59850Gob28/index.m3u8
 
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="LOCAL" tvg-logo="https://tv.qreatifku.my.id/images/sampit.png",SAMPIT TV
 https://h1.intechmedia.net/intech/ch56.m3u8
@@ -10929,7 +10901,7 @@ https://www.googleapis.com/drive/v3/files/1peX0QlruoYspWxORRk2ISgsX7YbDqJO8?alt=
 https://www.googleapis.com/drive/v3/files/1E3QkexnOpNGQS6wMLa7e8VqijXl11oKe?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIE 2022",Enola Holmes 2
 https://www.googleapis.com/drive/v3/files/1kLrpA1TBCDSryq6_94aRpN-MVhoh8uKm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="MOVIE 2022",Brahmāstra Part One: Shiva
+#EXTINF:-1 group-title="MOVIE 2022",Brahm?stra Part One: Shiva
 https://www.googleapis.com/drive/v3/files/1k48_92zuXWj2EiYEBFe5RCY71MaRY7A-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIE 2022",Hex
 https://www.googleapis.com/drive/v3/files/1i1UGX_OCazGwijJ1-E_oF4vbsAkwwC2V?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -11945,7 +11917,7 @@ https://www.googleapis.com/drive/v3/files/1eKjkQ6QySaWzJ5I9NVIjGDD8q-Oaa5Kb?alt=
 
 https://www.googleapis.com/drive/v3/files/13hgJ12WnNRJKrxiLe1BbR2JBTq5T0hrI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="MOVIE ANIMASI",Fate/kaleid liner Prisma☆Illya Movie: Licht – Namae no Nai Shoujo
+#EXTINF:-1 group-title="MOVIE ANIMASI",Fate/kaleid liner Prisma?Illya Movie: Licht – Namae no Nai Shoujo
 
 https://www.googleapis.com/drive/v3/files/1fr7U1TZL-jHcpQi741-iGw9GV1WsdbsA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
@@ -12653,4 +12625,3 @@ http://abf.filmbluray.id/l97j7ll
 http://abf.filmbluray.id/2j5ok86
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="HUNGER GAME" tvg-logo="http://pictures.my.id/images/hunger4.png", The Hunger Games : Mockingjay Part 2 (2015) SUB INDO
 http://abf.filmbluray.id/facigay
-
