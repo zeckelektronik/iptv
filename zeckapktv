@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-name="TVRI" tvg-id="TVRI" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",TVRI
 http://210.210.155.37/qwr9ew/s/s11/index.m3u8
 
@@ -15,58 +16,25 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEM
 http://116.254.112.74/hls/cakralive.m3u8
 
 
-#EXTINF:-1 tvg-name="GTV_1" tvg-id="GTV 1" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",GTV 1
-http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
-
-
-#EXTINF:-1 tvg-name="GTV_2" tvg-id="GTV 2" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",GTV 2
-http://xtv.ooo:8080/88876776555/87677666654/350954
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-name="GTV_3" tvg-id="GTV 3" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",GTV 3
-https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-
-#EXTINF:-1 tvg-name="MNC_TV_1" tvg-id="MNC TV 1" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MNC TV 1
-http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2-avc1_2499968=6.m3u8
-
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",GTV
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-name="MNC_TV_2" tvg-id="MNC TV 2" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MNC TV 2
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MNC TV
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-
-#EXTINF:-1 tvg-name="MNC_TV_3" tvg-id="MNC TV 3" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MNC TV 3
-http://mooncang.my.id/api/rplus/ch.m3u8?id=mnctv
-
-
-#EXTINF:-1 tvg-name="MNC_TV_4" tvg-id="MNC TV 4" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MNC TV 4
-http://xtv.ooo:8080/88876776555/87677666654/350996
-
-
-#EXTINF:-1 tvg-name="RCTI_" tvg-id="RCTI" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI
-http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3.m3u8
-
-
-#EXTINF:-1 tvg-name="RCTI_1" tvg-id="RCTI 1" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI 1
-http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-name="RCTI_2" tvg-id="RCTI 2" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI 2
-https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-
-#EXTINF:-1 tvg-name="RCTI_3" tvg-id="RCTI 3" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI 3
-http://37.49.229.56:8080/stadnik/6a627b52a9/157591
-
-
-#EXTINF:-1 tvg-name="RCTI_4" tvg-id="RCTI 4" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI 4
-http://xtv.ooo:8080/88876776555/87677666654/351023
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",iNews
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 
 #EXTINF:-1 tvg-name="SCTV1" tvg-id="SCTV1" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",SCTV1
@@ -230,32 +198,25 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u
 #EXTINF:-1 tvg-name="MADINAH TV" tvg-id="MADINAH TV" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MADINAH TV
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-name="RCTI" tvg-id="rcti.id" group-title="ZECK TV MNC GRUP" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI md
+http://202.147.204.114/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-name="RCTI MV" tvg-id="RCTI MV" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI MV
-https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-name="GTV MV" tvg-id="GTV MV" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",GTV MV
-https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="MNC TV" group-title="ZECK TV MNC GRUP" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MNC TV md
+http://202.147.204.114/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-name="MNC TV MV" tvg-id="MNC TV MV" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MNC TV MV
-https://nxanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
-
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="INEWS" group-title="ZECK TV MNC GRUP" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",INEWS md
+http://202.147.204.114/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-name="iNews MV" tvg-id="iNews MV" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",iNews MV
-https://nxanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
-
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="GTV" group-title="ZECK TV MNC GRUP" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",GTV md
+http://202.147.204.114/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -644,6 +605,146 @@ https://github.com/thefirefox12537/streams/raw/master/nagaswarapop.m3u8
 
 #EXTINF:-1 tvg-name="ZECK_MUSIK_vevo" tvg-id="ZECK MUSIK vevo" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",ZECK MUSIK vevo
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
+
+############################ "ZECK TV MNC GRUP" ##############################
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 group-title="ZECK TV MNC GRUP" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 group-title="ZECK TV MNC GRUP" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",GTV
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 group-title="ZECK TV MNC GRUP" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MNC TV
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 group-title="ZECK TV MNC GRUP" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",iNews
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-name="RCTI" tvg-id="rcti.id" group-title="ZECK TV MNC GRUP" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI
+http://202.147.204.114/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="MNC TV" group-title="ZECK TV MNC GRUP" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MNC TV
+http://202.147.204.114/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="INEWS" group-title="ZECK TV MNC GRUP" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",INEWS
+http://202.147.204.114/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="GTV" group-title="ZECK TV MNC GRUP" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",GTV
+http://202.147.204.114/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:0 tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png" group-title="ZECK TV MNC GRUP", RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:0 tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png" group-title="ZECK TV MNC GRUP", GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:0 tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png" group-title="ZECK TV MNC GRUP", MNC TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:0 tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png" group-title="ZECK TV MNC GRUP", INEWS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:0 tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png" group-title="ZECK TV MNC GRUP",RCTI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:0 tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png7" group-title="ZECK TV MNC GRUP",GTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:0 tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png" group-title="ZECK TV MNC GRUP",MNC TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:0 tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png" group-title="ZECK TV MNC GRUP",Inews
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png" group-title="ZECK TV MNC GRUP" tvg-id="iNews.id" tvg-name="iNews", iNews
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png" group-title="ZECK TV MNC GRUP",RCTI HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png" group-title="ZECK TV MNC GRUP",RCTI HD
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png" group-title="ZECK TV MNC GRUP"", MNCTV
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+
+#EXTINF:-1 group-title="ZECK TV MNC GRUP"" tvg-id="mnctv.id" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MNCTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+http://mooncang.my.id/api/rplus/ch.m3u8?id=mnctv
+
+#EXTINF:-1 tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png" group-title="ZECK TV MNC GRUP"", GTV
+http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png" group-title="ZECK TV MNC GRUP"", INEWS
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+
+#EXTINF:-1 group-title="ZECK TV MNC GRUP"" tvg-id="inews.id" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",iNews
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+http://mooncang.my.id/api/rplus/ch.m3u8?id=inews
+
+#EXTINF:-1 tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png" group-title="ZECK TV MNC GRUP"", RCTI
+http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+
+#EXTINF:-1 group-title="ZECK TV MNC GRUP"" tvg-id="rcti.id" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+http://mooncang.my.id/api/rplus/ch.m3u8?id=rcti
+
+
+
 
 
 ########################## NATIONAL TV ##########################
