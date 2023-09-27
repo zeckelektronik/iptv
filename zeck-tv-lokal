@@ -644,3 +644,246 @@ https://github.com/thefirefox12537/streams/raw/master/nagaswarapop.m3u8
 
 #EXTINF:-1 tvg-name="ZECK_MUSIK_vevo" tvg-id="ZECK MUSIK vevo" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",ZECK MUSIK vevo
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_nasional.png" tvg-id="tvrinasional.id" ,TVRI Nasional
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRINASIONAL/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_jakarta.png" ,TVRI Jakarta
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRIDKI/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_world.png" tvg-id="tvriworld.id" ,TVRI World
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRI3/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_sport.png" tvg-id="tvrisports.id" ,TVRI Sport
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRI4/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_aceh.png" ,TVRI Aceh
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRIACEH/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_bali.png" ,TVRI Bali
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRIBALI/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_bangka_belitung.png" ,TVRI Bangka Belitung
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRIBABEL/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_bengkulu.png" ,TVRI Bengkulu
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRIBENGKULU/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_gorontalo.png" ,TVRI Gorontalo
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRIGORONTALO/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_jambi.png" ,TVRI Jambi
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRIJAMBI/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_jawa_barat.png" ,TVRI Jawa Barat
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRIJABARBANDUNG/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_jawa_tengah.png" ,TVRI Jawa Tengah
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRIJATENGSEMARANG/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_jawa_timur.png" ,TVRI Jawa Timur
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRIJATIMSURABAYA/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_kalimantan_barat.png" ,TVRI Kalimantan Barat
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRIKALBAR/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_kalimantan_selatan.png" ,TVRI Kalimantan Selatan
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRIKKALSELBANJARMSN/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_kalimantan_timur.png" ,TVRI Kalimantan Timur
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRIKALTIMSAMARINDA/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_kalimantan_tengah.png" ,TVRI Kalimantan Tengah
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRIKALTENG/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_lampung.png" ,TVRI Lampung
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRILAMPUNG/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_maluku.png" ,TVRI Maluku
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRIMALUKUAMBON/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_nusa_tenggara_barat.png" ,TVRI Nusa Tenggara Barat
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRINTBMATARAM/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_nusa_tenggara_timur.png" ,TVRI Nusa Tenggara Timur
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRINTTKUPANG/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_papua.png" ,TVRI Papua
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRIPAPUA/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_riau.png" ,TVRI Riau
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRIRIAU/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_sulawesi_barat.png" ,TVRI Sulawesi Barat
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRISULBARMAJENE/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_sulawesi_selatan.png" ,TVRI Sulawesi Selatan
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRISULSELMAKASAR/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_sulawesi_tengah.png" ,TVRI Sulawesi Tengah
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRISULTENGPALU/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_sulawesi_tenggara.png" ,TVRI Sulawesi Tenggara
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRISULTRA/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_sulawesi_utara.png" ,TVRI Sulawesi Utara
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRISULUTMANADO/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_sumatera_barat.png" ,TVRI Sumatera Barat
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRISUMBARPADANG/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_sumatera_selatan.png" ,TVRI Sumatera Selatan
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRISUMSEL/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_sumatera_utara.png" ,TVRI Sumatera Utara
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRISUMUTMEDAN/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvri_yogyakarta.png" ,TVRI Yogyakarta
+http://12537-stream-ip-tv.xyz/play/channels/otete-teveeri/TVRIYOGYAKARTA/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/rcti.png" tvg-id="rcti.id" ,RCTI
+http://12537-stream-ip-tv.xyz/play/channels/erplus/RCTI/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/mnctv.png" tvg-id="mnctv.id" ,MNCTV
+http://12537-stream-ip-tv.xyz/play/channels/erplus/MNCTV/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/gtv.png" tvg-id="gtv.id" ,GTV
+http://12537-stream-ip-tv.xyz/play/channels/erplus/GTV/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/inews.png" tvg-id="inews.id" ,iNews
+http://12537-stream-ip-tv.xyz/play/channels/erplus/iNews/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/indosiar.png" tvg-id="indosiar.id" ,Indosiar
+http://12537-stream-ip-tv.xyz/play/channels/efemeks/indosiar/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sctv.png" tvg-id="sctv.id" ,SCTV
+http://12537-stream-ip-tv.xyz/play/channels/efemeks/esceteve/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/moji.png" tvg-id="ochannel.id" ,Moji
+http://12537-stream-ip-tv.xyz/play/channels/efemeks/moji/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/mentari_tv.png" tvg-id="mentaritv.id" ,Mentari TV
+http://12537-stream-ip-tv.xyz/play/channels/pidio/hls/8237-mentari-tv/master.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/antv.png" tvg-id="antv.id" ,ANTV
+http://210.210.155.37/qwr9ew/s/s07/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvone.png" tvg-id="tvone.id" ,tvOne
+http://12537-stream-ip-tv.xyz/play/channels/yt/hls/by-id/yNKvkPJl-tg/master.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/vtv_viva_tv.png" tvg-id="vivatelevisi.id" ,VTV (VIVA TV)
+http://12537-stream-ip-tv.xyz/play/channels/vivateve/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/trans_tv.png" tvg-id="transtv.id" ,Trans TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/trans_7.png" tvg-id="trans7.id" ,Trans 7
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/cnn_indonesia.png" tvg-id="cnnindonesia.id" ,CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/cnbc_indonesia.png" tvg-id="cnbcindonesia.id" ,CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/metro_tv.png" tvg-id="metrotv.id" ,Metro TV
+http://12537-stream-ip-tv.xyz/play/channels/efemeks/metroteve/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/magna_channel.png" tvg-id="magnachannel.id" ,Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bn_channel.png" tvg-id="bntv.id" ,BN Channel
+http://12537-stream-ip-tv.xyz/play/channels/yt/hls/by-id/04pu-tK1kJA/master.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/kompas_tv.png" tvg-id="kompastv.id" ,Kompas TV
+http://12537-stream-ip-tv.xyz/play/channels/efemeks/kompasteve/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/net.png" tvg-id="net.id" ,NET
+http://op-group1-swiftservehd-1.dens.tv/h/h06/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/rtv.png" tvg-id="rajawalitv.id" ,RTV
+http://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/arek_tv.png" ,Arek TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/batu_tv.png" ,Batu TV
+http://117.103.69.219:8080/live/streaming/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bayu_tv.png" tvg-id="bayutvnganjuk.id" ,Bayu TV
+https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/citra_tv.png" ,Citra TV
+https://63b2dc7196c38.streamlock.net:1937/ch28/myStream/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/dhamma_tv.png" ,Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/dhoho_tv.png" tvg-id="dhohotv.id" ,Dhoho TV
+http://12537-stream-ip-tv.xyz/play/channels/daerah/dhohotv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/dmtv.png" tvg-id="dmtvmalang.id" ,DMTV
+https://h1.intechmedia.net/intech/ch51.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/jawa_pos_tv.png" tvg-id="jawapostv.id" ,Jawa Pos TV
+http://12537-stream-ip-tv.xyz/play/channels/daerah/jawapostv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/jtv.png" tvg-id="jtv.id" ,JTV
+http://12537-stream-ip-tv.xyz/play/channels/efemeks/jeteve/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/kilisuci_tv.png" ,Kilisuci TV
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/madu_tv.png" ,Madu TV
+http://12537-stream-ip-tv.xyz/play/channels/daerah/madutv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sakti_tv.png" tvg-id="saktitv.id" ,Sakti TV
+http://12537-stream-ip-tv.xyz/play/channels/daerah/saktitv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/surabaya_tv.png" tvg-id="surabayatv.id" ,Surabaya TV
+http://12537-stream-ip-tv.xyz/play/channels/daerah/surabayatv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tv9_nusantara.png" tvg-id="tv9nusantara.id" ,TV9 Nusantara
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bali_tv.png" tvg-id="Bali TV" ,Bali TV
+http://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/daaitv.png" tvg-id="daaitv.id" ,DAAITV
+http://12537-stream-ip-tv.xyz/play/channels/efemeks/daaiteve/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/jaktv.png" tvg-id="jaktv.id" ,JakTV
+http://12537-stream-ip-tv.xyz/play/channels/efemeks/jakteve/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/btv_beritasatu.png" tvg-id="beritasatu.id" ,BTV (BeritaSatu)
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/inspira_tv.png" tvg-id="inspiratv.id" ,Inspira TV
+http://12537-stream-ip-tv.xyz/play/channels/daerah/inspiratv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/lingkar_tv.png" ,Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/banten_tv.png" ,Banten TV
+https://5bf7b725107e5.streamlock.net:443/bantentv/bantentv/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bandung_tv.png" tvg-id="bandungtv.id" ,Bandung TV
+http://12537-stream-ip-tv.xyz/play/channels/daerah/bandung.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/garda_tv.png" ,Garda TV
+http://12537-stream-ip-tv.xyz/play/channels/daerah/gardatv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/jogja_tv.png" ,Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/duta_tv.png" tvg-id="dutatv.id" ,Duta TV
+http://12537-stream-ip-tv.xyz/play/channels/daerah/dutatv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/jaya_tv.png" tvg-id="jayatvjayapura.id" ,Jaya TV
+https://h1.intechmedia.net/intech/ch52.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/betv.png" tvg-id="betv.id" ,BETV
+https://h1.intechmedia.net/intech/ch58.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/jambi_tv.png" ,Jambi TV
+https://63b2dc7196c38.streamlock.net:1937/ch23/myStream/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tegar_tv.png" tvg-id="tegartvlampung.id" ,Tegar TV
+https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/simpang5_tv.png" ,Simpang5 TV
+https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/semarang_tv.png" ,Semarang TV
+http://116.254.112.74/hls/cakralive.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/elshinta_tv.png" tvg-id="elshintatv.id" ,Elshinta TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/garuda_tv.png" tvg-id="garudatv.id" ,Garuda TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bmstv.png" ,BMSTV
+http://12537-stream-ip-tv.xyz/play/channels/daerah/bmstv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/rbtv.png" ,RBTV
+https://h1.intechmedia.net/intech/ch59.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/puja_tv.png" tvg-id="pujatvaceh.id" ,Puja TV
+http://12537-stream-ip-tv.xyz/play/channels/daerah/pujatv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/mgstv.png" ,MGSTV
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/jek_tv.png" tvg-id="jektv.id" ,Jek TV
+https://63b2dc7196c38.streamlock.net:1937/ch14/myStream/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/riau_tv.png" tvg-id="riautv.id" ,Riau TV
+https://63b2dc7196c38.streamlock.net:1937/ch11/myStream/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tatv.png" tvg-id="tatv.id" ,TATV
+http://12537-stream-ip-tv.xyz/play/channels/daerah/tatv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sampit_tv.png" ,Sampit TV
+https://h1.intechmedia.net/intech/ch56.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/kawanua_tv.png" tvg-id="kawanuatv.id" ,Kawanua TV
+https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/pontv.png" ,PonTV
+https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/padang_tv.png" tvg-id="padangtv.id" ,Padang TV
+https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/brtv.png" tvg-id="brtv.id" ,BRTV
+http://12537-stream-ip-tv.xyz/play/channels/daerah/brtv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tv_sultra.png" ,TV Sultra
+https://63b2dc7196c38.streamlock.net:1937/ch20/myStream/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/smtv.png" ,SMTV
+https://63b2dc7196c38.streamlock.net:1937/ch25/myStream/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/rctv.png" tvg-id="rctv.id" ,RCTV
+http://12537-stream-ip-tv.xyz/play/channels/daerah/rctv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/nusantara_tv.png" tvg-id="nusantaratv.id" ,Nusantara TV
+http://12537-stream-ip-tv.xyz/play/channels/daerah/nusantaratv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/aditv.png" tvg-id="aditv.id" ,AdiTV
+http://12537-stream-ip-tv.xyz/play/channels/daerah/aditv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvtpi.png" ,TVTPI
+http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/batam_tv.png" tvg-id="batamtv.id" ,Batam TV
+https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/jpmtv.png" tvg-id="jpmtv.id" ,JPMTV
+https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvku.png" tvg-id="tvku.id" ,TVKU
+https://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tv_tabalong.png" ,TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/huma_betang_tv.png" ,Huma Betang TV
+http://12537-stream-ip-tv.xyz/play/channels/daerah/humabetangtv.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/ctv_banten.png" ,CTV Banten
+https://wowza.convergen.co/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/balikapan_tv.png" ,Balikapan TV
+https://63b2dc7196c38.streamlock.net:1937/ch10/myStream/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bungo_tv.png" ,Bungo TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/ugtv.png" tvg-id="ugtv.id" ,UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/jitv.png" tvg-id="jogjaistimewatv.id" ,JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/paltv.png" tvg-id="palembangtv.id" ,PalTV
+https://h1.intechmedia.net/intech/ch18.m3u8
+#EXTINF:-1 group-title="National/Local" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sangaji_tv.png" tvg-id="sangajitv.id" ,Sangaji TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
