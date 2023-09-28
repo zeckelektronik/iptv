@@ -584,6 +584,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f6
 
 
 
+
+
+
+
+
+
 ###################### "ZECK TV MNC GRUP" #####################
 
 
@@ -609,6 +615,106 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
 #EXTINF:-1 group-title="ZECK TV MNC GRUP" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+
+
+
+
+
+
+
+###################### "ZECK MNC SPORT" #####################
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 group-title="ZECK MNC SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/soccer-channel-id.png" tvg-id="soccerchannel.id" ,Soccer Channel
+http://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 group-title="ZECK MNC SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png" tvg-id="sportstars.id" ,Sportstars 1
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 group-title="ZECK MNC SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png" tvg-id="sportstars2.id" ,Sportstars 2
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 group-title="ZECK MNC SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png" tvg-id="sportstars3.id" ,Sportstars 3
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 group-title="ZECK MNC SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png" tvg-id="spotv.kr" ,SPOTV 1
+http://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 group-title="ZECK MNC SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png" tvg-id="spotv2.kr" ,SPOTV 2
+http://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 tvg-name="SPOTV1" tvg-id="SPOTV.kr" group-title="ZECK MNC SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png",SPO TV 1
+https://nyanv-live-cdn.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 tvg-name="SPOTV2" tvg-id="SPOTV2.kr" group-title="ZECK MNC SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png",SPO TV 2
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 tvg-name="MNC Sports" tvg-id="MNCSports.id" group-title="ZECK MNC SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png",Sportstars1
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 tvg-name="MNC Sports 2" tvg-id="MNCSports2.id" group-title="ZECK MNC SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png",Sportstars2
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 tvg-name="MNC Sports 3" tvg-id="MNCSports3.id" group-title="ZECK MNC SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png",Sportstars3
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 tvg-name="MNC Sports 3" tvg-id="MNCSports3.id" group-title="ZECK MNC SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png",Sportstars4
+http://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 tvg-name="Soccer Channel" tvg-id="SoccerChannel.id" group-title="ZECK MNC SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/soccer-channel-id.png",Soccer Channel HD
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+
+
+
+
+
+
+###################  ZECK MVP  ###################
+
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png" group-title="ZECK MVP",IMC
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy_tv_id.png" group-title="ZECK MVP",Galaxy
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png" group-title="ZECK MVP",Galaxy Premium
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+
 
 
 
