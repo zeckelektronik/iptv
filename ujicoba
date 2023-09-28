@@ -29,3 +29,41 @@ http://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="Olahraga" tvg-logo="https://i.imgur.com/5D0YW20.png" tvg-id="spotv2.kr" ,SPOTV 2
 http://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="SPORTSTARS 1" group-title="SPORTS" tvg-logo="https://tv.qreatifku.my.id/images/s1.png",SPORTSTARS 1
+http://202.147.204.114/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="SPORTSTARS 2" group-title="SPORTS" tvg-logo="https://tv.qreatifku.my.id/images/s2.png",SPORTSTARS 2
+http://202.147.204.114/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="SPORTSTARS 3" group-title="SPORTS" tvg-logo="https://tv.qreatifku.my.id/images/s3.png",SPORTSTARS 3
+http://202.147.204.114/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="SPORTSTARS 4" group-title="SPORTS" tvg-logo="https://tv.qreatifku.my.id/images/s4.png",SPORTSTARS 4
+http://202.147.204.114/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="SPOTV 1" group-title="SPORTS" tvg-logo="https://tv.qreatifku.my.id/images/spotv1.png",SPOTV 1
+http://202.147.204.114/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="SPOTV 2" group-title="SPORTS" tvg-logo="https://tv.qreatifku.my.id/images/spotv2.png",SPOTV 2
+http://202.147.204.114/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="SOCCER CHANNEL" group-title="SPORTS" tvg-logo="https://tv.qreatifku.my.id/images/soccerc.png",SOCCER CHANNEL
+http://202.147.204.114/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+
+
+
