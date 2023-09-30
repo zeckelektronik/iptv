@@ -1,1410 +1,677 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
-#EXTINF:-1 group-title="Olahraga" tvg-logo="https://i.imgur.com/ywxSwV3.png" tvg-id="soccerchannel.id" ,Soccer Channel
-http://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
-#EXTINF:-1 group-title="Olahraga" tvg-logo="https://iptv.urfan.web.id/logo/sportstars.png" tvg-id="sportstars.id" ,Sportstars
-http://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
-#EXTINF:-1 group-title="Olahraga" tvg-logo="https://iptv.urfan.web.id/logo/sportstars2.png" tvg-id="sportstars2.id" ,Sportstars 2
-http://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
-#EXTINF:-1 group-title="Olahraga" tvg-logo="https://iptv.urfan.web.id/logo/sportstars3.png" tvg-id="sportstars3.id" ,Sportstars 3
-http://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
-#EXTINF:-1 group-title="Olahraga" tvg-logo="https://i.imgur.com/p1q77RO.png" tvg-id="spotv.kr" ,SPOTV
-http://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
-#EXTINF:-1 group-title="Olahraga" tvg-logo="https://i.imgur.com/5D0YW20.png" tvg-id="spotv2.kr" ,SPOTV 2
-http://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
-#EXTINF:-1 tvg-name="SPOTV" tvg-id="SPOTV.kr" group-title="SPORTS" tvg-logo="https://i.postimg.cc/wxnNjyRV/SSN-TIVI-2023-08-17-T124407-009.png",SPO TV 1
-https://nyanv-live-cdn.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
-#EXTINF:-1 tvg-name="SPOTV 2" tvg-id="SPOTV2.kr" group-title="SPORTS" tvg-logo="https://i.postimg.cc/tgGntLNV/SSN-TIVI-2023-08-17-T124231-707.png",SPO TV 2
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
-#EXTINF:-1 tvg-name="MNC Sports" tvg-id="MNCSports.id" group-title="SPORTS" tvg-logo="https://i.postimg.cc/wM8HR7Qh/SSN-TIVI-2023-08-17-T031538-430.png",Sportstars 1
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
-#EXTINF:-1 tvg-name="MNC Sports 2" tvg-id="MNCSports2.id" group-title="SPORTS" tvg-logo="https://i.postimg.cc/wM8HR7Qh/SSN-TIVI-2023-08-17-T031538-430.png",Sportstars 2
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
-#EXTINF:-1 tvg-name="MNC Sports 3" tvg-id="MNCSports3.id" group-title="SPORTS" tvg-logo="https://i.postimg.cc/wM8HR7Qh/SSN-TIVI-2023-08-17-T031538-430.png",Sportstars 3
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
-#EXTINF:-1 tvg-name="MNC Sports 3" tvg-id="MNCSports3.id" group-title="SPORTS" tvg-logo="https://i.postimg.cc/wM8HR7Qh/SSN-TIVI-2023-08-17-T031538-430.png",Sportstars 4
-http://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjE4YTI0NGUtODZhOS0zZWE5LTk1NzctNTY2MzcwZWJlNzgw
-#EXTINF:-1 tvg-name="Soccer Channel" tvg-id="SoccerChannel.id" group-title="SPORTS" tvg-logo="https://i.postimg.cc/NjMXnTK7/SSN-TIVI-2023-08-17-T130008-589.png",Soccer Channel HD
-https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
-
-
-
-
-#EXTINF:0 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="Movies",IMC
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
-
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="Movies",Galaxy
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
-
-#EXTINF:0 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png" group-title="Movies",Galaxy Premium
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_idku2_big.png" tvg-id="0914f2e4a7cc6d3d048ffc969118374f" ,.idku
-http://116.254.115.130:9981/stream/channelid/1693586441?ticket=25E121D1394D2B81FEE1357D7269ACC94E55FAD8&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/37kTm20/lejelhome.png" tvg-id="f3881688461f02d6a11b74b110d79e8b" ,106 Lejel Home Shopping Live
-http://116.254.115.130:9981/stream/channelid/135694579?ticket=13355CE5EE0184E432D3C57057DB1FE841F8BC4D&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/37kTm20/lejelhome.png" tvg-id="0c8200bea75ad98c134d47df5ca298e6" ,113 Lejel Home Shopping Reguler
-http://116.254.115.130:9981/stream/channelid/1040220684?ticket=CB67EB5902918F52F39B484807749E7B4A89DB9B&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_idx_big.png" tvg-id="bfc38d6b9b376057abfbd6727ebd2b4d" ,119 IDX Channel
-http://116.254.115.130:9981/stream/channelid/1804452799?ticket=EEB0CE377B990BA3F999E835C09B13212775E4E5&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PozF9MT.png" tvg-id="55e608d639440c49b83d6b310df7a00c" ,1Mus
-http://116.254.115.130:9981/stream/channelid/1443423829?ticket=F313F26C7F3B8A2603C2311B85A8747F7A92F223&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" tvg-id="c9836b68b0d12ee569df91f9dbfce1e3" ,2 Mozaik Channel
-http://116.254.115.130:9981/stream/channelid/1751876553?ticket=CEB9323EE495849B0CE7F0ECED17037C07F8BA88&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/SRn7G0r/mtvlive.png" tvg-id="11712e09811ee3ea3c1c8e5d135a8957" ,450 MTV Live
-http://116.254.115.130:9981/stream/channelid/154038545?ticket=592BBED98FAF43A4A583AFAC0C355356FC93B6A4&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bdgNQV0/vchannel.png" tvg-id="c8b5d10109450f365c476483e96766d1" ,452 Channel [V]
-http://116.254.115.130:9981/stream/channelid/30520776?ticket=020B1210774FAA5933177B48BE8923457DC42A3D&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_insert_big1.png" tvg-id="1a1286ede46c772ac8f0640015f37b1d" ,503 Insert
-http://116.254.115.130:9981/stream/channelid/1837503002?ticket=D1EE2FF20294D689656DE9BD154CFA7F8E20AA98&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/SfF0zWJ/blueant.png" tvg-id="6a8ac8c8ba3e526e31502d92a0037c2a" ,511 Blue Ant Entertainment HD
-http://116.254.115.130:9981/stream/channelid/1221102186?ticket=D5D05E0303304BD2DEAABD6348284C82EE1918CC&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" tvg-id="7f04cae5990b4144b0122fe5b2406d71" ,535 Citra Dangdut
-http://116.254.115.130:9981/stream/channelid/1707738239?ticket=BF2805EC69195956EB55BD59C53356567C6546D8&profile=pass
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/shenzhentv.jpg" tvg-id="7a80ab85509d0f9c923c8ec0fb39f1b1" ,539 Shenzen International
-http://116.254.115.130:9981/stream/channelid/95125626?ticket=42AF7F0FFB9F1C1230E7084B9316DCCF27273966&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pygxZTB/cnbc.png" tvg-id="3c2e529a892ed0754fbd02b59f85675f" ,803 CNBC
-http://116.254.115.130:9981/stream/channelid/441593404?ticket=93CCBE27762394AC0443E11160B685D469773C6C&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/Lh6x7GG/useetoday.png" tvg-id="155ea544fc42876f685c04e5f265f882" ,91 USee Today
-http://116.254.115.130:9981/stream/channelid/1151688213?ticket=D6913DE708BB95A02D421222257C690B17A7CD86&profile=pass
-#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586678317-.png" tvg-id="4aa75e9f9550b2e4c743b908343a7c7f" ,917 Jowo HD
-http://116.254.115.130:9981/stream/channelid/526296906?ticket=9E53EB1D182BA2A14C2A79C8D4D6FF10BE693F29&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" tvg-id="f6681ec4c85673c01a60221fab37e9d7" ,935 HBO Dolby HD
-http://116.254.115.130:9981/stream/channelid/1142843638?ticket=A0E76A215195C2A3776E580C406850E588924788&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" tvg-id="dc8ad033051a4c7c1c7a3c1202bc5a3e" ,936 HBO Signature Dolby HD
-http://116.254.115.130:9981/stream/channelid/869305052?ticket=B908C7BA2D043D2AE6285834BFEFC950A57455E3&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" tvg-id="027a32ebbba1c75f8731e5582f3824d6" ,937 HBO Hits Dolby HD
-http://116.254.115.130:9981/stream/channelid/1798470146?ticket=C787A665FEBD7F9AD0B475E613FE1A6843AA275A&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" tvg-id="f2d7632263c8a7654d2d56475a26aa43" ,938 HBO Family Dolby HD
-http://116.254.115.130:9981/stream/channelid/576968690?ticket=B129934FD91AE90256017742F38F120EE7A12161&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" tvg-id="8aa4fd8fcfdf880c9d4f221260cc2bcb" ,939 Cinemax Dolby HD
-http://116.254.115.130:9981/stream/channelid/268280970?ticket=4B68528FE36379D6486EC08D4C21B6837065F64C&profile=pass
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/9XM?file=9xm_red.svg" tvg-id="559166817e46541d95685fc70fab0e74" ,9XM India
-http://116.254.115.130:9981/stream/channelid/23499093?ticket=CD1D816CD0854D89D38F1AA13A6651603AC16C2C&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/TMzwDBS/abc.png" tvg-id="6fb851a93b04a9c759dc7956d0b288c9" ,ABC Australia
-http://116.254.115.130:9981/stream/channelid/693221487?ticket=22F91B66E8AEAFD92F3BC7C3DE6177BC67094EA1&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_afc_big.png" tvg-id="4850e8b53509c2abf9a4daf3dced3287" ,AFN
-http://116.254.115.130:9981/stream/channelid/904417352?ticket=1287CCF4F82FBE71710367354B3255F3215FB804&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_afc_big.png" tvg-id="8160bdab4ae434abcc160c77ac64b480" ,AFN HD
-http://116.254.115.130:9981/stream/channelid/733831297?ticket=16F490D2B3BC009416CA8DF215C20F6EA0245A53&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aljazeera_big1.png" tvg-id="a84a6e020846a2c7e3ca54475012dd4c" ,Al Jazeera HD
-http://116.254.115.130:9981/stream/channelid/40782504?ticket=95F8A0424DB00EFD520B790AEB8E5ED6C42EF01C&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aljazeera_big1.png" tvg-id="aabf7adb398a8383601412ad9bd6a6e7" ,Aljazeera
-http://116.254.115.130:9981/stream/channelid/1534771114?ticket=EDC30272C267A86D7098F26D53F3D19315F0E294&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_aljazeera_small1.png" tvg-id="39a1835ed3c9b396bf36cad92d6bfebf" ,Aljazeera
-http://116.254.115.130:9981/stream/channelid/1585684793?ticket=4802E104E742AFC3EBCE33580106781543B92C7F&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_alquran_big1.png" tvg-id="611935ed0d68ef6f9421aebdd4d24b61" ,AlQuran Karim
-http://116.254.115.130:9981/stream/channelid/1832196449?ticket=896650C9D394379BBBB38B0838FA029937360CD0&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_animax_big.png" tvg-id="c101dfbb3380f1c2061c37db42d11a34" ,Animax
-http://116.254.115.130:9981/stream/channelid/1004470721?ticket=721A31ADA00CD5436321A7FFA34CD87E17182DFD&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_animax_small.png" tvg-id="5e8b99bc759ecbae7dbec5d2f62b2664" ,Animax
-http://116.254.115.130:9981/stream/channelid/1016695646?ticket=E961A0B86E78ABF7529F6FACB0AC85536F37F801&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aniplus_big1.png" tvg-id="6dcc8b039ca68040f9bddedf775bbb04" ,Aniplus
-http://116.254.115.130:9981/stream/channelid/59493485?ticket=3EFE3E62CDF47FE04750374BB9C4C8A5AA900EBE&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages//logo_aniplus_small1.png" tvg-id="35bb6997450b836e7ed8e131c0e623f3" ,ANIPlus
-http://116.254.115.130:9981/stream/channelid/392805173?ticket=2228F30B00056C5ED784FCED149AD5A44E65B619&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aniplus_big1.png" tvg-id="b4b0080729575a22d01af8ac592e76b1" ,ANIPLUS HD
-http://116.254.115.130:9981/stream/channelid/118010036?ticket=A9F726DCD1FC8C6851B1F622392EBFC5B329AD43&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_antara_big1.png" tvg-id="bef2559ffe4f5de87b3fec50109c1efb" ,Antara
-http://116.254.115.130:9981/stream/channelid/525726398?ticket=05EA4303E11A641D912BA69CCFDF0E9E5DF5C378&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_antara_small1.png" tvg-id="6865fe7359c35405192b2a0a7d43c606" ,Antara
-http://116.254.115.130:9981/stream/channelid/1946051944?ticket=480C2B985E716EB5D28357F162355290337AF34D&profile=pass
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" tvg-id="af5f0662b90c792a448a6a2c4a785f1a" ,ANTV
-http://116.254.115.130:9981/stream/channelid/1644584879?ticket=BD216C4FB8B58CCBE1D07998B48381844C5427A4&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_antv_big1.png" tvg-id="cd60417a1de7c2aeadacc2ee55afadf4" ,ANTV
-http://116.254.115.130:9981/stream/channelid/2051104973?ticket=33F7F2ECF8FDD9B55D323D890452C2E80B00344F&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_antv_big1.png" tvg-id="b487d9743a139a7f6507f435976136c6" ,ANTV HD
-http://116.254.115.130:9981/stream/channelid/1960413108?ticket=D32259611B4EB50D1EADD53B028414BBE20E304B&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_arirang_big.png" tvg-id="0ecd157186155503834b134496010c3c" ,Arirang
-http://116.254.115.130:9981/stream/channelid/1897254158?ticket=C39A5307F33508F96EE9A8E06D21EB5C2AFA0A63&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtEZOrjSLJ3IyHbBj8ruDDm8Wqo1Zjqq3UPg&usqp=CAU" tvg-id="b7c54e7b71b818f378f6c8d356a509c9" ,Arirang
-http://116.254.115.130:9981/stream/channelid/2068759991?ticket=37286AA43F0FDCED68891D858E4568A53C28905C&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq7sa6moafNBVKrwbrEPGBDlNv1pjnOVmrjQ&usqp=CAU" tvg-id="db8778ce8badb34d16386346e2199c47" ,Arirang Radio
-http://116.254.115.130:9981/stream/channelid/1316521947?ticket=622716D70F860941A0645A971EA3A07D985E142D&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_afc_small.png" tvg-id="c56f1af69a8c0bcbc43c57c78533a231" ,Asian Food Network
-http://116.254.115.130:9981/stream/channelid/1981444037?ticket=9CB1B03E9D1C54D5FF157FAB6A5E75AD771D07FA&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" tvg-id="84d2ad6d7fd76eb88f7de6ec85fcf4c4" ,Astro Aura
-http://116.254.115.130:9981/stream/channelid/1840108164?ticket=649AF614C0899D1DF4379E60E53124F3BE452F0A&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" tvg-id="db4205ad9f6dae70b524e764133311a7" ,Astro Awani
-http://116.254.115.130:9981/stream/channelid/755319515?ticket=7932230EF0E240D6A226A8157FD8DE3AD662977A&profile=pass
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" tvg-id="7db0efc72fc8d6f0517d0445224a8e17" ,Astro Ceria
-http://116.254.115.130:9981/stream/channelid/1206890621?ticket=9E4C31D487D54F6F94B0191B7F3CC3240FB255E5&profile=pass
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" tvg-id="14b8d9b81dbcbe9c884177682374f31b" ,Astro Prima
-http://116.254.115.130:9981/stream/channelid/953792532?ticket=EE34436FE12CF16CA3D21C0A8DA37A77B074C12B&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" tvg-id="778afc381f61a6bf50555a0a674e422c" ,Astro Rania
-http://116.254.115.130:9981/stream/channelid/956074615?ticket=7138D7260D0B2F6363E396E2CE3029D9FB9BD3BA&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ExbL2Tz9h5n51eOWlmUbABJOUCoqAAbz8A&usqp=CAU" tvg-id="fe7425c6144e84ab824159bce45faba5" ,Astro Warna
-http://116.254.115.130:9981/stream/channelid/1176859902?ticket=C9362D5F457BB56955382AF38581DDF7F8DECAC1&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/55/ATV_Malang.png/200px-ATV_Malang.png" tvg-id="2ad3224bd031de079856b4a4a1aafa9f" ,ATV
-http://116.254.115.130:9981/stream/channelid/1260573482?ticket=BCC8D4EBB931512C7FA2FA7B91A6B0548AEEEEF3&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_atv_small.png" tvg-id="b88301dcf1931aa0228e240a5f6077fa" ,ATV
-http://116.254.115.130:9981/stream/channelid/1543603128?ticket=A185A29582E8B9681D6CBF5FC5EA1FE3D7F55F67&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_axn_big.png" tvg-id="ea89a7a6ba4899211541a180c75803ce" ,AXN
-http://116.254.115.130:9981/stream/channelid/648514026?ticket=3CFA088B5F5D490E99F08AA5E9D0A5EC47933EFF&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_axn_small.png" tvg-id="5f6bfebd2dc009a239d168e456dd51be" ,AXN
-http://116.254.115.130:9981/stream/channelid/1040083807?ticket=BED674A4F83961885CF7092937F87CB7DB23C8C5&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_axn_big.png" tvg-id="d8c3a35629f85d647bf3f8963e639a87" ,AXN HD
-http://116.254.115.130:9981/stream/channelid/1453573080?ticket=AA505F4CEEF03801C86CFD805475821E9E5642EB&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_balitv_small1.png" tvg-id="f5b9e9a11a8d3b29d0d723875d45a90b" ,Bali TV
-http://116.254.115.130:9981/stream/channelid/568965621?ticket=93B64248E474117A59A4E273EC2F384AFEE089AF&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_balitv_big1.png" tvg-id="33a6402cff72ba9268de64f4071060a9" ,Bali TV
-http://116.254.115.130:9981/stream/channelid/742434355?ticket=B8AF842979BECCEA6DA5F39B9E000F3F94CEE759&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png" tvg-id="c0f476909500b8e9e3f21e9c7595ec5e" ,Batu TV
-http://116.254.115.130:9981/stream/channelid/276231360?ticket=0E275FDBE06DC4A674FD2A19AA65B970AA85FF3D&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Logo_BBS_TV_2018.png/1200px-Logo_BBS_TV_2018.png" tvg-id="51fea18a45c3298eada1737a973dbfb3" ,BBS Buddhist Broadcasting
-http://116.254.115.130:9981/stream/channelid/178388561?ticket=C528470543193C20F3D78A3CC8DE366B6B8DF6E9&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" tvg-id="abcffa1f224c105925fa9ac6b3679c5c" ,BeIN Sport 1
-http://116.254.115.130:9981/stream/channelid/536530859?ticket=54AC63DABDB02A9FDE1BC0193E0BE58A1F739094&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" tvg-id="489334a291ceb62fdbb83323975d2e94" ,Bein Sport 1 HD
-http://116.254.115.130:9981/stream/channelid/573870920?ticket=80EB6AFE6CE6D51A097DD10E901D315C48BE805D&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" tvg-id="8d5837dc6e2db3226b17390272afd666" ,BeIN Sport 1 HD
-http://116.254.115.130:9981/stream/channelid/1547131021?ticket=5C6F6C90F1F98031B94CC136349D570959C779F5&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" tvg-id="ba5b9cb1fb8a26dbd7d82e460213cf2f" ,BeIN Sport 2
-http://116.254.115.130:9981/stream/channelid/832330682?ticket=53B7EB8F15A9383BADB8AC9E4DEBDFE7DD7920F1&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" tvg-id="26e82616266f03228295d89ab82e0aa4" ,BeIN Sport 2 HD
-http://116.254.115.130:9981/stream/channelid/371648550?ticket=85937D266F31111A6272E02FEA4B4E566D7F08C6&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" tvg-id="a0965c155a504c8e9a3be7a6bbe8d847" ,Bein Sport 3 HD
-http://116.254.115.130:9981/stream/channelid/358389408?ticket=7646219E2282CB53DAE1D63D2902061701E71951&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_bein1_small1.png" tvg-id="e23b5cad6661a38f5653b9382f976381" ,Bein Sports 1
-http://116.254.115.130:9981/stream/channelid/761019362?ticket=D3B0ACFB470AF35E2B586D139C6E210FD3F49E65&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_bein3_small1.png" tvg-id="cdaf058f8bb903b5d42d66bed1a59a00" ,Bein Sports 3
-http://116.254.115.130:9981/stream/channelid/252030925?ticket=9381CB9996DBCB27707112DD2E1540278799C811&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_beritasatu_small1.png" tvg-id="a655718590b761295a2f55686f9fddfb" ,Berita Satu
-http://116.254.115.130:9981/stream/channelid/91313574?ticket=CD69673D554BA2E49CA842EAA630D2D9CDFAEF04&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" tvg-id="c8c056a53f816f1faa23183b21688c5f" ,Berita Satu
-http://116.254.115.130:9981/stream/channelid/626442440?ticket=819C242807DE982623A8A25646C61CF022AD32C7&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_bioskopindonesia_small1.png" tvg-id="6e7c3b94f4df0347a60133a5a88a4338" ,Bioskop Indonesia
-http://116.254.115.130:9981/stream/channelid/339442798?ticket=12D072B6A8FD04FF35C717B2C3CDEAD8203C6166&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bioskopindonesia_big1.png" tvg-id="404ec2baff915aea139a8b20b46dd33a" ,Bioskop Indonesia
-http://116.254.115.130:9981/stream/channelid/985812544?ticket=55293159462E28892CACB2890ED4D4FE46B9A9C2&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bloomberg_big1.png" tvg-id="ffec6c055a7b228496ef8f04c05177a2" ,Bloomberg
-http://116.254.115.130:9981/stream/channelid/91024639?ticket=E957E6314E97E702105ACE2CA95585D388242C27&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_bloomberg_small1.png" tvg-id="688ff9bd8af6a9911c439bfb76b893a2" ,Bloomberg
-http://116.254.115.130:9981/stream/channelid/1039765352?ticket=408EEF826F8DB6BA48C2F559652C512DE16AD5CA&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-id="40c75110f715c0dcbb465c8af24f5fad" ,Bloomberg TV Asia
-http://116.254.115.130:9981/stream/channelid/273794880?ticket=4821F5C4A3045D796F9F868E48D4707BBF9C8C14&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/SfF0zWJ/blueant.png" tvg-id="b19a22c3819b2742bf936fa260c36d3f" ,Blue Ant Entertaiment
-http://116.254.115.130:9981/stream/channelid/1126341297?ticket=E287CB432D6010FFE5CDE33B31428B839F57FC5A&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" tvg-id="6bd7cfe3207f51fd0130c55008e9574c" ,Blue Ant Extreme
-http://116.254.115.130:9981/stream/channelid/1674565483?ticket=C53047E07CBFE4AFAC68CAAE2C2E66F7B19F7580&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" tvg-id="7d60bbeba105a11d9b589e1f14881693" ,Blue Ant Extreme HD
-http://116.254.115.130:9981/stream/channelid/1807442045?ticket=8E3ADEFABBC61F5E8BB46A283E9698610B67149F&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_boomerang_small.png" tvg-id="65fd81a0165809921c2ce0001ef7609f" ,Boomerang
-http://116.254.115.130:9981/stream/channelid/545389925?ticket=F1DEEA07537CDCC85387CA0707059AD814F0B421&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_boomerang_big.png" tvg-id="f193baa8d2e0093275e76e5eab6d5efc" ,Boomerang
-http://116.254.115.130:9981/stream/channelid/683316209?ticket=68E5E6900A3146C18761E135704C3FAB4EB2AEEC&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png" tvg-id="c932c21495d4e8bfa3e6d474aac35b70" ,BRTV
-http://116.254.115.130:9981/stream/channelid/348271305?ticket=E9A3E9C1D00CBAE6C6AAD81B51FAAA05F4A87313&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-pdKFWDdt1PlSPOUW_REf_1QFtlMiTLbmOw&usqp=CAU" tvg-id="731e6bf289c2904506110f09b298886a" ,BTN TV
-http://116.254.115.130:9981/stream/channelid/1919622771?ticket=B8978B3D5130FB92992992BDD4A1DA5FA4BC6210&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cartoonnetwork_big.png" tvg-id="f796c9943d90e3ac59e300865c15c510" ,Cartoon Network
-http://116.254.115.130:9981/stream/channelid/348755703?ticket=AA669B9A519B394D513A968CF3AE312DA78A7575&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_cartoonnetwork_small.png" tvg-id="8e8f6177c3fe98ff960ddf48aa38119c" ,Cartoon Network
-http://116.254.115.130:9981/stream/channelid/2002882446?ticket=E15BE491E06FC1272FCE6F6D554379B12C0A2368&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_cctv4_small1.png" tvg-id="6a8a6f8559647851226705051cb5fedc" ,CCTV4
-http://116.254.115.130:9981/stream/channelid/91196010?ticket=DDB7EEC5F06C773B0B6A8AACD33576F99C63AB64&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cctv4_big1.png" tvg-id="c43c660fdcea964f39e3044ea10b7a2b" ,CCTV4
-http://116.254.115.130:9981/stream/channelid/258358468?ticket=256802B847C39A22E4A24F0FB1AB66C8260E2F17&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/1YNbBjF/celectial.png" tvg-id="3ca39dd562eee3bf821eaab8470d3fe9" ,Celestial Movie
-http://116.254.115.130:9981/stream/channelid/1436394300?ticket=93A36C1703453E73257921A8458763DEFE71AB1D&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_celestialmovie_small.png" tvg-id="7e6b4ccdf7c8ff0d7b909f6f349b208f" ,Celestial Movies
-http://116.254.115.130:9981/stream/channelid/1296853886?ticket=E5B61C742BCB84372747B29FC746B7651FE69EB3&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_cgtndocumentary_small1.png" tvg-id="8e4d99dc62bdb4e218dba357452e788c" ,CGTN Documentary
-http://116.254.115.130:9981/stream/channelid/1553550734?ticket=D1F0A7CB09044EB841708CF4DB301088BCDC4809&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cgtndocumentary_big1.png" tvg-id="54186cff06c1abdf5e75bf6135e53f10" ,CGTN Documentary
-http://116.254.115.130:9981/stream/channelid/2137790548?ticket=C3D101D43D3C9866371C4AF77ED7FA84E6ED100C&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cgtndocumentary_big1.png" tvg-id="6248541bcf8e32dfc5c600937b3864cb" ,CGTN Documentary HD
-http://116.254.115.130:9981/stream/channelid/458508386?ticket=729DCDAB42B78F887199F59852DDF39AE2C4DF01&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bdgNQV0/vchannel.png" tvg-id="85789280962ca7297db0fdc6baf7b1b7" ,Channel [V] HD
-http://116.254.115.130:9981/stream/channelid/9599109?ticket=ACEF47240BE30A4F98BEA5ADC531580FD2265C2F&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_newsasia_big1.png" tvg-id="51f7bb24ea328156e135155b48926f38" ,Channel News Asia HD
-http://116.254.115.130:9981/stream/channelid/616298321?ticket=6A422E7F02211D67DC920C876D184F121148DB1C&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png?v=2.0.0.13" tvg-id="08a133e511d35928aa9feac51d4e07cc" ,Chinese Drama
-http://116.254.115.130:9981/stream/channelid/1697882376?ticket=5C943E017E8B9559B7132F7A56D4E4DF027DB88B&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_chinesedrama_small.png" tvg-id="4cf06566e3faf99f5cb2ba1433284ac4" ,Chinese Drama
-http://116.254.115.130:9981/stream/channelid/1717956684?ticket=4007B75A72DAF580214FE42448C23F784A8C7078&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/crZnYpb/cinemaworld.png" tvg-id="19dfb8bac5d4cc708bf27e7ae86cb09a" ,CINEMA WORLD
-http://116.254.115.130:9981/stream/channelid/985194265?ticket=0D50D6F0ECC23F6235114B071B8CD5333C80EDB1&profile=pass
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/vi/wiki/CinemaWorld?file=CinemaWorld_Our_World_of_Films.png" tvg-id="1437e875e73f983ba7f19c7ba4e56768" ,Cinema World
-http://116.254.115.130:9981/stream/channelid/1978152724?ticket=B3D345C39C85A7327984EBE921EFE517E62FD94B&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/crZnYpb/cinemaworld.png" tvg-id="b2c0a4b00329e99d3a1e5906ba82f12c" ,Cinema World HD
-http://116.254.115.130:9981/stream/channelid/816103602?ticket=6ACDE158ADF96E2C7F2A8A12876B0E2A977F8018&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/crZnYpb/cinemaworld.png" tvg-id="0add26bde7382ab9d3bc4d09a30d95c0" ,Cinema World HD
-http://116.254.115.130:9981/stream/channelid/1025957130?ticket=B1723B30C8651847061AA22332663D24E671EAC6&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" tvg-id="a131a1fdac1731b9fa298f57e38f8392" ,Cinemax
-http://116.254.115.130:9981/stream/channelid/2107716001?ticket=B13A9B72A27B6867652A4494E81890386BD2C56B&profile=pass
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg" tvg-id="1c55326a1fc62cf9e469df313a02a2ef" ,Cinemax Asia
-http://116.254.115.130:9981/stream/channelid/1781683484?ticket=815C191F9E685A058F0E1F0B0E88D1AD976EEC5D&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" tvg-id="1633357284033c56978470788efd1e31" ,Cinemax HD
-http://116.254.115.130:9981/stream/channelid/1916089110?ticket=18AB436E8D6BC63A599B1735649C214CA3C9A0DC&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_citradangdut_small.png" tvg-id="9aaccf76355c84c3d6aba7c0292fa9df" ,Citra Dangdut
-http://116.254.115.130:9981/stream/channelid/1993321626?ticket=CFC19F7877701059B07F4BB05CFF9B8FFCD9437E&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_citradrama_big.png" tvg-id="1e0bbd302fd5f17fe1538fa10e5e7ac1" ,Citra Drama
-http://116.254.115.130:9981/stream/channelid/817695518?ticket=E857FEC2A04C29B27264EE1DACB1FAC4A4E37CD3&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_citradrama_small.png" tvg-id="e3d2a4628424a839ac4de2d64c05ef2e" ,Citra Drama
-http://116.254.115.130:9981/stream/channelid/1654969059?ticket=22AC78B5E18FC9C1D5D4BCEE57FC809E0BB37C0A&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_newsasia_big1.png" tvg-id="90a1250bae9dbc446e628db9fde50488" ,CNA
-http://116.254.115.130:9981/stream/channelid/187015568?ticket=3764A0A9CE6FA20F05D3F7F13B47AF47BE11F1CD&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_cnbcasias_small.png" tvg-id="ff64e7615f132322eb9692e1a8d6a94b" ,CNBC Asia
-http://116.254.115.130:9981/stream/channelid/1642554623?ticket=F1809C0036BFC819D0B4C8C167DB85A9012CD655&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" tvg-id="3c949ca1799afb387cbfc94e566c9f1a" ,CNBC Indonesia
-http://116.254.115.130:9981/stream/channelid/563909692?ticket=885D334D3A84CE83A1DF3F3B0C58A4067E372EEB&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_cnbcid_small.png" tvg-id="deb8b4e9e3d9563f91e458e42441f69d" ,CNBC Indonesia
-http://116.254.115.130:9981/stream/channelid/1773451486?ticket=4B950C8A541E2E9010731E1991948D67C5009287&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" tvg-id="2f85690e6f752838d5f05b3225b07173" ,CNBC Indonesia HD
-http://116.254.115.130:9981/stream/channelid/241796399?ticket=9403F88C98D08A77E990612F2948CBC77C86CDA1&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxf4HrV/cnn.png" tvg-id="378045fd375744f1bdca24bd9d5f07c2" ,CNN HD
-http://116.254.115.130:9981/stream/channelid/2101706807?ticket=AC09E63895411990C4BCFC6833D41FBCA9BB2E5C&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_cnnindonesia_small1.png" tvg-id="92513192a8a0e3c4fdca67c82943b297" ,CNN Indonesia
-http://116.254.115.130:9981/stream/channelid/305222034?ticket=49B2CD39624C54851B71DBDF0FDC670CF2C3B8A5&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" tvg-id="796a943226533a4ae7e294ae20fef892" ,CNN Indonesia
-http://116.254.115.130:9981/stream/channelid/848587385?ticket=F66EF028BEB1CE2BC72DBA293F4F40852C57C1F8&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" tvg-id="ccc5c76dd5174ed5819351e58767244e" ,CNN Indonesia
-http://116.254.115.130:9981/stream/channelid/1841808844?ticket=92A3BCB6C39C601AF5964CCA7D72E051E3CEB763&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" tvg-id="3314f6378c6b95e047c77ab3714041c1" ,CNN Indonesia HD
-http://116.254.115.130:9981/stream/channelid/938873907?ticket=DA173DF392DB0BF73BA749EAF3C99DB088F11C1F&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" tvg-id="f995cdd972268c617d8af81b5902820d" ,CNN Indonesia HD
-http://116.254.115.130:9981/stream/channelid/1506645497?ticket=BCD37CC6D179CBFE56F8EB2B4A1346B1E81AF6AF&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_cnninternational_small.png" tvg-id="e0e8eb06f60f4aa0557bea523d4286b7" ,CNN International
-http://116.254.115.130:9981/stream/channelid/116123872?ticket=2E7D35115CE56A3A7E69969DC117681F484E89D7&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/JnVd6cG/crimeinvestigation.png" tvg-id="d8d85b491169908fc2010b527ecf43cb" ,Crime & Investigation
-http://116.254.115.130:9981/stream/channelid/1230756056?ticket=535A22DA11A6002B4D13657C3DC3E05414CE5061&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_crimeinvestigation_small.png" tvg-id="ac91f35224b151905f31d7e1f87fc9a1" ,Crime Investigation
-http://116.254.115.130:9981/stream/channelid/1391694252?ticket=072D964BAED0F1F8F29B735B0DD5435C38FD9772&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" tvg-id="0677bc6aa70aa09373784b1f522a3b04" ,CTI Asia
-http://116.254.115.130:9981/stream/channelid/1790736134?ticket=5C7CC5DD8CB972E946BB001E1954797A4FD67C4C&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_ctiasia_small.png" tvg-id="27fedef1a9ea310f9c6503b5f9c57686" ,CTI Asia
-http://116.254.115.130:9981/stream/channelid/1910439463?ticket=39FFE0AED02DA3656013A100C3EEAD2CC5EDA0DB&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ctstv.svg/1200px-Ctstv.svg.png" tvg-id="1a64a5e5e8c9a1e8ad424b0b26ae5f8d" ,CTS TV
-http://116.254.115.130:9981/stream/channelid/1705337882?ticket=35FEDAEA35BB84C49DC6F152ABBB5EDAB271C42F&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_davinci_small1.png" tvg-id="e158920dae8eecfc7e1e07e2a9fdbc2c" ,Da Vinci Learning
-http://116.254.115.130:9981/stream/channelid/227694817?ticket=E638B60783FB13518ED1FBA3EE2CC5E3B7FC5CBF&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_davinci_big1.png" tvg-id="7a10765404a2a49902181b0529e73f6c" ,Da Vinci Learning
-http://116.254.115.130:9981/stream/channelid/1417023610?ticket=1CB62CB0B1AFA626F9B38B67684EEA55DBCF353A&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_daaitv_big1.png" tvg-id="e3c05adc42c25061fca5ce60c1d3c2a6" ,Daai TV
-http://116.254.115.130:9981/stream/channelid/1549451491?ticket=FFE3F38D31F60D5A8A58B1428E694F20BCA30DCC&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_daaitv_small1.png" tvg-id="cf0ffd711498bff69a879d8d92fdbbad" ,Daai TV
-http://116.254.115.130:9981/stream/channelid/1912410063?ticket=26B2B9C5B0D29144717263421BDADA7C64238EAC&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GyxXMDv.png" tvg-id="9f2c49a1645c32ccab65cc347a0493d7" ,DeepHouse District
-http://116.254.115.130:9981/stream/channelid/558443679?ticket=D114217573EB18EB48AC7EBA0CE7CB67D72FC3F3&profile=pass
-#EXTINF:-1 tvg-id="2a610ee81907b11a95986925f21c3c88" ,Dens Food Channel
-http://116.254.115.130:9981/stream/channelid/1745772842?ticket=8F210D1A8D143A71CE0AB4DFC002A905210CE078&profile=pass
-#EXTINF:-1 tvg-id="726845561a24063a4d0fad4ed84442ff" ,Dens Knowledge and Learning
-http://116.254.115.130:9981/stream/channelid/1447389298?ticket=670A6DF0982BA364CB80C6469C448EA03354EE65&profile=pass
-#EXTINF:-1 tvg-id="6f98d0b2a821195f15ec748d03e1c9e8" ,Dens Life Style
-http://116.254.115.130:9981/stream/channelid/852531311?ticket=036FB6914E34F6D944DCCC53602A17B9C517EECA&profile=pass
-#EXTINF:-1 tvg-id="81547fe6f343744caee75122e1d35429" ,Dens Play
-http://116.254.115.130:9981/stream/channelid/1719620737?ticket=9FFC67EF06494F55EB683C88D12118D9F8EC98E8&profile=pass
-#EXTINF:-1 tvg-id="4be97bb446e0779cf10a078ebcd95f3c" ,Dens ShowBiz
-http://116.254.115.130:9981/stream/channelid/880535883?ticket=D7092C383F625B5225D53C55C2B8E394604F233F&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TISRYvq.png" tvg-id="95e58d8976b65a6ffa2f2a64b97ad177" ,DigiOne
-http://116.254.115.130:9981/stream/channelid/160294293?ticket=10B4B11E2F1EAD3162F14829B64A1F6B1AE61B1F&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_discovery_small.png" tvg-id="4fd1e6e2078ed9c087ab7c1032af1e40" ,Discovery Channel
-http://116.254.115.130:9981/stream/channelid/1659294031?ticket=EEA73DAC5E0887E81A137760751866F3A433F2D1&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/HT1tRCH/disneychannel.png" tvg-id="af27104317a1cc312fc9da876fa38d88" ,Disney Channel
-http://116.254.115.130:9981/stream/channelid/1125132207?ticket=9C25EFF58A141576B040A9BCAAA8949B70A3B2A5&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/vBtnK3c/disneyjunior.png" tvg-id="f2cfa6928bc09ed764fde6404650f7a5" ,Disney Junior
-http://116.254.115.130:9981/stream/channelid/312922098?ticket=2A10D4503782DF18A90230707AA8978CE0A088B8&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" tvg-id="bf6997cd885587078c88af2ff2fc7e20" ,Dreamwork
-http://116.254.115.130:9981/stream/channelid/1301768639?ticket=6DA7BCDDD3E2129F054C99D87CF6A43263AC91F0&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" tvg-id="84ed4f2360772bbae48c759c9a466954" ,DreamWork HD
-http://116.254.115.130:9981/stream/channelid/592440708?ticket=58B7454055A4B7FD4145EA1FF4DA5AE2984D1169&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" tvg-id="52e586fd59132e7d9ff944795e18d753" ,DreamWork HD
-http://116.254.115.130:9981/stream/channelid/2105992530?ticket=AC9598FB9EB3E1D382B21427B6D507978A7BC795&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_dreamworks_small1.png" tvg-id="4facffa5411ed70022f345b38bdc95cb" ,Dreamworks
-http://116.254.115.130:9981/stream/channelid/637512783?ticket=A3DA9231DC7778CFC8F60DA4712D71971D265764&profile=pass
-#EXTINF:-1 tvg-logo="https://ecomedia.co.id/wp-content/uploads/2020/08/DRTV-Corp-Ecommerce.jpg" tvg-id="6d91c29328cf1ba551fbd39d0023b1ec" ,DRTV Corp
-http://116.254.115.130:9981/stream/channelid/331518317?ticket=7B6865DDCE50A00B2409798EA7D269D169AED9EA&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1QNwM6d/DUBAI-SPORTS-2.png" tvg-id="6efd1b37192b69c6ccce79addc7ef5fc" ,Dubai Sports 2
-http://116.254.115.130:9981/stream/channelid/924581230?ticket=3754B6DE53D4841F0C0DD3C646968B1E13A687B2&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpYMDsCS/DUBAI-SPORTS-3.png" tvg-id="8492e915a2bc1e1ada790a316ce17586" ,Dubai Sports 3
-http://116.254.115.130:9981/stream/channelid/367628932?ticket=FC3122EFF62F042C4343721987D6362DB5F80688&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_duniaanak_small1.png" tvg-id="6ac0a880fe4dbb7f557a08ff4ab07608" ,Dunia anak
-http://116.254.115.130:9981/stream/channelid/11059306?ticket=AEB8DCB0283E96ADAA1F413751CC8B524E17978D&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_duniaanak_big1.png" tvg-id="e14b025f0618f574d8494827e788c68e" ,Dunia Anak
-http://116.254.115.130:9981/stream/channelid/1593986017?ticket=87BADE8A8B1EB35199996961B2D6EBC81F5687C2&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dunialain_big.png" tvg-id="2be3b1c41930940fab675664640dcde0" ,Dunia Lain
-http://116.254.115.130:9981/stream/channelid/1152508715?ticket=215BDFAECAB80F39F94EB5708FEBFE9D5D586823&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_dwtv_small.png" tvg-id="7672c467d0c6b9668b2130db7df7d502" ,DW (English)
-http://116.254.115.130:9981/stream/channelid/1740927606?ticket=62D8898C3875BF5E163B1820530CE21E72F30C01&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dwtv_big.png" tvg-id="ac7c41069438006047b1ca43b1d736ea" ,DW HD
-http://116.254.115.130:9981/stream/channelid/104955052?ticket=F5C5394EAF6738ED1EBCED1852785118EB974AFC&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dwtv_big.png" tvg-id="5777b7e028957bd33dc2d5bafb04a1ef" ,DW TV
-http://116.254.115.130:9981/stream/channelid/1622636375?ticket=0794293B16C5556533676B9874C48C19AB1D3548&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_eatgo_big1.png" tvg-id="4c0ce3fddc146ed2d62ae1d26778dabf" ,Eat & Go
-http://116.254.115.130:9981/stream/channelid/2112031820?ticket=B27965BFBEDD34B16620B4C8A4DE64475C02E6C4&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_eatgo_small1.png" tvg-id="ec0eca0046c60c1f855def3941acf5bb" ,Eat N Go
-http://116.254.115.130:9981/stream/channelid/13242092?ticket=A1AB1E2A916A3DC0327BEEE4A46EBE755FE0C389&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ebcasia_small.png" tvg-id="6981e3a1f8e14e862b8fc06f357848dd" ,EBC Asia
-http://116.254.115.130:9981/stream/channelid/568557929?ticket=0F30C090752C0173119101886DEA988F682E71AE&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_ebcasia_small.png" tvg-id="928478636be5524559a03a1b4e4ab931" ,EBC Asia
-http://116.254.115.130:9981/stream/channelid/1668842642?ticket=607343CCBC5FBEEDADF5039D0D1D6FA426797FA7&profile=pass
-#EXTINF:-1 tvg-logo="https://m.ebs.co.kr/common/img/ebs_logo.png" tvg-id="cfc2dea8b0134e6f7ef3a83593b7bf66" ,EBS 1
-http://116.254.115.130:9981/stream/channelid/685687503?ticket=66D40F6F9206AB1CBD7D1B48845CCD042BA832A1&profile=pass
-#EXTINF:-1 tvg-logo="https://m.ebs.co.kr/common/img/ebs_logo.png" tvg-id="f6d079b4fb46f07383b6724eecb8a076" ,EBS 1
-http://116.254.115.130:9981/stream/channelid/880398582?ticket=3554EA1FB547F2594820F980B5DA03FB2D975A7D&profile=pass
-#EXTINF:-1 tvg-logo="https://m.ebs.co.kr/common/img/ebs_logo.png" tvg-id="a493e99a3ce62db3f42991e1e30653e6" ,EBS 2
-http://116.254.115.130:9981/stream/channelid/451515300?ticket=F2271CAEA5700759017E65E42168EAADC3867C3D&profile=pass
-#EXTINF:-1 tvg-logo="https://m.ebs.co.kr/common/img/ebs_logo.png" tvg-id="7035737d33c18bd26d8660e19b09917a" ,EBS e
-http://116.254.115.130:9981/stream/channelid/2104702320?ticket=9557DF177D2BC441F1CA10DD531439BB2D69F19C&profile=pass
-#EXTINF:-1 tvg-logo="https://m.ebs.co.kr/common/img/ebs_logo.png" tvg-id="5691f7e8b6caadbb6e727078da5b9e7c" ,EBS kids
-http://116.254.115.130:9981/stream/channelid/1761055062?ticket=BC71CCBFF78C1C130DED6A06E555E74C9308A1C1&profile=pass
-#EXTINF:-1 tvg-logo="https://m.ebs.co.kr/common/img/ebs_logo.png" tvg-id="8c571de926c1e8c296fd5de0a98eddd0" ,EBS+ 1
-http://116.254.115.130:9981/stream/channelid/1763530636?ticket=487F2CA47848D5847990BFDF9381DD1BFDA4FFE7&profile=pass
-#EXTINF:-1 tvg-logo="https://m.ebs.co.kr/common/img/ebs_logo.png" tvg-id="8c9c9cd7d5e8f6aef64bf9d9a36ef350" ,EBS+ 2
-http://116.254.115.130:9981/stream/channelid/1469881484?ticket=F0DAD01197446033A1A4AADA7DF9961765215801&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/Elshinta_tv_logo.jpg/200px-Elshinta_tv_logo.jpg" tvg-id="fcd546fe331bc78ac9bb1cac79ce76ed" ,Elshinta
-http://116.254.115.130:9981/stream/channelid/2118571516?ticket=451E89A89EDADD803FA84CB60E6BA76F4B942BFD&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_euronews_big1.png" tvg-id="b64b0faf0c438f795d7b8ee8ae01a4b5" ,Euronews
-http://116.254.115.130:9981/stream/channelid/789531574?ticket=BC9E921582A29F5D084E5CCF1F2511304FF0B59D&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_euronews_small1.png" tvg-id="57dc92ce94333543782bb9965cb95874" ,Euronews
-http://116.254.115.130:9981/stream/channelid/1318247511?ticket=72E865F573845A80A7D89D93FD6565C05104DACA&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashiontv_big1.png" tvg-id="f1d5dd0e50195778f130ce473444448c" ,Fashion TV
-http://116.254.115.130:9981/stream/channelid/249419249?ticket=704CF7A8AD316B1B8C969C982BC7324A1FF37867&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashiontv_big1.png" tvg-id="fe0745470f24cc06af62c2b4fa614d56" ,Fashion TV HD
-http://116.254.115.130:9981/stream/channelid/1195706366?ticket=B93823DEF8CE9A65204EA05D3EC9CC9B0574933C&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashiontv_big1.png" tvg-id="e4402c780b18d28c1585735d1a6a3628" ,Fashion TV HD
-http://116.254.115.130:9981/stream/channelid/2016166116?ticket=8B90C31E1A0161377229B29AA7D3B24E26BA741A&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_fashiontv_small1.png" tvg-id="2ddcbedb484e09b8a5568e574038a13e" ,FashionTV
-http://116.254.115.130:9981/stream/channelid/1539234861?ticket=A5F76088AD0DFE81054476D0622C6A9895720817&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" tvg-id="7d53c667efca3ac340910fcf17140d53" ,Fight Sport
-http://116.254.115.130:9981/stream/channelid/1741050749?ticket=BB1B6606DF4CF47091820463CFB850C93C7A35DE&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" tvg-id="dca6c70deb8884aebd09b7224ba912e2" ,Fight Sport HD
-http://116.254.115.130:9981/stream/channelid/231188188?ticket=393A7FECE895E7912B9C3FCD9016036445878FE2&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" tvg-id="9ddf78db037e4e475298f06855c354a4" ,Fight Sport HD
-http://116.254.115.130:9981/stream/channelid/1534648221?ticket=1479560744697C1642099023AC58DEA53A1823E3&profile=pass
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" tvg-id="4fae0a5be7e4a8f5a33fd78a60ad852a" ,Fight Sports
-http://116.254.115.130:9981/stream/channelid/1527426639?ticket=5FEB3E210E697044903AF4D7F161DFF2321E4CAF&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_flik_small1.png" tvg-id="a99c5886bb3004f721a5a416b98c9e22" ,Flik
-http://116.254.115.130:9981/stream/channelid/106470569?ticket=4E8847C0A247705D0AB0935054C3CDD8F34AC8B4&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_flik_small1.png" tvg-id="819743213e8ef205f973aec83f74336a" ,Flik
-http://116.254.115.130:9981/stream/channelid/558077825?ticket=DD2FB295C9BB6E353D7C9369D9997AE99DFF735B&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_flik_big1.png" tvg-id="eb9215a51e1b70445d50d2ae382be091" ,Flik
-http://116.254.115.130:9981/stream/channelid/622170859?ticket=618053F07F8E92D7AFE71E98FFF49E6AD38FFD63&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_flik_big1.png" tvg-id="2d1d20565728fa85537b8d73e024e4c4" ,Flik HD
-http://116.254.115.130:9981/stream/channelid/1444945197?ticket=5440DA04B448F85171B939039848BF78095A0382&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_formosa_small.png" tvg-id="59058a38c4e4495d9daf4c09cb135ecd" ,Formosa
-http://116.254.115.130:9981/stream/channelid/948569433?ticket=FC0284F0661FD72804B60B84BCFBDA966346604E&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_formosa_small.png" tvg-id="512017e07ed23a2d0b91e1c280436647" ,Formosa
-http://116.254.115.130:9981/stream/channelid/1612128337?ticket=9F7294CD74F35788FEA39E7E2496019297AF1070&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" tvg-id="72fa39360d49781b12366dbbfe262e78" ,Fox
-http://116.254.115.130:9981/stream/channelid/909769330?ticket=131FF9798677EF88A243C79AA3F4ED1669EC0476&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" tvg-id="4e363a52dfd65824161430ad45bc9c14" ,Fox Action Movie
-http://116.254.115.130:9981/stream/channelid/1379546702?ticket=1359B6DBFA122AB2B3448ECA8C6FE747FED1DC28&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" tvg-id="4a39d9f1f288c93ab8a9efd99d8e0a87" ,Fox Action Movie HD
-http://116.254.115.130:9981/stream/channelid/1910061386?ticket=853E33DC8F800DD0AA497230580562D503668C97&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" tvg-id="a3403a86cfda6c7c3a02361220fc1d32" ,Fox Crime
-http://116.254.115.130:9981/stream/channelid/104480931?ticket=1A1907AC7D1D1B7A97EEFAB0390DF48A81F68D54&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" tvg-id="a14a13100ca2e01b91b380b899cbe859" ,FOX Crime HD
-http://116.254.115.130:9981/stream/channelid/269699745?ticket=93BD95FBE3A1A40EF72D0494FF22098B6173B463&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" tvg-id="d83b7665cdbe2cab49a40d4f03151ea8" ,Fox Family HD
-http://116.254.115.130:9981/stream/channelid/1702247384?ticket=227174386C16BE820D233E39F9759DB1B05EE3D2&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" tvg-id="5ea46a49ace8d5a359c47ad1d89ca1e0" ,Fox Family Movie
-http://116.254.115.130:9981/stream/channelid/1231725662?ticket=AAD248B0A0F0875227C8D5FDEFC12B9F38A08BC5&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilyMoviess.png" tvg-id="f31bef8fcecd80de8cb285f3039aa812" ,Fox Family Movies HD
-http://116.254.115.130:9981/stream/channelid/267328499?ticket=B3FC6083CEA16E349FE9154A7808562049ED439B&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" tvg-id="bf1357f3d4e86652ab8984394b3b8c4a" ,FOX HD
-http://116.254.115.130:9981/stream/channelid/1935086527?ticket=98A9911CFD1A258788502F8C9571B3DBD20CDB4B&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" tvg-id="7e0dbf866b59e32164eb4f08f7a1eb95" ,FOX life
-http://116.254.115.130:9981/stream/channelid/113184126?ticket=9D1781B20554DF044F0AB6FE84EDA20142DF372A&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" tvg-id="21aac79deed8c5550765c17ea3005157" ,Fox life
-http://116.254.115.130:9981/stream/channelid/499624481?ticket=3F744A1E73EECDF2990958ABD00248EB54F7740D&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" tvg-id="7e502adf234b45fcc148a247716bfdfb" ,Fox Movie
-http://116.254.115.130:9981/stream/channelid/1596608638?ticket=2A10569DFE3AB400293E2F7201A747E3CA1635F5&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" tvg-id="f273f018e0539562a420dc5828227636" ,Fox Movie HD
-http://116.254.115.130:9981/stream/channelid/418411506?ticket=784C96F47498E4E377E03B8BA53DB5BDE6FD6836&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports2_big.png" tvg-id="9b98a77ece682499d2e3b74256c74315" ,FOX SPORT 2
-http://116.254.115.130:9981/stream/channelid/2124912795?ticket=6AB67E9C6244BCF0B2F3F44BE438B82D170829E7&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports3_big.png" tvg-id="37ce8c785a54cf79ab990f57cbb80990" ,FOX SPORT 3
-http://116.254.115.130:9981/stream/channelid/2022493751?ticket=C410953EC5DD97D034E29619EB1DCE7D6509BAD4&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports1_big.png" tvg-id="cb7cecf50df4d80b29d6a8cf75f61848" ,Fox Sports 1
-http://116.254.115.130:9981/stream/channelid/1978432715?ticket=9F45225FDE9D07E529395B2E94780987EAE88EB9&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports2_big.png" tvg-id="9a640d2e8cce60c42fe21336cfee421a" ,Fox Sports 2
-http://116.254.115.130:9981/stream/channelid/772629658?ticket=C00336EFC9E69D959BA18CCF255F8CE26F3CEC86&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports3_big.png" tvg-id="1299334d78934e70054848b7082099c5" ,Fox Sports 3
-http://116.254.115.130:9981/stream/channelid/1295227154?ticket=9AFF366994B05A0BCAEBCD07F4994332CF2AD86E&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports1_big.png" tvg-id="75669e37979973cffc1d6c07e5a338ba" ,FoxSport HD
-http://116.254.115.130:9981/stream/channelid/933127797?ticket=2E6590942E9172758A4B6FD661D9E5477901A3AE&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports1_big.png" tvg-id="a96e89f4e2555f3920910b503104016e" ,FoxSport HD
-http://116.254.115.130:9981/stream/channelid/1955163817?ticket=B8CE25D2507AF8201D778B744DC6BD7C8D379E5E&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_france24_small.png" tvg-id="4767a387134bf84777afd96a40d9e717" ,France 24
-http://116.254.115.130:9981/stream/channelid/128149319?ticket=1365BA2FAFC67C0CD2EC93D3048F17F489B59319&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_france24_big.png" tvg-id="cfbfdb2d1ac3666e76fb6e9704583f1c" ,France 24
-http://116.254.115.130:9981/stream/channelid/769376207?ticket=65189486A2C8812F4A5E2D65F480A9944BD0773B&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_france24_big.png" tvg-id="70f9c4b74ff4ea9f511bcf007016b748" ,France 24 HD
-http://116.254.115.130:9981/stream/channelid/935655792?ticket=B090B17372763C06E6C19567C9C58D914246CD38&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" tvg-id="845be53f570c427a9d03d67edcb97b48" ,Galaxy
-http://116.254.115.130:9981/stream/channelid/1071995780?ticket=D3CE564C9E7809C33AAC3395F29249B415DE9668&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_galaxy_small1.png" tvg-id="9e7def4acc1c4182571c794a472c6003" ,Galaxy
-http://116.254.115.130:9981/stream/channelid/1257209246?ticket=00F36BC722D0683A87B2FC9BB7BBC4FF1D987E2B&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" tvg-id="7ed9b2b4ad3f3ead571943c2c553e20d" ,GALAXY HD
-http://116.254.115.130:9981/stream/channelid/884136318?ticket=61075B1A7FEA438745CA800D456A2D5A1A366ADB&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_galaxypremium_small.png" tvg-id="340d46bc3ee86cdf46f4769b341a1704" ,Galaxy Premium
-http://116.254.115.130:9981/stream/channelid/1011223860?ticket=1D39E983C8F7085F7091DAEDC664E9DA53467BBB&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" tvg-id="3cfd7d5740636cfee069322cc910ee39" ,Galaxy Premium
-http://116.254.115.130:9981/stream/channelid/1467874620?ticket=043A40E5AB5110FD98E226E3FFF0049EC1D96888&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" tvg-id="97a3fa815d629c92c139eb851648b042" ,GALAXY PREMIUM HD
-http://116.254.115.130:9981/stream/channelid/33203095?ticket=8DB6102D1D118291AD0DA67C481D829CB330B0CF&profile=pass
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Garuda_TV_Logo.png" tvg-id="3ae6c95e07415c96bf89750a420216cb" ,Garuda TV
-http://116.254.115.130:9981/stream/channelid/1590289978?ticket=853B36D24E1C44B2B726E1DF4EDC7E260838D5B1&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHv187FOnW2VbLuYzslWcJZCLCKUZLbr49Q&usqp=CAU" tvg-id="e5bd952714a43a717bfa8a0e3c2f17cd" ,GCN24 Korean
-http://116.254.115.130:9981/stream/channelid/664124901?ticket=841A14195B8AC7C5A65D75A48F62DFB0A0F5D8FD&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_big1.png" tvg-id="f0a80a9fe10b7a35c54221c3a7561bed" ,GEM HD
-http://116.254.115.130:9981/stream/channelid/520792304?ticket=35ED063BF69D70F9019FCB73ABAE807324B7D5D6&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/assets/images/logo.png" tvg-id="22f50697246cc2ca7a07d004e9177831" ,GPR TV
-http://116.254.115.130:9981/stream/channelid/386331938?ticket=3A2C3E89E97030C8B29B169FF35727BF7092BC37&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsgBv2sRmLPuOmwjThQvvI5yYzuHcUoaNTsA&usqp=CAU" tvg-id="d8208c8d907c86a3c8c8f5c7aed911e8" ,GugakTV
-http://116.254.115.130:9981/stream/channelid/227287256?ticket=003B6A935BF3B71E09B3239709825F4961A648F7&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Channel_A_Logo_transparent.png" tvg-id="d7605007de097427104c550ef8c56cb9" ,Gugbang TV
-http://116.254.115.130:9981/stream/channelid/122708183?ticket=21B9CF9CC6B86FE995E0901BF3BB5948907123DF&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" tvg-id="8551a44d6eb995458261562a263b2c7b" ,HBO
-http://116.254.115.130:9981/stream/channelid/1302614405?ticket=9BDEC282E7755E39C34A505059022DBC9FEBC802&profile=pass
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png" tvg-id="1e56e36b07a0102f3aed2e6460001b05" ,HBO
-http://116.254.115.130:9981/stream/channelid/1810060830?ticket=546E5BA202AECC2037A92B3E8B9C48E5FC2B6922&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" tvg-id="5b4ddfb2318c31ffb91f12db76179ed9" ,HBO Family
-http://116.254.115.130:9981/stream/channelid/853495131?ticket=C7DBB952E4797432B79F0DF2C1623D286AB9A63B&profile=pass
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png" tvg-id="33dcf1e1297d64b8fce4d0801331a2fa" ,HBO Family
-http://116.254.115.130:9981/stream/channelid/1643240499?ticket=4430B42F62F5C884319827B5796FB896BE63EE4B&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" tvg-id="2f7b6b399dfe2e6532116485510c59d2" ,HBO Family HD
-http://116.254.115.130:9981/stream/channelid/963345199?ticket=AE40CFB639F27857AFECF064192FE8957832AAE9&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" tvg-id="22d01485df23ba105f96f7d6e2816855" ,HBO HD
-http://116.254.115.130:9981/stream/channelid/85250082?ticket=93F460A084EC47C27B34EB45FFCB8B8C664E1EC9&profile=pass
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png" tvg-id="5a20eea1dcfdcca4e8b79d19856f7e65" ,HBO Hits
-http://116.254.115.130:9981/stream/channelid/569253978?ticket=CDE05D987E4CA647C9EFC4D7E7E8382EB5B4B852&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" tvg-id="ccca88580cb5d3718d1efce4e9cd5211" ,HBO Hits
-http://116.254.115.130:9981/stream/channelid/1485359820?ticket=926CB428D5B360509502555661D51D869F1B4990&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" tvg-id="ac88bad12ff7a30537958399b1613742" ,HBO Hits HD
-http://116.254.115.130:9981/stream/channelid/1371179180?ticket=FE5BBD91DAAD6A51E79F52076451FAACF41E276A&profile=pass
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png" tvg-id="1b02243ccf552dca34070cc62982a503" ,HBO Signature
-http://116.254.115.130:9981/stream/channelid/1008992795?ticket=DF1A17CAA8DFB592347C1480887D0828F9CFF59A&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" tvg-id="f973b262918de8bcee5b2b80da2a399e" ,HBO Signature
-http://116.254.115.130:9981/stream/channelid/1655862265?ticket=E31DD72BAABF4CDFE36C48F92CC8C4796F63DD71&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" tvg-id="6a6f9e0fa1fad911990148dbb225deb9" ,HBO Signature HD
-http://116.254.115.130:9981/stream/channelid/262041450?ticket=BA3390E5FAE46D4DA53ECEC57180136B704CDAA0&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" tvg-id="3ae502c4207a8baafb33bdebceccd6ae" ,HGTV
-http://116.254.115.130:9981/stream/channelid/1141040442?ticket=8F38FF33B8D4D214B7047A27902C3663C0F401F4&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/0/05/20180807200030%21HGTV_logo.png" tvg-id="ea1c056f9c3da822258ab4a26daa5a28" ,HGTV
-http://116.254.115.130:9981/stream/channelid/1862606058?ticket=0EA6B44B1D910CC3F40D4D6A2738FFD3760E8CCA&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" tvg-id="09eb611ee0563071564aae9fb0eaba35" ,HGTV HD
-http://116.254.115.130:9981/stream/channelid/509733641?ticket=6DEFCAB7B4016E09D8B503CA0D94EFFCF577728D&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_history_small.png" tvg-id="39617d2e6bd8559e3f88556ef317b41a" ,History
-http://116.254.115.130:9981/stream/channelid/779968825?ticket=474363C5F7ADD40E9D31CBC1CE135071E305C459&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_history_big.png" tvg-id="ff3f7591c74730fd0a688a11902fefb3" ,History Channel
-http://116.254.115.130:9981/stream/channelid/292896767?ticket=BF261EEC534CBC074970C1DCD081A025D6327895&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_history_big.png" tvg-id="431ae59e9fc55fa95051e55c4e9ff684" ,History Channel HD
-http://116.254.115.130:9981/stream/channelid/518330947?ticket=55F23EBA60772ECB81E30C9065526BACF1E64E2E&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_new-hits_small.png" tvg-id="c1fb9e00efd02401f56c20f65b531432" ,Hits
-http://116.254.115.130:9981/stream/channelid/10419137?ticket=CDC03AE7090CA85C292C040FC99A9302C1446068&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_new-hitsmovie_small.png" tvg-id="27b039039e173db39cdf4b50eee58246" ,Hits Movies
-http://116.254.115.130:9981/stream/channelid/54112295?ticket=179289778850C3496D7350F2AE7F099F35DC5025&profile=pass
-#EXTINF:-1 tvg-logo="https://paganresearch.io/images/nowmoney.png" tvg-id="a612e4d6e129d907f915f10f71c33dd7" ,Hits Now
-http://116.254.115.130:9981/stream/channelid/1457787558?ticket=8B269A1C21A24594F2895E527026B411B5A7574E&profile=pass
-#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/grid/original/129500_pd-drama-terlibat-skandal-ini-penjelasan-pihak-mbc.jpg" tvg-id="104ee20fce8bfdd9f39944203859061a" ,Home & Shopping
-http://116.254.115.130:9981/stream/channelid/266489360?ticket=220F0D2DEDBC5FA5264CDE88B49F98D216C8146A&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tmKfKCs/hope.png" tvg-id="86ba6994e7a0f8b89617da8ae3593156" ,Hope
-http://116.254.115.130:9981/stream/channelid/342473350?ticket=1571C320F842301AC905F1C10C1277CF7ADBE41F&profile=pass
-#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586681002-.png" tvg-id="91858b4dcd3caa6f36b7256e113bbef9" ,Hope Channel
-http://116.254.115.130:9981/stream/channelid/1300989329?ticket=892B5526012990CC71DEFDDF19774D8638473FDB&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_horee_small.png" tvg-id="b73e7bb3a8b65dfd7176649647d85919" ,Horee
-http://116.254.115.130:9981/stream/channelid/863714999?ticket=205208DF7D07D9D9649A5BED37BD03D5025EA6AD&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_horee_big.png" tvg-id="01e8eb66813c5e2e1eb65c524b259893" ,Horee!
-http://116.254.115.130:9981/stream/channelid/1726736385?ticket=FC918015C48A8AA2AC6D5CB777BA05581DE76311&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-horizonsport_small.png" tvg-id="8779a66d5afbab17e3328e1c1e2603d1" ,Horizon Sports
-http://116.254.115.130:9981/stream/channelid/1839626631?ticket=6B91AF6A295285E15B9A8C6F6A34503684A6F1A8&profile=pass
-#EXTINF:-1 tvg-id="15a2ed207c1112d21a473f056f961db9" ,Http_indo/indo.m3u/{PMT:100}
-http://116.254.115.130:9981/stream/channelid/552444437?ticket=B69072C8EA94D66964A3A0E2FFAC0844B44BAC49&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DkvWWbE.png" tvg-id="bb8e2957e12d4e9e9cc05a93ebf25621" ,Hunt Channel
-http://116.254.115.130:9981/stream/channelid/1462341307?ticket=778A0B4044655B05644F53EA11D2D5E46B9F6461&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ikonser_small.png" tvg-id="1cc687fd61331983f8e69d9b90b823a7" ,i Konser
-http://116.254.115.130:9981/stream/channelid/2106050076?ticket=B59CD8E838D73133222FC1854CA61A0B4BF796DC&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_ikonser_small.png" tvg-id="bed13a311f62a1f9da7c66c9d0c8e6db" ,I-Konser
-http://116.254.115.130:9981/stream/channelid/825938366?ticket=49438FAF2BC50E9C76CBD085883A3FC90D1DD1A7&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_idx_small.png" tvg-id="6135c762ca6f5d97ab6e30007e621ac8" ,IDX
-http://116.254.115.130:9981/stream/channelid/1657222497?ticket=70061B5F74D40C8FDEA546FC4BCB9AF151F0D162&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_imc_small.png" tvg-id="23be2aa30874cdb92ab0d96bd702a485" ,IMC
-http://116.254.115.130:9981/stream/channelid/590003747?ticket=15C8C2944301A75891E144B80D8B430323D45C62&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_imc_big.png" tvg-id="c5e386f5654eca02b31d09e4069ab7a6" ,IMC
-http://116.254.115.130:9981/stream/channelid/1971774405?ticket=3F283D436643E1E619C8D2E02A4FEDF9ED4E8E5A&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_imc_big.png" tvg-id="0f8e8324ae735aaa7a29e88376fa16fe" ,IMC HD
-http://116.254.115.130:9981/stream/channelid/612601359?ticket=B77E3038F123906B67B899466B308E6F65FF86E3&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_indikids_small.png" tvg-id="309343bc2cf7d63632d1b510700b1296" ,Indi Kids
-http://116.254.115.130:9981/stream/channelid/1011061552?ticket=C2DB80FCEECDD735B80B226AE6A201A30B082C31&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_indonesiana_small.png" tvg-id="2d283c4c93c73a594af18f5d7815c42e" ,Indonesiana TV
-http://116.254.115.130:9981/stream/channelid/1279010861?ticket=59730529746D5EAE8F8D727B43D6969A17664F87&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" tvg-id="1012d398bbe15bec801154f39ab58d27" ,Indosiar
-http://116.254.115.130:9981/stream/channelid/416485904?ticket=2504F2CA79B873B2906510F12277E93C5EFB754D&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bbd13gLD/20230518-220005.png" tvg-id="3b93cb4b250205bbae090379e657451b" ,Indosiar
-http://116.254.115.130:9981/stream/channelid/1271632699?ticket=652298C8B552E394B2C5F4C9FE04D9C9370F9D68&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_indosiar_small1.png" tvg-id="7529ab64808bce8ea4048df19762db79" ,Indosiar
-http://116.254.115.130:9981/stream/channelid/1688938869?ticket=907B204E4859D6D9F023B072FCF1D816164D8162&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_inews_small.png" tvg-id="6a7cb1928ed32bbb6e1eeb07223c3c13" ,iNews
-http://116.254.115.130:9981/stream/channelid/313621610?ticket=5DE402C74AA6E9A509738B227B2BC5026F19EF84&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_insert_small1.png" tvg-id="2e92ed6a47a28d49fe2fd31fdb506f41" ,Insert
-http://116.254.115.130:9981/stream/channelid/1793954350?ticket=C88A862CE24F79455AA5F66E1380D19071A0012A&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BF5orkg.png" tvg-id="c265dc2471f346247fd593507304c26c" ,Inspira TV
-http://116.254.115.130:9981/stream/channelid/618423746?ticket=AED803BAC4CCDF4581AFDD4CC6F126179939CC04&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jaktv_big1.png" tvg-id="b0021044cdc7481fbc638054ae22d251" ,Jak TV
-http://116.254.115.130:9981/stream/channelid/1141899952?ticket=D7FB77F9CA599BD7531EA9180FD91523E1B3DED1&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_jaktv_small1.png" tvg-id="4847fe7f7e1844afe0aa3b4f27b36b6a" ,JakTV
-http://116.254.115.130:9981/stream/channelid/2147370824?ticket=D795B230CA054CD9B3628D94DA8E5D6EB5A107A0&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VEqQfTu.png" tvg-id="7c57e77952d1797806a06d9f82ccfe26" ,Jogja Istimewa TV
-http://116.254.115.130:9981/stream/channelid/2045204348?ticket=24AA8CA44CE8D4BB1837262BA655E7787E3A725C&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m9ezMUz.png" tvg-id="8c5caf277d2effc1ab77aa815a04cc9e" ,Jogja TV
-http://116.254.115.130:9981/stream/channelid/665803916?ticket=C43580001DB866DC6DD800B6B451457861C79CC1&profile=pass
-#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586678317-.png" tvg-id="c8bb7ee06d0b85d528a7a14fcc8147bd" ,Jowo
-http://116.254.115.130:9981/stream/channelid/1618918344?ticket=F6AA3DC35318450C84D740AC69C8A703C80357A0&profile=pass
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-jowo-id.png" tvg-id="fa30a4c71e44eb299c20ce8f2715b83f" ,Jowo Channel
-http://116.254.115.130:9981/stream/channelid/1201942778?ticket=C361687AA150B49A1021D8F4B2B11D86E5F5E0B4&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jtv_big1.png" tvg-id="1f71a6a4307dfe79a162d9b309c66513" ,JTV
-http://116.254.115.130:9981/stream/channelid/614887711?ticket=29D562BC97A9833A945CB85B899137ED36301E2C&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jtv_big1.png" tvg-id="a34c415929973dabef37a8c101a4d319" ,JTV Surabaya
-http://116.254.115.130:9981/stream/channelid/1497451683?ticket=9E690F9DBF04E0ABC93094706E8E7B8CC133F8BB&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kplus_big1.png" tvg-id="be2723aad757ac3621effb3abac3fbc1" ,K+
-http://116.254.115.130:9981/stream/channelid/706947006?ticket=028017D4A0E04347E08013EF2813DF3F8D1BB2FA&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wNh1Y3R/kbsworld.png" tvg-id="adbfe49b85022b618a6daa2585101e3e" ,KBS World
-http://116.254.115.130:9981/stream/channelid/467976109?ticket=D326A678A9CA8A6D8E6CDA8613AFC174243D206B&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_kbsworld_small.png" tvg-id="7c5e0a59033f3b0bc8b995db256c1be5" ,KBS World
-http://116.254.115.130:9981/stream/channelid/1493851772?ticket=4643EBD256FBD57B962375EA6F77CC41FAB02052&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wNh1Y3R/kbsworld.png" tvg-id="fe265899e58365ae39e2edb31db780f7" ,KBS World HD
-http://116.254.115.130:9981/stream/channelid/425207550?ticket=6C934B1883CFE20EF7A5102625CC1C09A77E1E08&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/KCTV_5_2020_Logo.svg/1200px-KCTV_5_2020_Logo.svg.png" tvg-id="08b833e66619d3b0e44cac987d167600" ,KCTV CH05
-http://116.254.115.130:9981/stream/channelid/1714665480?ticket=E1E1251BAF2B06C2429D39665500D38B326331E2&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_kix_small.png" tvg-id="b49a5c80a1ecb9f4032feda4afa21336" ,Kix
-http://116.254.115.130:9981/stream/channelid/6068916?ticket=322F372C278E18CB572EDC547ED2D4E957A57923&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kix_big.png" tvg-id="96bf9303622609c9e3ad968974bab788" ,KIX
-http://116.254.115.130:9981/stream/channelid/60014486?ticket=89979FAF89F59116E5FB44F736C754987F4BA749&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kix_big.png" tvg-id="62cfa83d851e0ff0621291eb12f65293" ,KIX HD
-http://116.254.115.130:9981/stream/channelid/1034473314?ticket=A300A0B05285031F4C5093D3CAAF3CBC552B0AFD&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_kompastv_small.png" tvg-id="c737ed4006f492e69e4747f6e1fdc33f" ,Kompas TV
-http://116.254.115.130:9981/stream/channelid/1089288135?ticket=CC3888C4A3FAD7BEB31558371A1EC623ACA09D0C&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" tvg-id="e9134f7a7c6d907c42d82f34c297b71e" ,Kompas TV
-http://116.254.115.130:9981/stream/channelid/2052002793?ticket=A74BE486E6A9825075102336D56D1362882C243E&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" tvg-id="1da2ca7df56661739c31d536c48d3666" ,Kompas TV
-http://116.254.115.130:9981/stream/channelid/2110431773?ticket=CF3718A600161A8E548A810FEA699F0EA4383B6E&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_kplus_small1.png" tvg-id="dfa9b2304d89c2d9c9906d2eeb3ad3c3" ,Kplus
-http://116.254.115.130:9981/stream/channelid/817015263?ticket=D635F53353B29A7E17D5A20FBCFA83C629082C73&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tLwBOtU.jpg" tvg-id="22b960fb821f04e1259343708e4f4bae" ,Krone Hit
-http://116.254.115.130:9981/stream/channelid/2069936418?ticket=21E78A4E8054DC2B1BF50ECADD869C557BA0A109&profile=pass
-#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-1141016517.png" tvg-id="8278d52ce061d6308bddfa4cff75ce28" ,Kungfu
-http://116.254.115.130:9981/stream/channelid/752187522?ticket=7AD3EFBF0A6432BDCB0B1B90D95288171B69CF22&profile=pass
-#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586675495-.png" tvg-id="8e7f76661d5e2a09405e44b8d8e52d93" ,Lejel Home Shoping Reguler
-http://116.254.115.130:9981/stream/channelid/1719041934?ticket=E694A77C2D211AC63F8CA4E61C81F298AAF6AA1B&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_lifetime_small.png" tvg-id="72fdc4267263f5564207f2d3a4186a8c" ,Lifetime
-http://116.254.115.130:9981/stream/channelid/650444146?ticket=C8F1A6F49CAA1412D32E02634F7B53A23F0018D6&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_lifetime_big.png" tvg-id="5bce96e5a5fbeb2f85e2abf3ff93f178" ,Lifetime
-http://116.254.115.130:9981/stream/channelid/1704382043?ticket=84C487BF817E486188E9B6E0C1B6FE2E8C74C068&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_lifetime_big.png" tvg-id="dafc71930b12b75cde50c50485a7e893" ,Lifetime HD
-http://116.254.115.130:9981/stream/channelid/326237402?ticket=E2FEA40B87A195596B049F3DA967C73ACB2CA1A0&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_lingua_small.png" tvg-id="9b2e96c28b1a126d0ee2e1c8ef614156" ,Lingua
-http://116.254.115.130:9981/stream/channelid/1117138587?ticket=B06A9614035F87F9CCEAE77692F39CCF8DB3C5E1&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" tvg-id="35a8b94df7663c85b3a084d8d1af0351" ,Lingua
-http://116.254.115.130:9981/stream/channelid/1304012853?ticket=6060DBFFEF076331483ACB96D83BBE0F74B76D2F&profile=pass
-#EXTINF:-1 tvg-logo="https://www.lottehomeshopping.com/resources/user/images/sub/ci_logo2.png" tvg-id="45e105c2bd3e210f4d41ca2389508732" ,Lotte Home Shopping
-http://116.254.115.130:9981/stream/channelid/1107681605?ticket=74F0290F89FADEECE4CCEF97F77314C77EE703CB&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_mshop_small.png" tvg-id="17c2c4264ae11e260543d6f21d2612ac" ,M Shop Signature
-http://116.254.115.130:9981/stream/channelid/650428951?ticket=3FAE38ABC30F06B5D1BB64D474B5974B61EBAD7D&profile=pass
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/22ac9468582045.Y3JvcCwyMzAxLDE4MDAsMTQ4LDA.jpg" tvg-id="294dc51ee914dcead12ae50cff406544" ,MADINAH
-http://116.254.115.130:9981/stream/channelid/516246825?ticket=909A33E2D48084B44DBC02D75AED9D42B8DAC163&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tfJo0SO.png" tvg-id="a3eae6571289834c8d1099c21c19d5c9" ,Magna Channel
-http://116.254.115.130:9981/stream/channelid/1474751139?ticket=37B78ABE78E4EF987CCA794FEA090C8E8C6FA910&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" tvg-id="d9a45386318b5d24e149b45a5590ec42" ,MAKKAH
-http://116.254.115.130:9981/stream/channelid/106144985?ticket=E1FC7552DE979358F74A04675972972C969716E3&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eU4aqWy.png" tvg-id="c0fd51db46762c4d7da4551d4a59f6e4" ,Max2U
-http://116.254.115.130:9981/stream/channelid/1532100032?ticket=9F81DE693808409162440BF8E079448B14DE9869&profile=pass
-#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/grid/original/129500_pd-drama-terlibat-skandal-ini-penjelasan-pihak-mbc.jpg" tvg-id="2097a69b192f16d8de99168418e6ac44" ,MBC
-http://116.254.115.130:9981/stream/channelid/463902496?ticket=940182F9EFED8FC5F84AC61576F33252C3CA0E23&profile=pass
-#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/grid/original/129500_pd-drama-terlibat-skandal-ini-penjelasan-pihak-mbc.jpg" tvg-id="855c2038b1a5390ea85620001ea5acee" ,MBC Andong
-http://116.254.115.130:9981/stream/channelid/941644933?ticket=ACA67F9BF01C97ECC377A30F1B94BD618D07D028&profile=pass
-#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/grid/original/129500_pd-drama-terlibat-skandal-ini-penjelasan-pihak-mbc.jpg" tvg-id="3e6419f4c2ed74a1428098b5ea92aef9" ,MBC Busan
-http://116.254.115.130:9981/stream/channelid/1947821118?ticket=596F1F721A585ED4B5CB0C15365B39C68AB82A59&profile=pass
-#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/grid/original/129500_pd-drama-terlibat-skandal-ini-penjelasan-pihak-mbc.jpg" tvg-id="348c868c9e6f899ed3b4c1453797438b" ,MBC Chungbuk
-http://116.254.115.130:9981/stream/channelid/210144308?ticket=AEFCB5508B7F53EE12B20C7A94C536EB361D981D&profile=pass
-#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/grid/original/129500_pd-drama-terlibat-skandal-ini-penjelasan-pihak-mbc.jpg" tvg-id="ecbc96af232d16a4bc06c8dcfed8811b" ,MBC Ulsan
-http://116.254.115.130:9981/stream/channelid/798407916?ticket=5CE4CBEFA6B446A0C224F23A45CF5F4C370709C6&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_mentaritv_small.png" tvg-id="f0fff49b3956808ab32bb23fdfb9b5f7" ,Mentari TV
-http://116.254.115.130:9981/stream/channelid/469041136?ticket=32D0105E1DDC8C15888D6C2D1D4C8194EAF23559&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" tvg-id="858aad130b1982fda07f123e45bee3da" ,Metro TV
-http://116.254.115.130:9981/stream/channelid/330140293?ticket=19FD87436C551E9FDD42F96C335D0303D786A7DD&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_metrotv_small1.png" tvg-id="03346e15894da2321063e2408e300f6e" ,Metro TV
-http://116.254.115.130:9981/stream/channelid/359543811?ticket=61B4D474D3E04DCBEDE3190ED44644AEE74E13A0&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" tvg-id="639c24ab6cef45465650a42c074183a4" ,Metro TV
-http://116.254.115.130:9981/stream/channelid/723819619?ticket=19956E4046A8B16D3A832002EE1356A4B6622C92&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" tvg-id="3fb2749eb2dd17f514b727b74c9de605" ,METRO TV HD
-http://116.254.115.130:9981/stream/channelid/510964287?ticket=3570AA537E15D3FD09A8592F33CBDEA3617E7F2D&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" tvg-id="3f4f3fd68fdc441a399083054a432988" ,METRO TV HD
-http://116.254.115.130:9981/stream/channelid/1446989631?ticket=E874D97FBD7272408741CCF1053C9E9490BAB14D&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_mncnews_small.png" tvg-id="9a24d8df98518ca80bc7c724de41cf5a" ,MNC News
-http://116.254.115.130:9981/stream/channelid/1608000666?ticket=76FDA25908A8D3E195184EE0DDF19140D6AC5D9E&profile=pass
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" tvg-id="2f590d7ff134fbb99b83b0b01477ff53" ,MNCTV
-http://116.254.115.130:9981/stream/channelid/2131581231?ticket=4B2A08741C40AAF98D8C696FD50359C3B2E3F483&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Heimi-7/usee_logo/main/Usee_Logo/logo_moji_big.png" tvg-id="88548323bbff21e24ceb350100175b42" ,Moji
-http://116.254.115.130:9981/stream/channelid/595809416?ticket=8514B54474F49F089DCF4A2125F32EA2F1F38D1F&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_ocha_small.png" tvg-id="e609e3216656adf9e272654707f3de0f" ,Moji HD
-http://116.254.115.130:9981/stream/channelid/568527334?ticket=42B1973C6FC4A032CB4729FEF307E3B65511E847&profile=pass
-#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/spain/MOLAHITS_TV.png" tvg-id="ebc51556c4c3f573d4f8ceac0b689141" ,MOLA Hits
-http://116.254.115.130:9981/stream/channelid/1444267499?ticket=A100736373437F6CFD1D5999D241A4782DF3E8C8&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_spacetoonplus_big1.png" tvg-id="308184d2c50c112f4ac8b96d315e37c1" ,MoonBugs Kid
-http://116.254.115.130:9981/stream/channelid/1384415536?ticket=F2C75A10CD3FB0DFA77AC901121B051AE6DC2D34&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_mqtv_big1.png" tvg-id="9f769fab20d1eff5ea61080ceb7bb56e" ,MQTV
-http://116.254.115.130:9981/stream/channelid/731870879?ticket=A2C085EB41B84F85855BB9BFEA448E8E6B96B854&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_mqtv_small1.png" tvg-id="4c5da07d2d1186a475eaa6beb2d5aac7" ,MQTV
-http://116.254.115.130:9981/stream/channelid/2107661644?ticket=7685C5F2BC55329359FF9004E9D1F26B1DA780ED&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_mtatv_big1.png" tvg-id="3ce2c521cb1c70d950aa12d03c86008f" ,MT@ TV
-http://116.254.115.130:9981/stream/channelid/566616636?ticket=32D7E19195F49C96B9EED6A65A613DDA4A215E8C&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_mtatv_small1.png" tvg-id="1925086cb5a8cda5b3073eaf90e35aa7" ,MTATV
-http://116.254.115.130:9981/stream/channelid/1812473113?ticket=BEBCC7DBF673703442C048D50CFD6AAECD27C941&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzFbz8H40YEd7Zy18GQ8nFmoCwdogjMTZ9VQ&usqp=CAU" tvg-id="5def5beabdc196a95dd065e66b00ce95" ,MTN
-http://116.254.115.130:9981/stream/channelid/1784409949?ticket=64CF0FE1EB37B399338A0EBBDA1DFF74584FA446&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_mtvlive_small.png" tvg-id="6c51bf3e409f40d3c67a924b01413626" ,MTV Live
-http://116.254.115.130:9981/stream/channelid/1052725612?ticket=19488FFA4377748F6241562070CB443C089BAFB5&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/SRn7G0r/mtvlive.png" tvg-id="0907980a5524df90841ed0678dfe2b5a" ,MTV Live HD
-http://116.254.115.130:9981/stream/channelid/177735433?ticket=C6D6E00DAA79B6857F0AB3D8887514A73268317A&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_muhammadiyahtv_small1.png" tvg-id="c4deb094c0233b30e08ce43fac15872f" ,Muhammadiyah TV
-http://116.254.115.130:9981/stream/channelid/347135684?ticket=7ED46C1E5EEAA0694D191EB9D0A435F48DD4C8F6&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_tvmui_small.png" tvg-id="3fa0b7eefd3c4d62084dd5ed0012d7d8" ,MUI TV
-http://116.254.115.130:9981/stream/channelid/1857527871?ticket=9A5FA7D997A0F8C4657DE1E29666604BC82DCF78&profile=pass
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.2033856469_MusicTop(2020).png.46e944f5e47c956b015143efd5bc5723.png" tvg-id="7e38fb921111ce5517d5c2913ed9cc71" ,MUSIC TOP HD
-http://116.254.115.130:9981/stream/channelid/318453886?ticket=2B33DAD6ECF49BC4B715240A1CB30A81AC02AF6D&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_musikindo_small.png" tvg-id="125b4f7e1142c861f00b6352d35429d0" ,Musik Indonesia
-http://116.254.115.130:9981/stream/channelid/2119129874?ticket=0D9E1371EDC3C635EE6A48474D11D1925C61F48B&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_new-mycinema_small.png" tvg-id="0d5fb57dcc60619ab6fe1fd52e614f43" ,My Cinema
-http://116.254.115.130:9981/stream/channelid/2109038349?ticket=C76B1324E470E5DB9399851C483EE1541A0CD040&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_new-mycinemaasia_small.png" tvg-id="f5c9ad7fe9699fa948459ea79e0775c6" ,My Cinema Asia
-http://116.254.115.130:9981/stream/channelid/2142095861?ticket=3470337303194C056450779B24711339C29C67B0&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" tvg-id="269f34edc99126f763a3ae6476b8756c" ,My Cinema HD
-http://116.254.115.130:9981/stream/channelid/1832165158?ticket=4AA2F1DCD49194A67E22C0C28E2C54ED4580BFAE&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_new-myfamily_small.png" tvg-id="f1d5c71ce47e5fa751de382d9be031ee" ,My Family Channel
-http://116.254.115.130:9981/stream/channelid/482858481?ticket=5AB6AFD31208268C9C78931707A373472A54F921&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_mykids_small.png" tvg-id="41274636a6adc9ca3fd69badbe5984ac" ,My Kidz
-http://116.254.115.130:9981/stream/channelid/910567233?ticket=809A43BEB1926CF77E0F85D27FB94CDB0AA680BB&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeopeople_big.png" tvg-id="43bdffe4ca82a27650313a47802ecba6" ,Natgeo People
-http://116.254.115.130:9981/stream/channelid/1694481731?ticket=70A12BE822C58E6723A0B8CC00B0FB51FE478E92&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeopeople_big.png" tvg-id="fa5e6ff2b0f692a4e24a6c140407d0cf" ,Natgeo People HD
-http://116.254.115.130:9981/stream/channelid/1919901434?ticket=0BF8BCC8948A58936A07CEC7A82D0A00CC7F46C1&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" tvg-id="3874adee5d46a9ca0be8dcfd98a8354a" ,Natgeo Wild HD
-http://116.254.115.130:9981/stream/channelid/1856861240?ticket=B1901BF74B0C240E4B4F74347EB2752A6DF372CF&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_natgeo_small.png" tvg-id="adb5bb2a35c7f513629c313f411b343a" ,National Geographic
-http://116.254.115.130:9981/stream/channelid/716944813?ticket=E1738302750304355A1F509CD2B4950D7ADA9CA9&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeo_big.png" tvg-id="96cec07a9415e7936c2d8e3819bda8f4" ,National Geographic
-http://116.254.115.130:9981/stream/channelid/2059456150?ticket=D3FBAA189FF1A5DD5694AE1F3D63ACDFD696660A&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeo_big.png" tvg-id="df38089ec3b6d6471c28fab7b844c327" ,National Geographic HD
-http://116.254.115.130:9981/stream/channelid/503855327?ticket=2F4B63A703D27D9C3EBAA6DC93E3283DB9CD564C&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeo_big.png" tvg-id="0bdf8cb4bf9f37a5ad53f2e251435d1d" ,National Geographic HD
-http://116.254.115.130:9981/stream/channelid/881647371?ticket=8F390FFB3B8BEE261F987FE8FC9EB14C0FDAF2FE&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_natgeowild_small.png" tvg-id="9b91e3a6cb0460f03dc77cfbb0654a16" ,National Geographic Wild
-http://116.254.115.130:9981/stream/channelid/652448155?ticket=EE34B3528FAF2B504B3876E8D6A7F070B154D032&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" tvg-id="a255ea73754e625022aab62a579a977b" ,National Geographic Wild
-http://116.254.115.130:9981/stream/channelid/1944737186?ticket=08CB35853CC2C8B0B1F747D86277B387E8B95BA9&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nba_big1.png" tvg-id="e07bbfe1fd1ae7a119ac511fa4a9978d" ,NBA TV
-http://116.254.115.130:9981/stream/channelid/1639939040?ticket=D6CAC7F4BF1473860A3F74A5A165329D09F7E21A&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nba_big1.png" tvg-id="201bcc4b81eaa3c5efd60d44504f213e" ,NBA TV HD
-http://116.254.115.130:9981/stream/channelid/1271667488?ticket=301F6225722A8EB20604750CFD6EC67524F0E841&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nba_big1.png" tvg-id="69345a3c7679bb8ff1a687d40b7373eb" ,NBA TV-HD
-http://116.254.115.130:9981/stream/channelid/1012544617?ticket=03CC8BB12235569C78CC6ED0F35A235F60ECF030&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDYlzN_BfSVKgOxLdAfbmKDuHUQk6fnqIKyw&usqp=CAU" tvg-id="29b56d2990e3185533c776dc247353ce" ,NBS Korea Agricultural Broadcasting
-http://116.254.115.130:9981/stream/channelid/695055657?ticket=9A37F8862ED2E3E59BCD7CA00F66CACBC917D119&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" tvg-id="3dfe11ada0605850ef3463409b54c6cf" ,Net TV
-http://116.254.115.130:9981/stream/channelid/756153917?ticket=34A3F3AE971EE4A75C0F4D725A9A2885D2144A43&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" tvg-id="6235303bc67dfdb038406de27e0ca541" ,Net TV
-http://116.254.115.130:9981/stream/channelid/993015138?ticket=2A395EDBACE9C34966FE820853F8A7A0AB106BDB&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" tvg-id="97724833f91a394163e8fb200a0e4b49" ,Net TV HD
-http://116.254.115.130:9981/stream/channelid/860385943?ticket=D962332AE48216AB64F38D7C10211E91BA88406A&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" tvg-id="e296abfae4bc577771e0641ac32bb5d7" ,Net TV HD
-http://116.254.115.130:9981/stream/channelid/2058065634?ticket=3985AB8B49FA774F3AE4EE1FD0E94D0ADF5C59CC&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_net_small1.png" tvg-id="9d7ad0b3cb7fe71ededc88efed26e742" ,Net.
-http://116.254.115.130:9981/stream/channelid/869300893?ticket=B37B0B49C44293D6B9338AD5CA2831A0089CA194&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_newsasia_small.png" tvg-id="98356c0febfe332b5ef7bf335c48a9c0" ,News Asia
-http://116.254.115.130:9981/stream/channelid/258749848?ticket=8F775041F8AA37486469E4B8CB5B3B4F78C1F870&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" tvg-id="6f985db7c831ddb8a06509e6019a0891" ,NHK World Japan
-http://116.254.115.130:9981/stream/channelid/928880751?ticket=7B3BF953251C53D4616F6EC8ECA8605D43F42EA8&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" tvg-id="9965744b77d8d77c12fcf0054a4b97bd" ,NHK World Japan
-http://116.254.115.130:9981/stream/channelid/1265919385?ticket=BEB0B1A58D834EB6D4D126E611282B1E0B6E899F&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" tvg-id="3d1683264b0f7bf4a2978d277982e575" ,NHK World Japan HD
-http://116.254.115.130:9981/stream/channelid/646125117?ticket=855772FAB02D754AA04C9A08FD006E012E5B76C1&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_nhkworldpremium_small.png" tvg-id="2cb5f08ee5d8b012172c99c3dd562369" ,NHK World Premium
-http://116.254.115.130:9981/stream/channelid/250656044?ticket=F3087463C3E9C5FAF33163CF0B53338C79773935&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big1.png" tvg-id="448cf6a4eb5e8a1771b77025e45826f0" ,NHK World Premium
-http://116.254.115.130:9981/stream/channelid/620137540?ticket=17B5443AD2989D76C7BABEFD0BF0EC78B878140D&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworldpremium_small.png" tvg-id="d12b19e1523fa0aa9786579c7c315ec0" ,NHK World Premium HD
-http://116.254.115.130:9981/stream/channelid/1629039569?ticket=D9FE5FA5456C504F57C0F76F2069A1A28C00C30A&profile=pass
-#EXTINF:-1 tvg-logo="https://www.eduopinions.com/wp-content/uploads/2017/12/nhtv-breda-university-of-applied-sciences-266-logo.png" tvg-id="cf71304c005828612cf016489d91cdc2" ,NHTV
-http://116.254.115.130:9981/stream/channelid/1278243279?ticket=753D74F76E055EE4BDCA1A2316B5D733570C7685&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_nickjr_small.png" tvg-id="fbc5adcedfc513e297ed0ec9e2f1b6ee" ,Nick Junior
-http://116.254.115.130:9981/stream/channelid/1320011259?ticket=D93CA8A346BFF701B331D800144CDF5D101D3F7E&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickjr_big.png" tvg-id="1680c8795f948b3cf0080c8aad1e469f" ,Nick Junior
-http://116.254.115.130:9981/stream/channelid/2043183126?ticket=420175D831A007AF1595D5063BB0879F2A93000B&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_nickelodeon_small.png" tvg-id="56c164853f0e3fb561a92b35eaeac7b3" ,Nickelodeon
-http://116.254.115.130:9981/stream/channelid/90489174?ticket=1335B4E3DD33874420F14A2A605B3B892B831EB3&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" tvg-id="7f06ca3e28e476505913bedad4b0ec73" ,Nickelodeon
-http://116.254.115.130:9981/stream/channelid/1053427327?ticket=A8A568F0B80FA7C2DA4F220AAECD0EDFFF8B3AEC&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/viun5hj.png" tvg-id="92aa60acb15e1bd1a006efc5769af0d2" ,Nusantara TV
-http://116.254.115.130:9981/stream/channelid/744532626?ticket=A406D98ADF7FBE3D16B7CE348BC5ECE0E63D2294&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nusantaratv_small.png" tvg-id="be8e825fb0d5b8a43feb654f2cab1a53" ,Nusantara TV
-http://116.254.115.130:9981/stream/channelid/1602391742?ticket=DD0D124C455CF5CAC974B73260802BD2FC149574&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_nusantaratv_small.png" tvg-id="a76559ecce4977b5b2181223d7e12d96" ,Nusantara TV
-http://116.254.115.130:9981/stream/channelid/1817798055?ticket=667DD5DD8C714E4481AD480C55A1F8857CB5A08B&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_sone_small.png" tvg-id="49f3ce07066af68ed6fec37da86c4011" ,One
-http://116.254.115.130:9981/stream/channelid/131003209?ticket=3C2BA9E9F04D339C44345ACAA2AE04983C42DE79&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sone_big1.png" tvg-id="162f9aa977a5ae0ad39154b17748cb44" ,ONE HD
-http://116.254.115.130:9981/stream/channelid/697970454?ticket=AAE38E9E267C82BFDA5DA53C1BDB5747E151B800&profile=pass
-#EXTINF:-1 tvg-logo="http://n.sinaimg.cn/97973/transform/20160721/_RXX-fxuifip2506577.png" tvg-id="3731e245a7835464af374cd86a3fa747" ,Panda TV
-http://116.254.115.130:9981/stream/channelid/1172451639?ticket=90C07FB743B56D8425B2CC1366768E8E6C6022FC&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/563fbzN/pandatv.png" tvg-id="216882f93e3feab15125ee48d228b968" ,Panda TV
-http://116.254.115.130:9981/stream/channelid/2038589473?ticket=887838839F22C43CFD1CC1D2878FE19B560DA570&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_new-paramount_small.png" tvg-id="9412421d66b101723932fc51de35c2dc" ,Paramount
-http://116.254.115.130:9981/stream/channelid/490869396?ticket=3A51A86CE0228761D24737987A2F728C4680621A&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_pramborstv_small1.png" tvg-id="9b0f3851fe252dfb2001d1fdd5f0c5f5" ,Prambors
-http://116.254.115.130:9981/stream/channelid/1362628507?ticket=82B309EB73C4DD3ADA2782C8706CE7E8718C0CCD&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" tvg-id="252370d93c0ba29b896226d3e999301b" ,Prambors
-http://116.254.115.130:9981/stream/channelid/1500521253?ticket=429B9A416DCD2D121059E74334A188C1E93192C6&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_alquran_small1.png" tvg-id="c20d78e61ac9b89796e0d2083061ac1e" ,Quran TV
-http://116.254.115.130:9981/stream/channelid/1719143874?ticket=581AA98D70F70CB6FE52EB1D36803DC94C409257&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_rtv_small1.png" tvg-id="e3bb12d96c07392c2ee62319c0e2f3da" ,Rajawali TV
-http://116.254.115.130:9981/stream/channelid/1494399971?ticket=1CC453CC42CAA5F491481704EACC0C1E78B41892&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1dNzwhe.png" tvg-id="44d47f6964b618d60147fa346952e21d" ,RCTV
-http://116.254.115.130:9981/stream/channelid/1769985092?ticket=024FE70A75A8B40334C63A60A725B95C487EEEB6&profile=pass
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" tvg-id="0885f478f50fdeedb35639be01956150" ,Red Bull TV (UHD)
-http://116.254.115.130:9981/stream/channelid/2029290760?ticket=8DC146A91896C1C68A97C03737F0C7E3E83717D2&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" tvg-id="c0f8c138ae9b2939c5200e9d2b23102a" ,Rock Action
-http://116.254.115.130:9981/stream/channelid/952236224?ticket=DDC7AFD721EB09C54EBAF876C17B321C598CA617&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_blueant_small.png" tvg-id="55a622ebde5365556491e4d6fc8219a4" ,Rock Entertainment
-http://116.254.115.130:9981/stream/channelid/1797432917?ticket=492EC7E444133244306B13625BCB53B3E3F7774C&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_blueantext_small.png" tvg-id="b04ccf9212cb7dafe1da5df978f013fe" ,Rock Extreme
-http://116.254.115.130:9981/stream/channelid/315575472?ticket=07ECA2B4BED76C7A1C58F794AF1E556A0D90DDD3&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rodjatv_big1.png" tvg-id="620e14523d2151c8844dcc06d818d79b" ,Rodja TV
-http://116.254.115.130:9981/stream/channelid/1377046114?ticket=5DCE80E1488F0E0763FDA6B7E754AE4E5A6A91C1&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_rodjatv_small1.png" tvg-id="6380f8e9c0174e222e1e970456f5b198" ,Rodja TV
-http://116.254.115.130:9981/stream/channelid/1777893475?ticket=CF0851D9BAA45C962D29A9EE237FCBEBB21C08B7&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_rri_small1.png" tvg-id="d29aed50d2f0d69ca67eefa580a4fbf1" ,RRI Net
-http://116.254.115.130:9981/stream/channelid/1357748946?ticket=5F6A24E59AC03F99B2784EE4CCBE5416E6EA2955&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rri_big1.png" tvg-id="0eb9eee29358645914d3f92c683265f8" ,RRI Net
-http://116.254.115.130:9981/stream/channelid/1659812110?ticket=7E6C2F9CDB09FFFA4941E02BDB85A803D3F7578A&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rtv_big1.png" tvg-id="4a96acae03561ebb76a8759d31b7312f" ,RTV
-http://116.254.115.130:9981/stream/channelid/783062602?ticket=1876D12CE6395DB70A8EDE21C1DAE09006418D7B&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" tvg-id="605bd39daccd520b002bec6ca1c9d59a" ,SBS CJB
-http://116.254.115.130:9981/stream/channelid/500390752?ticket=8FA7975B831A22A9D074A21BE6BBF60D49B0E2BB&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" tvg-id="f6d02221e8b7afa735472c254f98dbfe" ,SBS JIBS
-http://116.254.115.130:9981/stream/channelid/555929846?ticket=64BAD09BAC6C8DF0E75B61F4A1E3A3BFF3F0E3F0&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" tvg-id="9a3b0d237300c884dbbf63dec3b01153" ,SBS KBC
-http://116.254.115.130:9981/stream/channelid/588069786?ticket=502830E2C7C97CDFD68871BFB5DF294D03440F87&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" tvg-id="12342e0ec9c1c4a0a3a299fe712589c0" ,SBS KNN
-http://116.254.115.130:9981/stream/channelid/237909010?ticket=9DE289812BB12E19AC8A0775E92F4003EC2846B9&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" tvg-id="1f6b67a05bc2c7b0aedec8897ece4c03" ,SBS TJB
-http://116.254.115.130:9981/stream/channelid/543648543?ticket=6434EA0062FEDFB7CA752882F51FF03E44BB2E92&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_sctv_small1.png" tvg-id="77722d87645d5a4cccda4263c1b7e7e5" ,SCTV
-http://116.254.115.130:9981/stream/channelid/120418935?ticket=03D62471BF35A5DFADDF129691BFD472901C74D3&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" tvg-id="ca77ac99c23c11528a3c58e2dcd1fb82" ,SCTV
-http://116.254.115.130:9981/stream/channelid/430733258?ticket=EDACE023DE49F800BD82D43B2038201CE8A070FE&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" tvg-id="319decf1e644c4d1bd2425f67059ec01" ,SCTV
-http://116.254.115.130:9981/stream/channelid/1911332145?ticket=DCF087A8A1B5F89D15FBFDB33BD1CB623CD36310&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" tvg-id="80ea89755e9f5a0c61c15c953ae5f7e2" ,SCTV HD
-http://116.254.115.130:9981/stream/channelid/1971972736?ticket=719383025E6D640F31B8A7D74F8B80D6F802E1A2&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_seatoday_small.png" tvg-id="02186d80b991cc02f1980a2197aa388f" ,SEA Today
-http://116.254.115.130:9981/stream/channelid/7149570?ticket=7BDEC30152FBF82344F6F5BF587D9EE99D3CE9CE&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_seatoday_small.png" tvg-id="3279b95651f0fb2c1e9a31bd150aa2a0" ,SEA TODAY
-http://116.254.115.130:9981/stream/channelid/1454995762?ticket=C95B2BAD8519F089B814414460BFEAE15D39CBF6&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_seru_small.png" tvg-id="9cd423402ba0f8dcd5865134cd09dc9c" ,Seru!
-http://116.254.115.130:9981/stream/channelid/1076090012?ticket=F130D8E402C7562612C35180F052720DF3BDAD45&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_sgem_small.png" tvg-id="788ea114a5c40ba03f7b5f77f4b30dbf" ,SGEM
-http://116.254.115.130:9981/stream/channelid/346132088?ticket=787D026FB7D67665BA8635A4F74D7AF4E8A40067&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_shenzen_small.png" tvg-id="7b7f3b17b4bdae24e76db8a94aa18cd3" ,Shenzen
-http://116.254.115.130:9981/stream/channelid/389775227?ticket=8315C020F17CF47A24CA148C976A950277296D13&profile=pass
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/shinsegae-tv-shopping-kr.png" tvg-id="e4e5491d28789dc07c0ca78b5d381be6" ,Shinsegae Shopping TV
-http://116.254.115.130:9981/stream/channelid/491382244?ticket=0E0860F52FAA726CA5DD76D4D2A54694B3240A75&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrwsLD7XO3rPdXNuNKQ1-p6ylmVk2G3oLTmA&usqp=CAU" tvg-id="6168a34ce13fc424fa7cb3b738500fc1" ,Shopping NT
-http://116.254.115.130:9981/stream/channelid/1285777505?ticket=A18928B0D70956568E6156EB4E255DB8E280F4A4&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_big1.png" tvg-id="e30e94f6feb0f8e5773cad3516ab07f1" ,Sony Gem
-http://116.254.115.130:9981/stream/channelid/1989414627?ticket=3F1C65B74632F624FE2D7D92D14D247AF87FEE67&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sone_big1.png" tvg-id="7a7f2b23696675f0a27b093906eb315b" ,Sony One
-http://116.254.115.130:9981/stream/channelid/590053242?ticket=F95A66210D3F683D003A1CB5AED93A958B14029A&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv_small.png" tvg-id="41e560373d1a5238756b4983d427db51" ,SPOTV
-http://116.254.115.130:9981/stream/channelid/929097025?ticket=EEFEFBF083C23E34730C41602EB1FDF1815FE0B8&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv2_small.png" tvg-id="78686671aba798495d39e6f4f093f8e0" ,SPOTV 2
-http://116.254.115.130:9981/stream/channelid/1902536824?ticket=5C8E7092CB4A8011B0690B779F0E55AD382CA34D&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/yR0Ms72/starmovielegend.png" tvg-id="369a65e669d09320961037ba346fc59e" ,Star Chinese Movie Legend
-http://116.254.115.130:9981/stream/channelid/1717934646?ticket=6CBB74AC901CCF480E0BC9ED261BC5B66E8104CB&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_tawaftv_small.png" tvg-id="7226c9a2a4124e3dbaaac2d52e4401cd" ,Tawaf TV
-http://116.254.115.130:9981/stream/channelid/583607922?ticket=6D8A6AE8A49DC1C17283E92DA1546389A510A4E8&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tawaftv_big.png" tvg-id="62aa807c738ccd9d631e5b46cbbc6d5a" ,Tawaf TV
-http://116.254.115.130:9981/stream/channelid/2088807010?ticket=E519BE9D4769209FEE216668A83272140397C304&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJp6XWKg80JwM-6zpli16elnB20SmsIAEpw&usqp=CAU" tvg-id="59135cae2843d6a9d1e7671a5d996dc3" ,TBS TV Seoul
-http://116.254.115.130:9981/stream/channelid/777786201?ticket=B35A5B376271F473333BF02EEE3BBBC1C87BC251&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_new-techstorm_small.png" tvg-id="93972ad223ca2d9ddd646ceb72f14386" ,Tech Storm
-http://116.254.115.130:9981/stream/channelid/1378523027?ticket=8BE8E8EF7CA753E5DD183C9E9188C17C26A5A9C3&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lWB1g9s.png" tvg-id="2478bb7dd81a6f311b7ca81a582cd5f0" ,Tegar TV Lampung
-http://116.254.115.130:9981/stream/channelid/2109437988?ticket=B337CCDAB3CCAAD0184A14E6AA622B4DC0E6EA61&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/assets/images/logo.png" tvg-id="f8c38f21d41b26e9602707b9dc4f7582" ,Telkom Group TV
-http://116.254.115.130:9981/stream/channelid/563069944?ticket=889882BAF7C2CFEFCA13E3DEAB02D75EAAA1D2FD&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg" tvg-id="8ad978e30eaf6890e07ad2222a9b57fc" ,The Indonesia Channel
-http://116.254.115.130:9981/stream/channelid/1668864394?ticket=8770C12C7F43AEA7FCD3B29695AE8A2A747F9CA4&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_thrill_big.png" tvg-id="105d7f3a0c2724a85bc74165f7aa37f1" ,Thrill
-http://116.254.115.130:9981/stream/channelid/981425424?ticket=ADDA664EE9E131DAE335D6CAC8822BF21CA39692&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_thrill_small.png" tvg-id="68678ad4e33595e83701cc66790df0fc" ,Thrill
-http://116.254.115.130:9981/stream/channelid/1418356584?ticket=A4C3E6EBE1A4657D0CAD5E01E3F6D9A6E1B22655&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_new-tlc_small.png" tvg-id="1968d016f78686b7c35d4a787e420a1c" ,TLC
-http://116.254.115.130:9981/stream/channelid/382756889?ticket=9124DD1D7C17D6F9B341E6F894561C27B1CDF688&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G1oaOXY.gif" tvg-id="e51049d39a942829edb1024a8665818b" ,Top Music
-http://116.254.115.130:9981/stream/channelid/1397297381?ticket=9489686D608D92189AC5C073A458FEDEC0FB6F4F&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" tvg-id="5b9ca708dc0850301a0e002ba0aa4342" ,Trans 7
-http://116.254.115.130:9981/stream/channelid/145202267?ticket=902A9C9C0B36136BB8E4A432A1D4F0AE9E6A866F&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" tvg-id="ea4094e80ecad71b7470735e5c94d740" ,Trans 7
-http://116.254.115.130:9981/stream/channelid/1754546410?ticket=FB38AD994F1779922F48BA54F1498DC13475A853&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" tvg-id="b4090eb9d96cfabb5c4266ec9ca32218" ,Trans 7 HD
-http://116.254.115.130:9981/stream/channelid/957221300?ticket=F79B9A0FDD672A87543F690F04D872E5F740AF80&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_transtv_big1.png" tvg-id="514f41a54df9469669617c875467aeca" ,Trans TV
-http://116.254.115.130:9981/stream/channelid/625037137?ticket=D4C9C834EE616616F5D670F796CECF89AB9FA18A&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_transtv_big1.png" tvg-id="6b4c68c20ad417b41a30f9ee49700918" ,Trans TV
-http://116.254.115.130:9981/stream/channelid/1114131563?ticket=BFB3D122D85953DE5B6BD45BFD15FC0CB1EFFF6B&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_transtv_big1.png" tvg-id="f223b231770dc07c752cacc779058153" ,Trans TV HD
-http://116.254.115.130:9981/stream/channelid/833758194?ticket=0B7249904B7D555FFEDB70DE112063E9B92148B8&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" tvg-id="37b054814fa805f58f16c6bd899ec2c3" ,Trans7 HD
-http://116.254.115.130:9981/stream/channelid/22327351?ticket=234855BEFCB8EAE7487E4C366489520DE7846E9A&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" tvg-id="56602eceab0d9a0419c26f16d7ed832c" ,TRT World
-http://116.254.115.130:9981/stream/channelid/1311662166?ticket=FC4533DD93D6B462FE8FD92853B4ED685E8ACA49&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_trtworld_small.png" tvg-id="855be5fa7ee49504ec02b1449c87fa03" ,TRT World
-http://116.254.115.130:9981/stream/channelid/2061851525?ticket=2F321CFDB07FFB61642D4DFA1B4EFD6D45460AA6&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TV_Chosun_Logo_%28English%29.svg/1280px-TV_Chosun_Logo_%28English%29.svg.png" tvg-id="5415219abf87266af768ec1cc971ade4" ,TV Chosun 2
-http://116.254.115.130:9981/stream/channelid/438375764?ticket=FA5AA71B54797ADF5E630AC575C9FAF12E369887&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_tvedukasi_small1.png" tvg-id="47a5cf3a5d9834c1dfc851a1d41be397" ,TV Edukasi
-http://116.254.115.130:9981/stream/channelid/986686791?ticket=4D140277BD6CA7392BC748C3508AD41DF0A17783&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvmui_big1.png" tvg-id="2bd41e1d63f1e7a655144a798b78979e" ,TV MUI
-http://116.254.115.130:9981/stream/channelid/488559659?ticket=174135CEB2294B343F54F2DA5A1FAEC25906A1E9&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvone_big1.png" tvg-id="b715120924a263dec77041280624f52d" ,TV One
-http://116.254.115.130:9981/stream/channelid/152180151?ticket=E4DCD3DA5C8381817C7FC1B8553B981F67AC1A9C&profile=pass
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" tvg-id="93839f5bf26e9f2f08b35f81abaf8853" ,TV One
-http://116.254.115.130:9981/stream/channelid/1537180563?ticket=1E4568BBFFD0F93D613781675A915379CD8A3C05&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tv5monde_big1.png" tvg-id="00e1e11077edb24cd67a9aba954a28b9" ,TV5Monde
-http://116.254.115.130:9981/stream/channelid/283238656?ticket=8EB889777D56924AC249DBF1DA8DFD97AE92C1D0&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_tv5monde_small1.png" tvg-id="6ad5764ba16fe64c4a3a868d3a89c30c" ,TV5Monde
-http://116.254.115.130:9981/stream/channelid/1266079082?ticket=4DBD61EE2AD11EFDFE552926856BA2E15BBE0346&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tv9_big1.png" tvg-id="171d87287550c1ad7d7b131a119d832a" ,TV9 NU
-http://116.254.115.130:9981/stream/channelid/679943447?ticket=75CED74134D55EED9DBE6EF00A6C73A3116B222B&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_tv9_small.png" tvg-id="00b9aa76091a96ad5f6b4281c1f47972" ,TV9 NU
-http://116.254.115.130:9981/stream/channelid/1990899968?ticket=3754B950315C896B934639472838639C250A96D8&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xPjWyiL.png" tvg-id="6070353817b5b3c4d695c8d4ea9f84d1" ,TV9 Nusantara
-http://116.254.115.130:9981/stream/channelid/943026272?ticket=BECD571FBC057DCFBB38CC84A5104754CC0663C5&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvbsnews_small.png" tvg-id="9039e839f597bf1561055e0fc609503b" ,TVBS
-http://116.254.115.130:9981/stream/channelid/971520400?ticket=246327D3B93AB4929EB328C4A5D2F5D4749DB568&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_tvbsnews_small.png" tvg-id="798b3da1aa2c7c9bc7bdc300104e6f65" ,TVBS News
-http://116.254.115.130:9981/stream/channelid/557681529?ticket=F5E22B95D8E31F2287024564DCC9C2F27FC019B3&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qeoc99J.jpg" tvg-id="018ca43cad542764925baf481273e1ef" ,TVKU
-http://116.254.115.130:9981/stream/channelid/1017416705?ticket=10E94152D53112AAF077C1295B98012A55474B62&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_muhammadiyahtv_big1.png" tvg-id="eef2e732367f6a7a3c28e0bdaea89c04" ,tvMu
-http://116.254.115.130:9981/stream/channelid/854061806?ticket=40AEC27671FDF7A8DEE31240E84A74C97E394BFA&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_tvn_small.png" tvg-id="b4677f4908a212ef0f17769907ad3746" ,TVN
-http://116.254.115.130:9981/stream/channelid/1233086388?ticket=DCD334926BFED6F03707D1B2CFE4FF84E1C8C077&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvn_big.png" tvg-id="43ec69d599e69f31f3677caf8e947592" ,TVN
-http://116.254.115.130:9981/stream/channelid/1433005123?ticket=0AAA5B6D796D48776CD78C1F9FC432C3B70119CE&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShMMHr7cjhlj2CsOCA6ZpXBl_9HTiGMEr4GQ&usqp=CAU" tvg-id="6b0461f3812ba893b96186b8b8c58348" ,tvN Asia
-http://116.254.115.130:9981/stream/channelid/1935737963?ticket=EFAAC71C063A1DCD972360EF9676A9E26D292BB7&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvn_big.png" tvg-id="021c2207c49b8ea3c6a264e3487b286a" ,TVN HD
-http://116.254.115.130:9981/stream/channelid/119675906?ticket=203B40C1FF0EBDE88DEE0192A02FFD13E2B890AE&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/mGJjhzP/tvnmovie.png" tvg-id="1405bcd2c8de3e0515b1d99f32970653" ,TVN Movie
-http://116.254.115.130:9981/stream/channelid/1388053780?ticket=78EB1734934981FB0A9CF758355F6C87DC2B87AE&profile=pass
-#EXTINF:-1 tvg-logo="http://i.ibb.co/mGJjhzP/tvnmovie.png" tvg-id="100469daac96feac7b8886f17c5826c1" ,TVN Movie HD
-http://116.254.115.130:9981/stream/channelid/1516831760?ticket=EFAC86E7F077149880B89F8310FE4701F495CA6F&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_tvnmoviews_small.png" tvg-id="f21dda3f0b3d72d9d57b1d3b6d595e83" ,TVN Movies
-http://116.254.115.130:9981/stream/channelid/1071259122?ticket=B2D3A1B1F86D5717FF79204E74F020A909E8F0DB&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShMMHr7cjhlj2CsOCA6ZpXBl_9HTiGMEr4GQ&usqp=CAU" tvg-id="e9c8baa31637963ddbec35665b569a43" ,tvN Movies
-http://116.254.115.130:9981/stream/channelid/599443689?ticket=C8B689861F63A6BB51FFFA8E41A36C8940979D79&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_tvnmoviews_small.png" tvg-id="ce2a6adff9f6ebbd970693bcb48dcf3f" ,TVN Movies HD
-http://116.254.115.130:9981/stream/channelid/1600793294?ticket=C97FC64A4180F66AA6C1B287247D0FCBE7E12150&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvri_big1.png" tvg-id="70232911969b514820e7ed9cff7784dd" ,TVRI
-http://116.254.115.130:9981/stream/channelid/287908720?ticket=A8B0011CE0F0E017D0DE5E590B862F84F60C09DD&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_tvri_small1.png" tvg-id="756fa676e5603dd4ed3d787dcaf867fb" ,TVRI
-http://116.254.115.130:9981/stream/channelid/1990618997?ticket=F3EA5DBDC7B6AF31663FECC52869787A221F2C30&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" tvg-id="2018353b89477e1aceeadac5e31a518f" ,TVRI Aceh
-http://116.254.115.130:9981/stream/channelid/993335328?ticket=F72CF253D99220DDACE8BCC92B8144DE1489FE3D&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3N6NDPf.png" tvg-id="56716f67932da049d4818e4400479960" ,TVRI Bali
-http://116.254.115.130:9981/stream/channelid/1735356758?ticket=C1FE4F08037B83D05CCAEAAA74FDF396592960A4&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" tvg-id="5271b548bea9bd46dcb7b04baef12c34" ,TVRI Bangka Belitung
-http://116.254.115.130:9981/stream/channelid/1219850578?ticket=F4663DE7E131863AE7A231C634636C6789632C20&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qswy60o.png" tvg-id="cc56973ccc29b3042e1dd1cf3842f08b" ,TVRI Bengkulu
-http://116.254.115.130:9981/stream/channelid/1016551116?ticket=E5B8CCFE1EBB6D8FC5C7C09494CEBC1F6C1DEA76&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lSgiYnp.png" tvg-id="3210b4522a6df6b886336e486e535742" ,TVRI DKI Jakarta
-http://116.254.115.130:9981/stream/channelid/1387532338?ticket=E56C3141B718E77BFF12F66A26DF434B122EA19F&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" tvg-id="bfa36514dbd01e93916ecf51d479e3b2" ,TVRI Gorontalo
-http://116.254.115.130:9981/stream/channelid/342205375?ticket=6411BF5C4DBE3556ABA3CE7B23C4FB4BF4FD2AA9&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e0Ulmy5.png" tvg-id="7f9df8d3ffeb66e152146d70d8f0409a" ,TVRI Jambi
-http://116.254.115.130:9981/stream/channelid/1408802175?ticket=42D02585B27F0BF83D3EA5B31CD0B8F31E212D8B&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rrRMl08.png" tvg-id="813a6040968b7f2f37b6ae6060436cbd" ,TVRI Jawa Barat
-http://116.254.115.130:9981/stream/channelid/1080048257?ticket=BB74D9161C588E697D7C3BE5DC79D0D8BAC5276F&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FLrmZvc.png" tvg-id="0e576ffdbe9fc4188acdca11b122a525" ,TVRI Jawa Tengah
-http://116.254.115.130:9981/stream/channelid/2104448782?ticket=2B09429D534ED3203779937FFA7B005E38C4F596&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vxe6tcn.png" tvg-id="ad1dd43f85466d0eecec40a527aca865" ,TVRI Jawa Timur
-http://116.254.115.130:9981/stream/channelid/1070865837?ticket=558E345CF64C73A41F2C4C9C53517084E481F568&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" tvg-id="6368cdbac225ad73ee7b5606a3fbb1ce" ,TVRI Kalimantan Barat
-http://116.254.115.130:9981/stream/channelid/986540131?ticket=0DD52ADB18DA9F18ED063D9C598EC547018EF20A&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" tvg-id="fefb21c873276422e150b50b9cfbf357" ,TVRI Kalimantan Selatan
-http://116.254.115.130:9981/stream/channelid/1210186750?ticket=34F5C2D6AE5DB8620AC8D2C8F23E437FD5E05A0E&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSlIQt.png" tvg-id="8c39cdda7cee0e2f77b1f81d81d0f6f7" ,TVRI Kalimantan Tengah
-http://116.254.115.130:9981/stream/channelid/1523399052?ticket=40D84922F89BF4B5C8DF0C5BA463A31F7E24BAF6&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9ND64L5.png" tvg-id="6c0418dc9440c4b83f950636b1720042" ,TVRI Kalimantan Timur
-http://116.254.115.130:9981/stream/channelid/1545077868?ticket=C0F7727FFBBA686C95992F5480CD5AF2E258C674&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8102yhJ.png" tvg-id="d970962f573e30aaabdd23d0e40cfd62" ,TVRI Lampung
-http://116.254.115.130:9981/stream/channelid/798388441?ticket=5885411B22639718144363F470897A2B484C46FB&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" tvg-id="466f7ec0d3c1f250a34760d69bad389f" ,TVRI Maluku
-http://116.254.115.130:9981/stream/channelid/1082027846?ticket=F919BB3D8BF99BDEA3E5C31F2F7834CD99E5BD60&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" tvg-id="1b2553cb4d8d1f24feaf5c15016e015a" ,TVRI Nasional
-http://116.254.115.130:9981/stream/channelid/1263740187?ticket=4E23E61DFDBEFC01D813463DB50F7710B07970C9&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" tvg-id="d95fffd968ccb5f3a54e73d3c1f8116c" ,TVRI Nusa Tenggara Barat
-http://116.254.115.130:9981/stream/channelid/1509908441?ticket=F3F027A51F110C7DC0E1137C96E3F8F71E538203&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/acFJNef.png" tvg-id="a270a01b71d8d33958caf7b4da2b4062" ,TVRI Nusa Tenggara Timur
-http://116.254.115.130:9981/stream/channelid/463499426?ticket=22A49920E709BC60A367FA1CFC13AB0189EFE9E0&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eQ7Aqy5.png" tvg-id="b67cb0f11aa7959e771982c7b5b70fa4" ,TVRI Papua
-http://116.254.115.130:9981/stream/channelid/1907391670?ticket=7806D96ADE36D1EA278B8423430458BE42A527C2&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iSERkWC.png" tvg-id="86c6544c39b7caa649f5fb6ab5d1a4cb" ,TVRI Riau
-http://116.254.115.130:9981/stream/channelid/1280624262?ticket=E495ADDBA105716E9E8034A52832CBF455777099&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HSnXywC.png" tvg-id="d5742a664f3a161d699c4de518f754c4" ,TVRI Sport
-http://116.254.115.130:9981/stream/channelid/1714058453?ticket=7DBF7D99A03AB5732B90BBAAF2D0AD02AD853800&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" tvg-id="b5887f1e9d3892e206a31e667fcefe46" ,TVRI Sulawesi Barat
-http://116.254.115.130:9981/stream/channelid/511674549?ticket=3A03E757846CD8F521A258BE8E0A3106C487C5F5&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QCJnteP.png" tvg-id="048431fc15463c3d4afdf8bb1c79f3eb" ,TVRI Sulawesi Selatan
-http://116.254.115.130:9981/stream/channelid/2083619844?ticket=3FFA57F2F82EC6B28A2D701F08CD6CD50DD080FA&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" tvg-id="d937bf47f99fd8d5222d8f4242ebc8ce" ,TVRI Sulawesi Tengah
-http://116.254.115.130:9981/stream/channelid/1203714009?ticket=86646A6D95D8C18688135CC9688EC129CED32B44&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" tvg-id="cd18abc8105a266b2c9b45f3b4fafd1e" ,TVRI Sulawesi Tenggara
-http://116.254.115.130:9981/stream/channelid/1219172557?ticket=1D31C15924AFC22DA584EE20A8FE947A81BF950A&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CkZf4bq.png" tvg-id="fbfe4940ba52186cd4ca84a7116afc88" ,TVRI Sumatera Barat
-http://116.254.115.130:9981/stream/channelid/1078591227?ticket=A397FF8945760B98E0B813D55A5DD6556B92DEB7&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" tvg-id="7d77cbb94305bc678915a69db88381c1" ,TVRI Sumatera Selatan
-http://116.254.115.130:9981/stream/channelid/969635709?ticket=D78DBD3F84DE4572E8165AADC68BE5225B11DC12&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h3RldTO.png" tvg-id="6bcc6991232da77b0cf0bcca1b362d13" ,TVRI World
-http://116.254.115.130:9981/stream/channelid/292146283?ticket=7547C94CB71F9ACEC63EB055158E9D090CE36EAC&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lcH92DJ.png" tvg-id="e31875c8cc65efa34ab9e230b5d005b6" ,TVRI Yogyakarta
-http://116.254.115.130:9981/stream/channelid/1215633635?ticket=85B1B461A3F8745ABEAF3FDFB8B42126C4BB37E5&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_uchannel_big1.png" tvg-id="abf4a5f35ccc2dd349aa7f0334a72f1f" ,U Channel
-http://116.254.115.130:9981/stream/channelid/1940255915?ticket=FDC6E6A771CFD9173DB5456D9796CF5AD2E17750&profile=pass
-#EXTINF:-1 tvg-id="48f275c26ed37ab25e9ba0cb7be2f544" ,UC-BACKUP/useetv.m3u/{PMT:34}
-http://116.254.115.130:9981/stream/channelid/1115025992?ticket=D7282972C650A010E53C14379542A8F7CE05F4DB&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_uchannel_small1.png" tvg-id="df2e1470c5ac08613da038c41815caa0" ,UChannel
-http://116.254.115.130:9981/stream/channelid/1880370911?ticket=0E9CA70E77E02A0C371B165AC934F80C58FA263C&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx0pCn0p/upc.png" tvg-id="b6d8efdd62f289a3e64694e31fc2740e" ,UFC 3
-http://116.254.115.130:9981/stream/channelid/1575999670?ticket=96C2BDF965756EF3607EC4764AD46A073C15A7FB&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/assets/images/logo.png" tvg-id="262417f2e67708a203001dbbf0b16265" ,Usee 4K Demo Channel
-http://116.254.115.130:9981/stream/channelid/1914119206?ticket=265EC2524E54A45DA99394E301AF3A56BD598888&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useeprime_big1.png" tvg-id="1f3ffa4844615542045c88222bf2df7a" ,USee Prime
-http://116.254.115.130:9981/stream/channelid/1224359711?ticket=491C109BDF7196FFB82D3E989C20C31C864B2854&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useeprime_big1.png" tvg-id="976f6ee5eddb467152f8ad55cc3d849e" ,USee Prime
-http://116.254.115.130:9981/stream/channelid/1701736343?ticket=0E7B84222DC0A2A4B0D27D59D876179F65EDCE2E&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesport_small.png" tvg-id="eb9601711c5f33de7f1fd7f08ae5d0d6" ,Usee Sports
-http://116.254.115.130:9981/stream/channelid/1895929579?ticket=935423EFAD7FFAE896D8C849E359E67146798688&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesports2_small.png" tvg-id="4b1a699d3dda476eee16a66c993848cd" ,Usee Sports2
-http://116.254.115.130:9981/stream/channelid/493427275?ticket=47C0F84F051A0BF4E0453BFF3AF37D14F37AE60D&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/assets/images/logo.png" tvg-id="814008bba2612f9656385f8a76d74523" ,USee Today
-http://116.254.115.130:9981/stream/channelid/990396545?ticket=6666E3E70BEBEA202FA56D2ECA9C652C6B23BDEA&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_useeprime_small1.png" tvg-id="b0eec10ed82ec87e14c8bfe29af9604f" ,UseePrime
-http://116.254.115.130:9981/stream/channelid/247590576?ticket=C7089EF1201AD6E61C33CA02E9F97A2F9090B619&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_warner_small.png" tvg-id="38c0d226ac242ddbc9e91e4dce544dcd" ,Warner
-http://116.254.115.130:9981/stream/channelid/651345976?ticket=578C751985963926D859CB8D9C36F55C50AB44E1&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_warner_big.png" tvg-id="668c084f7152cec029d4fe0465062d4b" ,Warner
-http://116.254.115.130:9981/stream/channelid/1325960294?ticket=BBFAE4ABFB1852857CAA86F3D5371C7E4216E374&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_warner_big.png" tvg-id="bf1773e674149ffabbbe0cc4581bef27" ,Warner
-http://116.254.115.130:9981/stream/channelid/1718818751?ticket=64AC13568FCEB081B5EE157F29D0442E5D1EC23E&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_warner_big.png" tvg-id="1868732de542af48e06053b6f96ec378" ,Warner HD
-http://116.254.115.130:9981/stream/channelid/762538008?ticket=BDF10D7DA743AE8F8747E54306C0C637BD9718DE&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_warner_big.png" tvg-id="5ef28566b87c8b7cbe52bc134934ff05" ,Warner HD
-http://116.254.115.130:9981/stream/channelid/1720054366?ticket=420A668796DD2AA1D39767BCF11D3552A54F456A&profile=pass
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_zbioskop_big1.png" tvg-id="fe747ef8c8945b23e93fdcb12dda6899" ,Z Bioskop
-http://116.254.115.130:9981/stream/channelid/2021553406?ticket=52D11EC275397C85F3F8AE17D629A125F336930F&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_zbioskop_small1.png" tvg-id="22c0be03cd3689f7bce9e57a15c1b0e0" ,ZBioskop
-http://116.254.115.130:9981/stream/channelid/62832674?ticket=333406243D895969E37559C0BA50F68889F0911F&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_zhejiang_small.png" tvg-id="0b987e8031582472c1888f42975955cc" ,Zhejiang
-http://116.254.115.130:9981/stream/channelid/8296459?ticket=27266F865018545F71EA7B2C43894DC1FD1B59A8&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Zhejiang_Television.png" tvg-id="3fea2a7e492113acf5eac49d57d2c1a8" ,Zhejiang International
-http://116.254.115.130:9981/stream/channelid/2116741695?ticket=0C7DD5D773186E276BB1E19EAB98A10BEF51018B&profile=pass
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQ40gmFM4p03tXwMxQQKh2cCBW4.jpg" ,Godzilla: King of the Monsters (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/108.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuxjMVuc3VTD7p42TZpJNsSrM1V.jpg" ,Ambulance (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/113.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Ky7xCXPMKXGopstPjwPRd4ZDrj.jpg" ,Ant-Man (2015)
-http://tvkuonline.my.id:25461/riyad/riyad/114.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqn5YaekuwVla3mIzTXlpVjbaIl.jpg" ,Armageddon Tales (2021)
-http://tvkuonline.my.id:25461/riyad/riyad/115.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg" ,Avengers: Endgame (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/116.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg" ,Avengers: Infinity War (2018)
-http://tvkuonline.my.id:25461/riyad/riyad/117.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UsK3grJvtQrtzEgqNlDljJW96w.jpg" ,Batman v Superman: Dawn of Justice (2016)
-http://tvkuonline.my.id:25461/riyad/riyad/118.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg" ,Batman (1989)
-http://tvkuonline.my.id:25461/riyad/riyad/119.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNeMguMCoX6sg9qUU3NYZFPkNFO.jpg" ,å®‡å®™å¤§æˆ¦äº‰ (1959)
-http://tvkuonline.my.id:25461/riyad/riyad/120.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLV6PVkkutgeEH6O5XFo2L89u3K.jpg" ,Battleship (2012)
-http://tvkuonline.my.id:25461/riyad/riyad/122.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwB7d51AIcyzPOBOHLCEZJkmPhQ.jpg" ,Black Widow (2021)
-http://tvkuonline.my.id:25461/riyad/riyad/123.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg" ,Bumblebee (2018)
-http://tvkuonline.my.id:25461/riyad/riyad/124.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg" ,Captain Marvel (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/126.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avz6S9HYWs4O8Oe4PenBFNX4uDi.jpg" ,Cinderella (1950)
-http://tvkuonline.my.id:25461/riyad/riyad/127.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iHYLipwEyZUPNO8MM3l1yHDaFE.jpg" ,Clash of the Titans (2010)
-http://tvkuonline.my.id:25461/riyad/riyad/128.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg" ,Despicable Me (2010)
-http://tvkuonline.my.id:25461/riyad/riyad/132.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg" ,Doctor Strange (2016)
-http://tvkuonline.my.id:25461/riyad/riyad/133.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WcJ4cV2Y3gnTYp5zHu968TYmTJ.jpg" ,Dragon Fury (2021)
-http://tvkuonline.my.id:25461/riyad/riyad/134.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95MVDO5VyjbzqInMFx6P576Ds0x.jpg" ,Fast & Furious (2009)
-http://tvkuonline.my.id:25461/riyad/riyad/135.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/COovngRkidlyUGHtPEad0ymy3b.jpg" ,è³­ç¥ž (1989)
-http://tvkuonline.my.id:25461/riyad/riyad/136.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lrSjP0NS9urCQlSBaqs0kfmb5bY.jpg" ,Godzilla vs. Kong (2021)
-http://tvkuonline.my.id:25461/riyad/riyad/137.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg" ,Home Alone 3 (1997)
-http://tvkuonline.my.id:25461/riyad/riyad/138.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpWUtkcgRKeauhTyVMjYHxAutp4.jpg" ,Interceptor (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/140.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78lPtwv72eTNqFW9COBYI0dWDJa.jpg" ,Iron Man (2008)
-http://tvkuonline.my.id:25461/riyad/riyad/141.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLT6kuZ4bQpUaFJ6OKH2YMvaUet.jpg" ,æˆé¾çš„ç‰¹æŠ€ (1999)
-http://tvkuonline.my.id:25461/riyad/riyad/142.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lx3Y7teA6DaoQ6cIhwzrlnDZpFW.jpg" ,Johnny English (2003)
-http://tvkuonline.my.id:25461/riyad/riyad/143.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwxB8MiB5b4rW6SlIJRHqHihYOy.jpg" ,Voyage en Chine (2015)
-http://tvkuonline.my.id:25461/riyad/riyad/144.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg" ,Jumanji: The Next Level (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/145.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eifGNCSDuxJeS1loAXil5bIGgvC.jpg" ,Justice League (2017)
-http://tvkuonline.my.id:25461/riyad/riyad/146.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3OlYPwyBaZykZlwpVJeNujeMAy.jpg" ,Kamen Rider: Zi O Over Quartzer (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/147.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg" ,Kapten Amerika: Avenger Pertama (2011)
-http://tvkuonline.my.id:25461/riyad/riyad/148.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eCco43L9wp56vl7Ock5Qijj1dx.jpg" ,åŠŸå¤« (2004)
-http://tvkuonline.my.id:25461/riyad/riyad/149.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vk5w80NAsQmY544aFFDQzI3RRZ.jpg" ,Madagascar (2005)
-http://tvkuonline.my.id:25461/riyad/riyad/150.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" ,The Real Pirates of the Caribbean (2004)
-http://tvkuonline.my.id:25461/riyad/riyad/153.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/R6kpT98dpRfzug8xrM8n9kjVqS.jpg" ,Police Story (1985)
-http://tvkuonline.my.id:25461/riyad/riyad/154.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UKNef590A0ZaMnxsscIcWuK1Em.jpg" ,Resident Evil (2002)
-http://tvkuonline.my.id:25461/riyad/riyad/155.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVpq68NxChzynK7otaymRSaWR8p.jpg" ,å°‘æž—è¶³çƒ (2001)
-http://tvkuonline.my.id:25461/riyad/riyad/156.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg" ,Spider-Man: Homecoming (2017)
-http://tvkuonline.my.id:25461/riyad/riyad/157.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg" ,Spider-Man: No Way Home (2021)
-http://tvkuonline.my.id:25461/riyad/riyad/158.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRK4AKBQEWcmIF9lvkt5qxSwQ28.jpg" ,The Avengers (2012)
-http://tvkuonline.my.id:25461/riyad/riyad/159.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVYREutTvI2tmxr6ujrHT704wGF.jpg" ,The Conjuring (2013)
-http://tvkuonline.my.id:25461/riyad/riyad/160.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkrwLBAFHwLnQF8qdhCH0VOQqff.jpg" ,The Forbidden Kingdom (2008)
-http://tvkuonline.my.id:25461/riyad/riyad/162.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPiRINffFu7fms2B5Doq2uE2Dz1.jpg" ,The Legend of Drunken Master (1994)
-http://tvkuonline.my.id:25461/riyad/riyad/163.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLKdbksOvi5cDqUhwXdIpeLpKki.jpg" ,The Medallion (2003)
-http://tvkuonline.my.id:25461/riyad/riyad/164.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg" ,Thor: Ragnarok (2017)
-http://tvkuonline.my.id:25461/riyad/riyad/165.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg" ,Toy Story (1995)
-http://tvkuonline.my.id:25461/riyad/riyad/166.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg" ,Transformers: Dark of the Moon (2011)
-http://tvkuonline.my.id:25461/riyad/riyad/167.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60IEwC4FaHSRpVEAM6iNpXZ5oSA.jpg" ,Twilight (2008)
-http://tvkuonline.my.id:25461/riyad/riyad/168.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg" ,Uncharted (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/169.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9vEMgw1Y7nG6gO1Zf516eAbVe5.jpg" ,Upin & Ipin: Keris Siamang Tunggal (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/170.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9S50foUIYGwiNPWOxi1WJF6IPwI.jpg" ,Independence Day: Resurgence (2016)
-http://tvkuonline.my.id:25461/riyad/riyad/181.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r09ivJ1GGh5WArqRViRYDQLrTVG.jpg" ,Sully (2016)
-http://tvkuonline.my.id:25461/riyad/riyad/204.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg" ,The Lost City (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/208.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moLnqJmZ00i2opS0bzCVcaGC0iI.jpg" ,Umma (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/209.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4xfU5BUrdDeOgt3J6drQGNjfZk.jpg" ,BÃ¸rning 3 (2020)
-http://tvkuonline.my.id:25461/riyad/riyad/210.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smdbW1dWUYSDivE3zw43Ty19j95.jpg" ,Bigfoot vs the Illuminati (2020)
-http://tvkuonline.my.id:25461/riyad/riyad/211.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gF79tD0UFxBsjFqEc1rpPPFpewW.jpg" ,ç‹‚æ­¦è”µ (2020)
-http://tvkuonline.my.id:25461/riyad/riyad/212.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2suj5y3WMaSC7zg4L9kMnsRiomy.jpg" ,G-Zombie (2021)
-http://tvkuonline.my.id:25461/riyad/riyad/213.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUu3UTuF8Q8Qn29sU03ehx5BK4N.jpg" ,Mr Bean Vol 1 (1990)
-http://tvkuonline.my.id:25461/riyad/riyad/214.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Y9fl8tD1xtyUrOHV2MkCYTpzgi.jpg" ,SAS: Red Notice (2021)
-http://tvkuonline.my.id:25461/riyad/riyad/215.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EdvFUGvT5Pn8rUFRKCrdUzNthf.jpg" ,Scooby-Doo on Zombie Island (1998)
-http://tvkuonline.my.id:25461/riyad/riyad/216.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBvubEmOBRwA0HolPanqjMaMjfk.jpg" ,The Banishing (2021)
-http://tvkuonline.my.id:25461/riyad/riyad/217.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEeNmgW1wNepbbaC1i8xErT2bTE.jpg" ,The Resort (2021)
-http://tvkuonline.my.id:25461/riyad/riyad/218.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1Tk1LUwS3nRlugiXnag6Bu1ToG.jpg" ,Redemption Day (2021)
-http://tvkuonline.my.id:25461/riyad/riyad/219.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWnbuXuzMIl3FDIs0qY9ZdDPxCl.jpg" ,Thor (2011)
-http://tvkuonline.my.id:25461/riyad/riyad/220.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg" ,Iron Man 3 (2013)
-http://tvkuonline.my.id:25461/riyad/riyad/221.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5r1zWuzbsVAYSPzvCecAReGhN7k.jpg" ,Captain America: The Winter Soldier (2014)
-http://tvkuonline.my.id:25461/riyad/riyad/222.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg" ,Guardians of the Galaxy (2014)
-http://tvkuonline.my.id:25461/riyad/riyad/223.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTzs0sigsjYotvnlSz2FYq0tx6M.jpg" ,Avengers: Age of Ultron (2015)
-http://tvkuonline.my.id:25461/riyad/riyad/224.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg" ,Deadpool (2016)
-http://tvkuonline.my.id:25461/riyad/riyad/225.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFw9RXKZDvevAGocgBK0zteto4U.jpg" ,Suicide Squad (2016)
-http://tvkuonline.my.id:25461/riyad/riyad/226.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxtZpFfR0RMModlRHTFIuEPEH2O.jpg" ,Guardians of the Galaxy Vol. 2 (2017)
-http://tvkuonline.my.id:25461/riyad/riyad/227.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xf8UcDthIisg1x08eovdebOL3Nw.jpg" ,Ant-Man and the Wasp (2018)
-http://tvkuonline.my.id:25461/riyad/riyad/228.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYTKuov1bxZKrli6HoYSqzTPLgY.jpg" ,Black Panther (2018)
-http://tvkuonline.my.id:25461/riyad/riyad/229.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cu2bx3o0MJGyy3fm3WUnfFxbVFq.jpg" ,Deadpool 2 (2018)
-http://tvkuonline.my.id:25461/riyad/riyad/230.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIqXrTKCKkfrmTakvTsjlya7OWw.jpg" ,Dragon Ball Super Broly (2018)
-http://tvkuonline.my.id:25461/riyad/riyad/231.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bURIWlkMbzT8RdpemzCmQECo2Uh.jpg" ,Venom (2018)
-http://tvkuonline.my.id:25461/riyad/riyad/232.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqFQ716QllKAoikXhsTep5AdH73.jpg" ,He Wont Kill, She Wont Die (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/233.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://titipjepang.com/wp-content/uploads/2022/02/kingdom_visual.jpg" ,Kingdom Live Action (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/234.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BgCad0B5MbtAmJuyXVx8q97zVD.jpg" ,Spider-Man: Far From Home (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/235.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szPXSIOBQrOTDjDFMMxGzQPZRvR.jpg" ,The Odd Family Zombie On Sale (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/236.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg" ,Captain America: Civil War (2016)
-http://tvkuonline.my.id:25461/riyad/riyad/237.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4FJ4jRgVu9vRpmCKU6SeOBaUfh.jpg" ,è‘‰å• (2008)
-http://tvkuonline.my.id:25461/riyad/riyad/238.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMvRuoptuLufj1KZDc0fptYA8yZ.jpg" ,Iron Man 2 (2010)
-http://tvkuonline.my.id:25461/riyad/riyad/239.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgZKtOvxtDX5HtUa5fAVQ5d1Afh.jpg" ,The Hunger Games (2012)
-http://tvkuonline.my.id:25461/riyad/riyad/240.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg" ,The Incredible Hulk (2008)
-http://tvkuonline.my.id:25461/riyad/riyad/241.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg" ,Independence Day (1996)
-http://tvkuonline.my.id:25461/riyad/riyad/242.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDHnmcroujCRG0ysYQaiswjbyHd.jpg" ,47 Ronin (2013)
-http://tvkuonline.my.id:25461/riyad/riyad/263.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg" ,The Lord of the Rings: The Fellowship of the Ring (2001)
-http://tvkuonline.my.id:25461/riyad/riyad/264.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6zpzAOoGx3kYrEzgAMHQZyF5cE.jpg" ,Harry Potter and the Chamber of Secrets (2002)
-http://tvkuonline.my.id:25461/riyad/riyad/265.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg" ,John Wick (2014)
-http://tvkuonline.my.id:25461/riyad/riyad/266.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zYfzA3TBwrMC8tfFbpiTLODde0.jpg" ,Maze Runner: The Death Cure (2018)
-http://tvkuonline.my.id:25461/riyad/riyad/267.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpwv6bA0jY7SpeiXMmIeLqOW4eg.jpg" ,Ape vs. Monster (2021)
-http://tvkuonline.my.id:25461/riyad/riyad/268.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCg2HPY7rBCrh1YGpXam9LH1xKZ.jpg" ,Aquaman (2018)
-http://tvkuonline.my.id:25461/riyad/riyad/269.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yP3h0Pu8htyb9450mWJ9Vu1rU.jpg" ,Batman vs. Teenage Mutant Ninja Turtles (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/270.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrDI5AQeevDulhcVTgHKTObXHCG.jpg" ,Forget Everything and Run (2021)
-http://tvkuonline.my.id:25461/riyad/riyad/271.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgwjIb2JDHRhNk13lmSxiClFjVk.jpg" ,Frozen (2013)
-http://tvkuonline.my.id:25461/riyad/riyad/272.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mFM80dPzSqoXXuC2UMvLIRWX32.jpg" ,The Twilight Saga: Eclipse (2010)
-http://tvkuonline.my.id:25461/riyad/riyad/273.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5jM5pq78ObAXX1WhTsb115EkLl.jpg" ,The Twilight Saga: New Moon (2009)
-http://tvkuonline.my.id:25461/riyad/riyad/274.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imekS7f1OuHyUP2LAiTEM0zBzUz.jpg" ,Wonder Woman (2017)
-http://tvkuonline.my.id:25461/riyad/riyad/275.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg" ,Charlie's Angels (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/278.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgAQuMDA8UAzRU5mgDtPxiHEw59.jpg" ,ê°ìª½ê°™ì€ ê·¸ë…€ (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/279.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ETx0U2Q5gUHtPJZiQ3hakTqyaR.jpg" ,ì‹ ê³¼í•¨ê»˜-ì¸ê³¼ ì—° (2018)
-http://tvkuonline.my.id:25461/riyad/riyad/280.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84ybyWeNn8HC7Lu1BxvJlXx1nea.jpg" ,ë¯¸ì„±ë…„ (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/281.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/346jRgAcT3N03pBwNYI1dGlWRdw.jpg" ,ì§‘ ì´ì•¼ê¸° (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/282.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7e4n1GfC9iky9VQzH3cDQz9wYpO.jpg" ,Brazen (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/326.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cccEF9QZgV9bLWyupJO41HSrOV.jpg" ,Fistful of Vengeance (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/327.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg" ,Spiderhead (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/328.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKvHwL0GqLOear8rTnUPSTRYY0r.jpg" ,Unstoppable (2010)
-http://tvkuonline.my.id:25461/riyad/riyad/329.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whGCpozvsXM0pBMr2SfRQktxjhM.jpg" ,Torpedo (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/334.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69tTcCvMbchd4y0WaIsYjLnuZ6J.jpg" ,Gehraiyaan (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/337.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zt5l4DYV1kLPL5Vqz1kLq3THXD.jpg" ,Hotel Transylvania: Transformania (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/338.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg" ,The Meg (2018)
-http://tvkuonline.my.id:25461/riyad/riyad/339.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nj5HmHRZsrYQEYYXyAusFv35erP.jpg" ,The King's Man (2021)
-http://tvkuonline.my.id:25461/riyad/riyad/343.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ews3l3v7JYLtBS5ansZrXsXLMzl.jpg" ,Gasoline Alley (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/344.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg" ,Kimi (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/345.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMVUlq6rdqFo1xZ5ozQcKFCDbgj.jpg" ,The Sky Is Everywhere (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/346.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pL9tLATXkwZyDNtnoq3RYoy0bln.jpg" ,4 Kings à¸­à¸²à¸Šà¸µà¸§à¸° à¸¢à¸¸à¸„ 90's (2021)
-http://tvkuonline.my.id:25461/riyad/riyad/347.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p16MvOHuToMxFJxPMbAnWfOpgea.jpg" ,ç‹„ä»æ°ä¹‹å¤ºå‘½å¥‡é¦™ (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/348.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWE48knKsaPGqVoANXoWraiub2d.jpg" ,Eraser: Reborn (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/349.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIh37nBjtYqYwycAAZVnLqHLoXw.jpg" ,é’è›‡ï¼šå‰ç¼˜ (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/350.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" ,Locked In (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/351.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyatxKGACzSNqDzTe5sv5YHAY30.jpg" ,Return to Space (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/352.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zetKhTVOuScOavtqi2sQT14vcyR.jpg" ,The Siege of Robin Hood (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/353.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhVglqsfTPKP75VT3ChK85RQafX.jpg" ,The Spy Who Never Dies (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/354.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oifhfVhUcuDjE61V5bS5dfShQrm.jpg" ,Clifford the Big Red Dog (2021)
-http://tvkuonline.my.id:25461/riyad/riyad/355.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6chJTtVdnX93klEkYm7TWlkWaSI.jpg" ,The Burning Sea (2021)
-http://tvkuonline.my.id:25461/riyad/riyad/356.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MTGip0nfahQ1jPQCZSfCsPBZes.jpg" ,Firestarter (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/357.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0W61w08KPAxO63uuM0Xspxb27l.jpg" ,RRR (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/359.mkv
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8p9zXB7M78nZpm215zHfqpknMeM.jpg" ,The Northman (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/360.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg" ,Doctor Strange: In the Multiverse of Madness (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/361.mp4
-#EXTINF:-1 group-title="Internasional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg" ,Thor: Love and Thunder (2022) (CAM Quality)
-http://tvkuonline.my.id:25461/riyad/riyad/362.mp4
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB6uCpwsTsVT3kLNmV1TtHs7XqV.jpg" ,Warkop DKI Reborn (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/109.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ou0RXd6klTrqDnVjahFOaw15uD.jpg" ,3 Dara 2 (2018)
-http://tvkuonline.my.id:25461/riyad/riyad/110.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXigQ3NGXBpW4OHaoqFESpLbMWb.jpg" ,Warkop DKI: Salah Masuk (1992)
-http://tvkuonline.my.id:25461/riyad/riyad/111.mp4
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u83rPC8nQQ1QtELfAqw3OR1ccLs.jpg" ,Akhir Kisah Cinta Si Doel (2020)
-http://tvkuonline.my.id:25461/riyad/riyad/112.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CYsEJNV2FkgeK5a6k4ZPsqbt2B.jpg" ,Battle of Surabaya (2015)
-http://tvkuonline.my.id:25461/riyad/riyad/121.mp4
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIHA8Xf6WmxbS83ia4vQ5ojvxV8.jpg" ,CHiPS (2017)
-http://tvkuonline.my.id:25461/riyad/riyad/125.mp4
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7E4xlKecZhkqy4ji0BURFSd6v7.jpg" ,Danur (2017)
-http://tvkuonline.my.id:25461/riyad/riyad/129.mp4
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7E4xlKecZhkqy4ji0BURFSd6v7.jpg" ,Danur (2017)
-http://tvkuonline.my.id:25461/riyad/riyad/130.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7E4xlKecZhkqy4ji0BURFSd6v7.jpg" ,Danur (2017)
-http://tvkuonline.my.id:25461/riyad/riyad/131.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3V16r41x68R6uVHpm9TIga5593T.jpg" ,My Stupid Boss (2016)
-http://tvkuonline.my.id:25461/riyad/riyad/151.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSqwYt0UEKypvDcKC4pcuWxYvbm.jpg" ,KKN di Desa Penari Not Official (Qam Quality) (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/152.mp4
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouVRoKOps7ew5k6MoGo2bgqbtH7.jpg" ,Warkop DKI: Atas Boleh Bawah Boleh (1986)
-http://tvkuonline.my.id:25461/riyad/riyad/171.mp4
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrDSIz5FC26caRmAFcNh4uy5Mg9.jpg" ,Warkop DKI: Bisa Naik Bisa Turun (1991)
-http://tvkuonline.my.id:25461/riyad/riyad/172.mp4
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZtmAlJCkxm0Eg04oLyzTvzZwpU.jpg" ,Warkop DKI: Depan Bisa Belakang Bisa (1987)
-http://tvkuonline.my.id:25461/riyad/riyad/173.mp4
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zs30BeJLjZEwdneRJUgIxF6vxt.jpg" ,Warkop DKI: Godain Kita Dong (1989)
-http://tvkuonline.my.id:25461/riyad/riyad/174.mp4
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itxUbDBukZisr9BsHi7Z4HPN6RH.jpg" ,Warkop DKI: Makin Lama Makin Asyik (1987)
-http://tvkuonline.my.id:25461/riyad/riyad/175.mp4
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/868GfcXuUcvD0WMHHYBuwt9W1lF.jpg" ,Warkop DKI: Malu-Malu Mau (1988)
-http://tvkuonline.my.id:25461/riyad/riyad/176.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://a.ltrbxd.com/resized/film-poster/5/2/6/0/2/4/526024-pencet-sana-pencet-sini-0-230-0-345-crop.jpg?k=4a4f034ac4" ,Warkop DKI: Pencet Sana Pencet Sini (1994)
-http://tvkuonline.my.id:25461/riyad/riyad/177.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLbIVGkj145VjkRn6qbu8GVVlh1.jpg" ,Warkop DKI: Sabar Dulu Dong...! (1989)
-http://tvkuonline.my.id:25461/riyad/riyad/178.mp4
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdGWfJr2wbAaiPGJzJ1rUQPElLX.jpg" ,Warkop DKI: Lupa Aturan Main (1990)
-http://tvkuonline.my.id:25461/riyad/riyad/179.mp4
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY5YjM1MDgtYzBmYy00ZjhmLTk0MmUtMDgzMWNjM2JiZjUxL2ltYWdlXkEyXkFqcGdeQXVyMzM2NzMxNTY@._V1_FMjpg_UX1000_.jpg" ,Warkop DKI: Dongkrak Antik (1982)
-http://tvkuonline.my.id:25461/riyad/riyad/180.mp4
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3okgSpjrwuJKMjlRrRQNLqxPQiW.jpg" ,Bangkitnya Suster Gepeng (2012)
-http://tvkuonline.my.id:25461/riyad/riyad/202.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nN50NGt2yvIcoklrIzF1UIEF4TH.jpg" ,Ada Apa Dengan Cinta? 2 (2016)
-http://tvkuonline.my.id:25461/riyad/riyad/203.mp4
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78xYkq4BjxgkYE58kGimYsGsGPs.jpg" ,Cahaya Cinta Pesantren (2017)
-http://tvkuonline.my.id:25461/riyad/riyad/205.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3ieUSNjWuL67ogbUX1b0Uq9rJ4.jpg" ,My Stupid Boyfriend (2017)
-http://tvkuonline.my.id:25461/riyad/riyad/206.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohONagShzXKYZ7H9wrwnwQcaF3k.jpg" ,Gundala (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/207.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7LOkm4WDVBYAZgi5xaFQmBrPcp.jpg" ,Comic 8 (2014)
-http://tvkuonline.my.id:25461/riyad/riyad/330.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1fyD0Z6Ss2JbWdYtAq37DB8AXz.jpg" ,Generasi Micin vs Kevin (2018)
-http://tvkuonline.my.id:25461/riyad/riyad/331.mp4
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PInWzbPrLujihJLtTo0BQlsyrz.jpg" ,Ajari Aku Islam (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/332.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BQVzwEV1cPxGrFuNCytQbTLNOk.jpg" ,Iqro: My Universe (2019)
-http://tvkuonline.my.id:25461/riyad/riyad/333.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZEPmgBsCD7qG3SXqINbkmKdRIs.jpg" ,Abrakadabra
-http://tvkuonline.my.id:25461/riyad/riyad/335.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rzdRwDB0PsX62yERZ0rxtwhqVk.jpg" ,Dendam Kesuma (2021)
-http://tvkuonline.my.id:25461/riyad/riyad/336.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKQGqiVZmvKc0OogBXjE7VREc58.jpg" ,Ayat-Ayat Cinta (2008)
-http://tvkuonline.my.id:25461/riyad/riyad/340.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIl5FMfLm8NKNpRvmGjFRPdejzG.jpg" ,Nanti Kita Cerita tentang Hari Ini (2020)
-http://tvkuonline.my.id:25461/riyad/riyad/341.mkv
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yuBXTItPyXQC9FIKwiT2ZV4476a.jpg" ,Penyalin Cahaya (2021)
-http://tvkuonline.my.id:25461/riyad/riyad/342.mp4
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqcnV3MpXkEjmzRWawd4eqhdUjv.jpg" ,Merindu Cahaya De Amstel (2022)
-http://tvkuonline.my.id:25461/riyad/riyad/358.mkv
-
+#EXTINF:-1,MYTV Net
+http://tvkuonline.my.id:25461/riyad/riyad/1
+#EXTINF:-1,MYTV 2
+http://tvkuonline.my.id:25461/riyad/riyad/2
+#EXTINF:-1,MYTV 3
+http://tvkuonline.my.id:25461/riyad/riyad/3
+#EXTINF:-1,MYTV 4
+http://tvkuonline.my.id:25461/riyad/riyad/4
+#EXTINF:-1,MYTV 5
+http://tvkuonline.my.id:25461/riyad/riyad/5
+#EXTINF:-1,MYTV 6
+http://tvkuonline.my.id:25461/riyad/riyad/6
+#EXTINF:-1,MYTV 7 Live Events
+http://tvkuonline.my.id:25461/riyad/riyad/7
+#EXTINF:-1,Jowo Channel
+http://tvkuonline.my.id:25461/riyad/riyad/421
+#EXTINF:-1,FTA 1
+http://tvkuonline.my.id:25461/riyad/riyad/8
+#EXTINF:-1,FTA  2
+http://tvkuonline.my.id:25461/riyad/riyad/9
+#EXTINF:-1,TV ONE
+http://tvkuonline.my.id:25461/riyad/riyad/10
+#EXTINF:-1,FTA 3
+http://tvkuonline.my.id:25461/riyad/riyad/11
+#EXTINF:-1,Metro TV
+http://tvkuonline.my.id:25461/riyad/riyad/12
+#EXTINF:-1,TRANS TV
+http://tvkuonline.my.id:25461/riyad/riyad/13
+#EXTINF:-1,Indosiar
+http://tvkuonline.my.id:25461/riyad/riyad/14
+#EXTINF:-1,TRANS 7
+http://tvkuonline.my.id:25461/riyad/riyad/15
+#EXTINF:-1,SCTV
+http://tvkuonline.my.id:25461/riyad/riyad/16
+#EXTINF:-1,ANTV
+http://tvkuonline.my.id:25461/riyad/riyad/17
+#EXTINF:-1,NET.
+http://tvkuonline.my.id:25461/riyad/riyad/18
+#EXTINF:-1,Kompas TV
+http://tvkuonline.my.id:25461/riyad/riyad/19
+#EXTINF:-1,RTV
+http://tvkuonline.my.id:25461/riyad/riyad/21
+#EXTINF:-1,Mentari TV
+http://tvkuonline.my.id:25461/riyad/riyad/23
+#EXTINF:-1,MOJI HD
+http://tvkuonline.my.id:25461/riyad/riyad/24
+#EXTINF:-1,FTA 4
+http://tvkuonline.my.id:25461/riyad/riyad/22
+#EXTINF:-1,CNN Indonesia
+http://tvkuonline.my.id:25461/riyad/riyad/25
+#EXTINF:-1,CNBC Indonesia
+http://tvkuonline.my.id:25461/riyad/riyad/27
+#EXTINF:-1,Berita Satu
+http://tvkuonline.my.id:25461/riyad/riyad/28
+#EXTINF:-1,TVRI Nasional
+http://tvkuonline.my.id:25461/riyad/riyad/439
+#EXTINF:-1,JTV
+http://tvkuonline.my.id:25461/riyad/riyad/45
+#EXTINF:-1,Bali TV
+http://tvkuonline.my.id:25461/riyad/riyad/432
+#EXTINF:-1,NTV
+http://tvkuonline.my.id:25461/riyad/riyad/72
+#EXTINF:-1,SPOTV
+http://tvkuonline.my.id:25461/riyad/riyad/422
+#EXTINF:-1,SPOTV 2
+http://tvkuonline.my.id:25461/riyad/riyad/423
+#EXTINF:-1,MUTV
+http://tvkuonline.my.id:25461/riyad/riyad/48
+#EXTINF:-1,Real Madrid TV
+http://tvkuonline.my.id:25461/riyad/riyad/408
+#EXTINF:-1,Bein Sports 1 HD
+http://tvkuonline.my.id:25461/riyad/riyad/416
+#EXTINF:-1,Bein Sports 3 HD
+http://tvkuonline.my.id:25461/riyad/riyad/417
+#EXTINF:-1,FoxSport HD
+http://tvkuonline.my.id:25461/riyad/riyad/418
+#EXTINF:-1,Usee Sports 1
+http://tvkuonline.my.id:25461/riyad/riyad/419
+#EXTINF:-1,Usee Sports 2
+http://tvkuonline.my.id:25461/riyad/riyad/420
+#EXTINF:-1,Fight Sport HD
+http://tvkuonline.my.id:25461/riyad/riyad/446
+#EXTINF:-1,NBA TV
+http://tvkuonline.my.id:25461/riyad/riyad/447
+#EXTINF:-1,Sports TV
+http://tvkuonline.my.id:25461/riyad/riyad/406
+#EXTINF:-1,HBO HD
+http://tvkuonline.my.id:25461/riyad/riyad/412
+#EXTINF:-1,HBO Hits
+http://tvkuonline.my.id:25461/riyad/riyad/413
+#EXTINF:-1,HBO Signature HD
+http://tvkuonline.my.id:25461/riyad/riyad/414
+#EXTINF:-1,HBO Family HD
+http://tvkuonline.my.id:25461/riyad/riyad/415
+#EXTINF:-1,Cinemax
+http://tvkuonline.my.id:25461/riyad/riyad/424
+#EXTINF:-1,Galaxy HD
+http://tvkuonline.my.id:25461/riyad/riyad/448
+#EXTINF:-1,Galaxy Movies Premium
+http://tvkuonline.my.id:25461/riyad/riyad/449
+#EXTINF:-1,AXN HD
+http://tvkuonline.my.id:25461/riyad/riyad/444
+#EXTINF:-1,Cinema World
+http://tvkuonline.my.id:25461/riyad/riyad/401
+#EXTINF:-1,My Cinema Europe
+http://tvkuonline.my.id:25461/riyad/riyad/372
+#EXTINF:-1,K+
+http://tvkuonline.my.id:25461/riyad/riyad/391
+#EXTINF:-1,TVN
+http://tvkuonline.my.id:25461/riyad/riyad/392
+#EXTINF:-1,TVN Movies
+http://tvkuonline.my.id:25461/riyad/riyad/393
+#EXTINF:-1,Celestial Movies
+http://tvkuonline.my.id:25461/riyad/riyad/394
+#EXTINF:-1,Celestial Classic Movies
+http://tvkuonline.my.id:25461/riyad/riyad/396
+#EXTINF:-1,Thrill
+http://tvkuonline.my.id:25461/riyad/riyad/398
+#EXTINF:-1,HITS
+http://tvkuonline.my.id:25461/riyad/riyad/400
+#EXTINF:-1,Paramount Network
+http://tvkuonline.my.id:25461/riyad/riyad/442
+#EXTINF:-1,FLiK
+http://tvkuonline.my.id:25461/riyad/riyad/434
+#EXTINF:-1,Citra Drama
+http://tvkuonline.my.id:25461/riyad/riyad/427
+#EXTINF:-1,Bioskop Indonesia
+http://tvkuonline.my.id:25461/riyad/riyad/433
+#EXTINF:-1,KIX
+http://tvkuonline.my.id:25461/riyad/riyad/402
+#EXTINF:-1,My Cinema
+http://tvkuonline.my.id:25461/riyad/riyad/443
+#EXTINF:-1,Rock Action
+http://tvkuonline.my.id:25461/riyad/riyad/403
+#EXTINF:-1,Rock Entertainment
+http://tvkuonline.my.id:25461/riyad/riyad/404
+#EXTINF:-1,Dunia Lain
+http://tvkuonline.my.id:25461/riyad/riyad/435
+#EXTINF:-1,Zoo Moo Asia
+http://tvkuonline.my.id:25461/riyad/riyad/407
+#EXTINF:-1,Aniplus Asia
+http://tvkuonline.my.id:25461/riyad/riyad/395
+#EXTINF:-1,Indi Kids
+http://tvkuonline.my.id:25461/riyad/riyad/440
+#EXTINF:-1,Cartoon Network
+http://tvkuonline.my.id:25461/riyad/riyad/425
+#EXTINF:-1,DreamWorks HD
+http://tvkuonline.my.id:25461/riyad/riyad/441
+#EXTINF:-1,Nick Jr
+http://tvkuonline.my.id:25461/riyad/riyad/426
+#EXTINF:-1,National Geograpic
+http://tvkuonline.my.id:25461/riyad/riyad/428
+#EXTINF:-1,Nat Geo Wild
+http://tvkuonline.my.id:25461/riyad/riyad/429
+#EXTINF:-1,Tech Storm
+http://tvkuonline.my.id:25461/riyad/riyad/445
+#EXTINF:-1,AFN
+http://tvkuonline.my.id:25461/riyad/riyad/450
+#EXTINF:-1,HGTV
+http://tvkuonline.my.id:25461/riyad/riyad/452
+#EXTINF:-1,History Channel
+http://tvkuonline.my.id:25461/riyad/riyad/430
+#EXTINF:-1,Smithsonian Channel
+http://tvkuonline.my.id:25461/riyad/riyad/387
+#EXTINF:-1,Sony GEM
+http://tvkuonline.my.id:25461/riyad/riyad/451
+#EXTINF:-1,MTA TV
+http://tvkuonline.my.id:25461/riyad/riyad/411
+#EXTINF:-1,Makkah TV
+http://tvkuonline.my.id:25461/riyad/riyad/71
+#EXTINF:-1,U Channel
+http://tvkuonline.my.id:25461/riyad/riyad/431
+#EXTINF:-1,TVMU
+http://tvkuonline.my.id:25461/riyad/riyad/436
+#EXTINF:-1,TV9 Nusantara
+http://tvkuonline.my.id:25461/riyad/riyad/437
+#EXTINF:-1,Rodja TV
+http://tvkuonline.my.id:25461/riyad/riyad/438
+#EXTINF:-1,TV MUI
+http://tvkuonline.my.id:25461/riyad/riyad/410
+#EXTINF:-1,Godzilla: King of the Monsters (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/108.mp4
+#EXTINF:-1,Warkop DKI Reborn (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/109.mkv
+#EXTINF:-1,3 Dara 2 (2018)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/110.mkv
+#EXTINF:-1,Warkop DKI: Salah Masuk (1992)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/111.mp4
+#EXTINF:-1,Akhir Kisah Cinta Si Doel (2020)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/112.mkv
+#EXTINF:-1,Ambulance (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/113.mp4
+#EXTINF:-1,Ant-Man (2015)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/114.mkv
+#EXTINF:-1,Armageddon Tales (2021)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/115.mp4
+#EXTINF:-1,Avengers: Endgame (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/116.mkv
+#EXTINF:-1,Avengers: Infinity War (2018)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/117.mp4
+#EXTINF:-1,Batman v Superman: Dawn of Justice (2016)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/118.mp4
+#EXTINF:-1,Batman (1989)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/119.mkv
+#EXTINF:-1,å®‡å®™å¤§æˆ¦äº‰ (1959)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/120.mkv
+#EXTINF:-1,Battle of Surabaya (2015)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/121.mp4
+#EXTINF:-1,Battleship (2012)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/122.mp4
+#EXTINF:-1,Black Widow (2021)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/123.mp4
+#EXTINF:-1,Bumblebee (2018)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/124.mp4
+#EXTINF:-1,CHiPS (2017)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/125.mp4
+#EXTINF:-1,Captain Marvel (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/126.mkv
+#EXTINF:-1,Cinderella (1950)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/127.mp4
+#EXTINF:-1,Clash of the Titans (2010)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/128.mp4
+#EXTINF:-1,Danur (2017)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/129.mp4
+#EXTINF:-1,Danur (2017)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/130.mkv
+#EXTINF:-1,Danur (2017)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/131.mkv
+#EXTINF:-1,Despicable Me (2010)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/132.mp4
+#EXTINF:-1,Doctor Strange (2016)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/133.mkv
+#EXTINF:-1,Dragon Fury (2021)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/134.mp4
+#EXTINF:-1,Fast & Furious (2009)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/135.mp4
+#EXTINF:-1,è³­ç¥ž (1989)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/136.mkv
+#EXTINF:-1,Godzilla vs. Kong (2021)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/137.mkv
+#EXTINF:-1,Home Alone 3 (1997)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/138.mp4
+#EXTINF:-1,Interceptor (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/140.mkv
+#EXTINF:-1,Iron Man (2008)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/141.mkv
+#EXTINF:-1,æˆé¾çš„ç‰¹æŠ€ (1999)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/142.mp4
+#EXTINF:-1,Johnny English (2003)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/143.mp4
+#EXTINF:-1,Voyage en Chine (2015)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/144.mkv
+#EXTINF:-1,Jumanji: The Next Level (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/145.mp4
+#EXTINF:-1,Justice League (2017)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/146.mp4
+#EXTINF:-1,Kamen Rider: Zi O Over Quartzer (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/147.mp4
+#EXTINF:-1,Kapten Amerika: Avenger Pertama (2011)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/148.mkv
+#EXTINF:-1,åŠŸå¤« (2004)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/149.mp4
+#EXTINF:-1,Madagascar (2005)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/150.mp4
+#EXTINF:-1,My Stupid Boss (2016)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/151.mkv
+#EXTINF:-1,KKN di Desa Penari Not Official (Qam Quality) (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/152.mp4
+#EXTINF:-1,The Real Pirates of the Caribbean (2004)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/153.mp4
+#EXTINF:-1,Police Story (1985)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/154.mkv
+#EXTINF:-1,Resident Evil (2002)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/155.mkv
+#EXTINF:-1,å°‘æž—è¶³çƒ (2001)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/156.mp4
+#EXTINF:-1,Spider-Man: Homecoming (2017)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/157.mp4
+#EXTINF:-1,Spider-Man: No Way Home (2021)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/158.mkv
+#EXTINF:-1,The Avengers (2012)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/159.mp4
+#EXTINF:-1,The Conjuring (2013)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/160.mp4
+#EXTINF:-1,The Forbidden Kingdom (2008)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/162.mkv
+#EXTINF:-1,The Legend of Drunken Master (1994)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/163.mp4
+#EXTINF:-1,The Medallion (2003)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/164.mp4
+#EXTINF:-1,Thor: Ragnarok (2017)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/165.mkv
+#EXTINF:-1,Toy Story (1995)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/166.mp4
+#EXTINF:-1,Transformers: Dark of the Moon (2011)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/167.mp4
+#EXTINF:-1,Twilight (2008)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/168.mp4
+#EXTINF:-1,Uncharted (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/169.mp4
+#EXTINF:-1,Upin & Ipin: Keris Siamang Tunggal (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/170.mkv
+#EXTINF:-1,Warkop DKI: Atas Boleh Bawah Boleh (1986)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/171.mp4
+#EXTINF:-1,Warkop DKI: Bisa Naik Bisa Turun (1991)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/172.mp4
+#EXTINF:-1,Warkop DKI: Depan Bisa Belakang Bisa (1987)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/173.mp4
+#EXTINF:-1,Warkop DKI: Godain Kita Dong (1989)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/174.mp4
+#EXTINF:-1,Warkop DKI: Makin Lama Makin Asyik (1987)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/175.mp4
+#EXTINF:-1,Warkop DKI: Malu-Malu Mau (1988)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/176.mkv
+#EXTINF:-1,Warkop DKI: Pencet Sana Pencet Sini (1994)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/177.mkv
+#EXTINF:-1,Warkop DKI: Sabar Dulu Dong...! (1989)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/178.mp4
+#EXTINF:-1,Warkop DKI: Lupa Aturan Main (1990)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/179.mp4
+#EXTINF:-1,Warkop DKI: Dongkrak Antik (1982)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/180.mp4
+#EXTINF:-1,Independence Day: Resurgence (2016)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/181.mp4
+#EXTINF:-1,Bangkitnya Suster Gepeng (2012)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/202.mkv
+#EXTINF:-1,Ada Apa Dengan Cinta? 2 (2016)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/203.mp4
+#EXTINF:-1,Sully (2016)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/204.mkv
+#EXTINF:-1,Cahaya Cinta Pesantren (2017)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/205.mkv
+#EXTINF:-1,My Stupid Boyfriend (2017)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/206.mkv
+#EXTINF:-1,Gundala (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/207.mkv
+#EXTINF:-1,The Lost City (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/208.mp4
+#EXTINF:-1,Umma (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/209.mp4
+#EXTINF:-1,BÃ¸rning 3 (2020)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/210.mp4
+#EXTINF:-1,Bigfoot vs the Illuminati (2020)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/211.mp4
+#EXTINF:-1,ç‹‚æ­¦è”µ (2020)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/212.mp4
+#EXTINF:-1,G-Zombie (2021)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/213.mp4
+#EXTINF:-1,Mr Bean Vol 1 (1990)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/214.mp4
+#EXTINF:-1,SAS: Red Notice (2021)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/215.mp4
+#EXTINF:-1,Scooby-Doo on Zombie Island (1998)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/216.mp4
+#EXTINF:-1,The Banishing (2021)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/217.mp4
+#EXTINF:-1,The Resort (2021)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/218.mp4
+#EXTINF:-1,Redemption Day (2021)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/219.mp4
+#EXTINF:-1,Thor (2011)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/220.mkv
+#EXTINF:-1,Iron Man 3 (2013)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/221.mkv
+#EXTINF:-1,Captain America: The Winter Soldier (2014)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/222.mkv
+#EXTINF:-1,Guardians of the Galaxy (2014)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/223.mkv
+#EXTINF:-1,Avengers: Age of Ultron (2015)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/224.mkv
+#EXTINF:-1,Deadpool (2016)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/225.mp4
+#EXTINF:-1,Suicide Squad (2016)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/226.mp4
+#EXTINF:-1,Guardians of the Galaxy Vol. 2 (2017)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/227.mkv
+#EXTINF:-1,Ant-Man and the Wasp (2018)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/228.mkv
+#EXTINF:-1,Black Panther (2018)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/229.mkv
+#EXTINF:-1,Deadpool 2 (2018)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/230.mp4
+#EXTINF:-1,Dragon Ball Super Broly (2018)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/231.mp4
+#EXTINF:-1,Venom (2018)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/232.mkv
+#EXTINF:-1,He Wont Kill, She Wont Die (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/233.mkv
+#EXTINF:-1,Kingdom Live Action (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/234.mkv
+#EXTINF:-1,Spider-Man: Far From Home (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/235.mkv
+#EXTINF:-1,The Odd Family Zombie On Sale (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/236.mp4
+#EXTINF:-1,Captain America: Civil War (2016)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/237.mkv
+#EXTINF:-1,è‘‰å• (2008)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/238.mp4
+#EXTINF:-1,Iron Man 2 (2010)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/239.mkv
+#EXTINF:-1,The Hunger Games (2012)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/240.mp4
+#EXTINF:-1,The Incredible Hulk (2008)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/241.mkv
+#EXTINF:-1,Independence Day (1996)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/242.mp4
+#EXTINF:-1,47 Ronin (2013)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/263.mp4
+#EXTINF:-1,The Lord of the Rings: The Fellowship of the Ring (2001)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/264.mkv
+#EXTINF:-1,Harry Potter and the Chamber of Secrets (2002)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/265.mkv
+#EXTINF:-1,John Wick (2014)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/266.mp4
+#EXTINF:-1,Maze Runner: The Death Cure (2018)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/267.mp4
+#EXTINF:-1,Ape vs. Monster (2021)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/268.mp4
+#EXTINF:-1,Aquaman (2018)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/269.mp4
+#EXTINF:-1,Batman vs. Teenage Mutant Ninja Turtles (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/270.mp4
+#EXTINF:-1,Forget Everything and Run (2021)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/271.mp4
+#EXTINF:-1,Frozen (2013)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/272.mp4
+#EXTINF:-1,The Twilight Saga: Eclipse (2010)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/273.mp4
+#EXTINF:-1,The Twilight Saga: New Moon (2009)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/274.mp4
+#EXTINF:-1,Wonder Woman (2017)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/275.mp4
+#EXTINF:-1,Charlie's Angels (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/278.mp4
+#EXTINF:-1,ê°ìª½ê°™ì€ ê·¸ë…€ (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/279.mp4
+#EXTINF:-1,ì‹ ê³¼í•¨ê»˜-ì¸ê³¼ ì—° (2018)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/280.mp4
+#EXTINF:-1,ë¯¸ì„±ë…„ (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/281.mp4
+#EXTINF:-1,ì§‘ ì´ì•¼ê¸° (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/282.mp4
+#EXTINF:-1,Brazen (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/326.mp4
+#EXTINF:-1,Fistful of Vengeance (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/327.mp4
+#EXTINF:-1,Spiderhead (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/328.mp4
+#EXTINF:-1,Unstoppable (2010)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/329.mp4
+#EXTINF:-1,Comic 8 (2014)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/330.mkv
+#EXTINF:-1,Generasi Micin vs Kevin (2018)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/331.mp4
+#EXTINF:-1,Ajari Aku Islam (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/332.mkv
+#EXTINF:-1,Iqro: My Universe (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/333.mkv
+#EXTINF:-1,Torpedo (2019)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/334.mp4
+#EXTINF:-1,Abrakadabra
+http://tvkuonline.my.id:25461/movie/riyad/riyad/335.mkv
+#EXTINF:-1,Dendam Kesuma (2021)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/336.mkv
+#EXTINF:-1,Gehraiyaan (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/337.mkv
+#EXTINF:-1,Hotel Transylvania: Transformania (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/338.mp4
+#EXTINF:-1,The Meg (2018)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/339.mkv
+#EXTINF:-1,Ayat-Ayat Cinta (2008)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/340.mkv
+#EXTINF:-1,Nanti Kita Cerita tentang Hari Ini (2020)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/341.mkv
+#EXTINF:-1,Penyalin Cahaya (2021)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/342.mp4
+#EXTINF:-1,The King's Man (2021)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/343.mp4
+#EXTINF:-1,Gasoline Alley (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/344.mkv
+#EXTINF:-1,Kimi (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/345.mp4
+#EXTINF:-1,The Sky Is Everywhere (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/346.mp4
+#EXTINF:-1,4 Kings à¸­à¸²à¸Šà¸µà¸§à¸° à¸¢à¸¸à¸„ 90's (2021)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/347.mp4
+#EXTINF:-1,ç‹„ä»æ°ä¹‹å¤ºå‘½å¥‡é¦™ (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/348.mp4
+#EXTINF:-1,Eraser: Reborn (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/349.mp4
+#EXTINF:-1,é’è›‡ï¼šå‰ç¼˜ (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/350.mp4
+#EXTINF:-1,Locked In (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/351.mp4
+#EXTINF:-1,Return to Space (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/352.mp4
+#EXTINF:-1,The Siege of Robin Hood (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/353.mp4
+#EXTINF:-1,The Spy Who Never Dies (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/354.mp4
+#EXTINF:-1,Clifford the Big Red Dog (2021)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/355.mkv
+#EXTINF:-1,The Burning Sea (2021)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/356.mkv
+#EXTINF:-1,Firestarter (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/357.mkv
+#EXTINF:-1,Merindu Cahaya De Amstel (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/358.mkv
+#EXTINF:-1,RRR (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/359.mkv
+#EXTINF:-1,The Northman (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/360.mp4
+#EXTINF:-1,Doctor Strange: In the Multiverse of Madness (2022)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/361.mp4
+#EXTINF:-1,Thor: Love and Thunder (2022) (CAM Quality)
+http://tvkuonline.my.id:25461/movie/riyad/riyad/362.mp4
+#EXTINF:-1,Layangan Putus S01 E01
+http://tvkuonline.my.id:25461/series/riyad/riyad/182.mp4
+#EXTINF:-1,Layangan Putus S01 E02
+http://tvkuonline.my.id:25461/series/riyad/riyad/183.mp4
+#EXTINF:-1,Layangan Putus S01 E03
+http://tvkuonline.my.id:25461/series/riyad/riyad/184.mp4
+#EXTINF:-1,Layangan Putus S01 E04
+http://tvkuonline.my.id:25461/series/riyad/riyad/185.mp4
+#EXTINF:-1,Layangan Putus S01 E05
+http://tvkuonline.my.id:25461/series/riyad/riyad/186.mp4
+#EXTINF:-1,Layangan Putus S01 E06
+http://tvkuonline.my.id:25461/series/riyad/riyad/187.mp4
+#EXTINF:-1,Layangan Putus S01 E07
+http://tvkuonline.my.id:25461/series/riyad/riyad/188.mp4
+#EXTINF:-1,Layangan Putus S01 E08
+http://tvkuonline.my.id:25461/series/riyad/riyad/189.mp4
+#EXTINF:-1,Layangan Putus S01 E09
+http://tvkuonline.my.id:25461/series/riyad/riyad/190.mp4
+#EXTINF:-1,Layangan Putus S01 E10
+http://tvkuonline.my.id:25461/series/riyad/riyad/191.mp4
+#EXTINF:-1,Layangan Putus S01 E11
+http://tvkuonline.my.id:25461/series/riyad/riyad/192.mp4
+#EXTINF:-1,Layangan Putus S01 E12
+http://tvkuonline.my.id:25461/series/riyad/riyad/193.mp4
+#EXTINF:-1,Layangan Putus S01 E13
+http://tvkuonline.my.id:25461/series/riyad/riyad/194.mp4
+#EXTINF:-1,Layangan Putus S01 E14
+http://tvkuonline.my.id:25461/series/riyad/riyad/195.mp4
+#EXTINF:-1,Layangan Putus S01 E15
+http://tvkuonline.my.id:25461/series/riyad/riyad/196.mp4
+#EXTINF:-1,Layangan Putus S01 E16
+http://tvkuonline.my.id:25461/series/riyad/riyad/197.mp4
+#EXTINF:-1,Layangan Putus S01 E17
+http://tvkuonline.my.id:25461/series/riyad/riyad/198.mp4
+#EXTINF:-1,Layangan Putus S01 E18
+http://tvkuonline.my.id:25461/series/riyad/riyad/199.mp4
+#EXTINF:-1,Layangan Putus S01 E19
+http://tvkuonline.my.id:25461/series/riyad/riyad/200.mp4
+#EXTINF:-1,Wedding Hell S01 E01
+http://tvkuonline.my.id:25461/series/riyad/riyad/243.mp4
+#EXTINF:-1,Wedding Hell S01 E02
+http://tvkuonline.my.id:25461/series/riyad/riyad/244.mp4
+#EXTINF:-1,Wedding Hell S01 E03
+http://tvkuonline.my.id:25461/series/riyad/riyad/245.mp4
+#EXTINF:-1,Wedding Hell S01 E04
+http://tvkuonline.my.id:25461/series/riyad/riyad/246.mp4
+#EXTINF:-1,Wedding Hell S01 E05
+http://tvkuonline.my.id:25461/series/riyad/riyad/247.mp4
+#EXTINF:-1,Wedding Hell S01 E06
+http://tvkuonline.my.id:25461/series/riyad/riyad/248.mp4
+#EXTINF:-1,Wedding Hell S01 E07
+http://tvkuonline.my.id:25461/series/riyad/riyad/249.mp4
+#EXTINF:-1,Wedding Hell S01 E08
+http://tvkuonline.my.id:25461/series/riyad/riyad/250.mp4
+#EXTINF:-1,Wedding Hell S01 E09
+http://tvkuonline.my.id:25461/series/riyad/riyad/251.mp4
+#EXTINF:-1,Wedding Hell S01 E10
+http://tvkuonline.my.id:25461/series/riyad/riyad/252.mp4
+#EXTINF:-1,Wedding Hell S01 E11
+http://tvkuonline.my.id:25461/series/riyad/riyad/253.mp4
+#EXTINF:-1,Wedding Hell S01 E12
+http://tvkuonline.my.id:25461/series/riyad/riyad/254.mp4
+#EXTINF:-1,Goblin S01 E01
+http://tvkuonline.my.id:25461/series/riyad/riyad/283.avi
+#EXTINF:-1,Goblin S01 E02
+http://tvkuonline.my.id:25461/series/riyad/riyad/284.avi
+#EXTINF:-1,Goblin S01 E03
+http://tvkuonline.my.id:25461/series/riyad/riyad/285.avi
+#EXTINF:-1,Goblin S01 E04
+http://tvkuonline.my.id:25461/series/riyad/riyad/286.avi
+#EXTINF:-1,Goblin S01 E05
+http://tvkuonline.my.id:25461/series/riyad/riyad/287.avi
+#EXTINF:-1,Goblin S01 E06
+http://tvkuonline.my.id:25461/series/riyad/riyad/288.avi
+#EXTINF:-1,Goblin S01 E07
+http://tvkuonline.my.id:25461/series/riyad/riyad/289.avi
+#EXTINF:-1,Goblin S01 E08
+http://tvkuonline.my.id:25461/series/riyad/riyad/290.avi
+#EXTINF:-1,Goblin S01 E09
+http://tvkuonline.my.id:25461/series/riyad/riyad/291.avi
+#EXTINF:-1,Goblin S01 E10
+http://tvkuonline.my.id:25461/series/riyad/riyad/292.avi
+#EXTINF:-1,Goblin S01 E11
+http://tvkuonline.my.id:25461/series/riyad/riyad/293.avi
+#EXTINF:-1,Goblin S01 E12
+http://tvkuonline.my.id:25461/series/riyad/riyad/294.avi
+#EXTINF:-1,Goblin S01 E13
+http://tvkuonline.my.id:25461/series/riyad/riyad/295.avi
+#EXTINF:-1,Goblin S01 E14
+http://tvkuonline.my.id:25461/series/riyad/riyad/296.avi
+#EXTINF:-1,Goblin S01 E15
+http://tvkuonline.my.id:25461/series/riyad/riyad/297.avi
+#EXTINF:-1,Goblin S01 E16
+http://tvkuonline.my.id:25461/series/riyad/riyad/298.avi
+#EXTINF:-1,Sweet Home S01 E01
+http://tvkuonline.my.id:25461/series/riyad/riyad/309.mp4
+#EXTINF:-1,Sweet Home S01 E02
+http://tvkuonline.my.id:25461/series/riyad/riyad/299.mp4
+#EXTINF:-1,Sweet Home S01 E03
+http://tvkuonline.my.id:25461/series/riyad/riyad/301.mp4
+#EXTINF:-1,Sweet Home S01 E04
+http://tvkuonline.my.id:25461/series/riyad/riyad/302.mp4
+#EXTINF:-1,Sweet Home S01 E05
+http://tvkuonline.my.id:25461/series/riyad/riyad/303.mp4
+#EXTINF:-1,Sweet Home S01 E06
+http://tvkuonline.my.id:25461/series/riyad/riyad/304.mp4
+#EXTINF:-1,Sweet Home S01 E07
+http://tvkuonline.my.id:25461/series/riyad/riyad/305.mp4
+#EXTINF:-1,Sweet Home S01 E08
+http://tvkuonline.my.id:25461/series/riyad/riyad/306.mp4
+#EXTINF:-1,Sweet Home S01 E09
+http://tvkuonline.my.id:25461/series/riyad/riyad/307.mp4
+#EXTINF:-1,Sweet Home S01 E10
+http://tvkuonline.my.id:25461/series/riyad/riyad/308.mp4
+#EXTINF:-1,Sweet Home S01 E11
+http://tvkuonline.my.id:25461/series/riyad/riyad/300.mp4
+#EXTINF:-1,Sweet Revenge S02 E01
+http://tvkuonline.my.id:25461/series/riyad/riyad/310.mp4
+#EXTINF:-1,Sweet Revenge S02 E02
+http://tvkuonline.my.id:25461/series/riyad/riyad/318.mp4
+#EXTINF:-1,Sweet Revenge S02 E03
+http://tvkuonline.my.id:25461/series/riyad/riyad/319.mp4
+#EXTINF:-1,Sweet Revenge S02 E04
+http://tvkuonline.my.id:25461/series/riyad/riyad/320.mp4
+#EXTINF:-1,Sweet Revenge S02 E05
+http://tvkuonline.my.id:25461/series/riyad/riyad/321.mp4
+#EXTINF:-1,Sweet Revenge S02 E06
+http://tvkuonline.my.id:25461/series/riyad/riyad/322.mp4
+#EXTINF:-1,Sweet Revenge S02 E07
+http://tvkuonline.my.id:25461/series/riyad/riyad/323.mp4
+#EXTINF:-1,Sweet Revenge S02 E08
+http://tvkuonline.my.id:25461/series/riyad/riyad/324.mp4
+#EXTINF:-1,Sweet Revenge S02 E09
+http://tvkuonline.my.id:25461/series/riyad/riyad/325.mp4
+#EXTINF:-1,Sweet Revenge S02 E10
+http://tvkuonline.my.id:25461/series/riyad/riyad/311.mp4
+#EXTINF:-1,Sweet Revenge S02 E11
+http://tvkuonline.my.id:25461/series/riyad/riyad/312.mp4
+#EXTINF:-1,Sweet Revenge S02 E12
+http://tvkuonline.my.id:25461/series/riyad/riyad/313.mp4
+#EXTINF:-1,Sweet Revenge S02 E13
+http://tvkuonline.my.id:25461/series/riyad/riyad/314.mp4
+#EXTINF:-1,Sweet Revenge S02 E14
+http://tvkuonline.my.id:25461/series/riyad/riyad/315.mp4
+#EXTINF:-1,Sweet Revenge S02 E15
+http://tvkuonline.my.id:25461/series/riyad/riyad/316.mp4
+#EXTINF:-1,Sweet Revenge S02 E16
+http://tvkuonline.my.id:25461/series/riyad/riyad/317.mp4
+#EXTINF:-1,Ms. Marvel ( 2022 ) S01 E01
+http://tvkuonline.my.id:25461/series/riyad/riyad/377.mp4
+#EXTINF:-1,Ms. Marvel ( 2022 ) S01 E02
+http://tvkuonline.my.id:25461/series/riyad/riyad/378.mp4
+#EXTINF:-1,Ms. Marvel ( 2022 ) S01 E03
+http://tvkuonline.my.id:25461/series/riyad/riyad/379.mp4
+#EXTINF:-1,Ms. Marvel ( 2022 ) S01 E04
+http://tvkuonline.my.id:25461/series/riyad/riyad/380.mp4
+#EXTINF:-1,Ms. Marvel ( 2022 ) S01 E05
+http://tvkuonline.my.id:25461/series/riyad/riyad/381.mp4
+#EXTINF:-1,Ms. Marvel ( 2022 ) S01 E06
+http://tvkuonline.my.id:25461/series/riyad/riyad/382.mp4
