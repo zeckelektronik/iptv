@@ -59,13 +59,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 
 
 -----------------Etv Bioskop--------------------
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Etv Bioskop", Etv Bioskop(xtv)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Etv Bioskop", Etv Bioskop01
 http://xtv.ooo:8080/RiyazMPT/433833/350941
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Etv Bioskop ", Etv Bioskop 02(xtv)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Etv Bioskop ", Etv Bioskop02
 http://xtv.ooo:8080/RiyazMPT/433833/350942
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Etv Bioskop", Etv Bioskop 03(xtv)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Etv Bioskop", Etv Bioskop03
 http://xtv.ooo:8080/RiyazMPT/433833/350943
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Etv Bioskop", Etv Bioskop 04(xtv)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Etv Bioskop", Etv Bioskop04
 http://xtv.ooo:8080/RiyazMPT/433833/350944
 
 
