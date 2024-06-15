@@ -5397,164 +5397,165 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5|Referer="ht
 
 
 =======================================INDO=================
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TVRI Nasional" tvg-logo="https://iptv.urfan.web.id/logo/tvri.png",TVRI Nasional
+#EXTINF:-1 group-title="INDONESIA" tvg-id="001 TVRI Nasional" tvg-logo="https://iptv.urfan.web.id/logo/tvri.png",TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ANTV" tvg-logo="https://iptv.urfan.web.id/logo/antv.png",ANTV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="002 ANTV" tvg-logo="https://iptv.urfan.web.id/logo/antv.png",ANTV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch108.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="MNCTV" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png",MNCTV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="003 MNCTV" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://testfunctionlive.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI
+#EXTINF:-1 group-title="INDONESIA" tvg-id="004 RCTI" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://testfunctionlive.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="GTV" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",GTV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="005 GTV" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://testfunctionlive.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="INDOSIAR" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar
+#EXTINF:-1 group-title="INDONESIA" tvg-id="006 INDOSIAR" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="SCTV" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="007 SCTV" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS TV" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="008 TRANS TV" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS 7" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7
+#EXTINF:-1 group-title="INDONESIA" tvg-id="009 TRANS 7" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
-
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TV ONE" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne
+#EXTINF:-1 group-title="INDONESIA" tvg-id="010 TV ONE" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ythls.urfan.web.id/stream/yNKvkPJl-tg/master.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="VTV" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png",VTV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="011 VTV" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="NET" tvg-logo="https://iptv.urfan.web.id/logo/net.png",NET
+#EXTINF:-1 group-title="INDONESIA" tvg-id="012 NET" tvg-logo="https://iptv.urfan.web.id/logo/net.png",NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ythls.urfan.web.id/stream/UC1-ATnDVEwKT6-0aEeJ2ibA/master.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="RTV" tvg-logo="https://iptv.urfan.web.id/logo/rtv.png",RTV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="013 RTV" tvg-logo="https://iptv.urfan.web.id/logo/rtv.png",RTV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch115.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="KompasTV" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png",Kompas TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="014 KompasTV" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ythls.urfan.web.id/stream/DOOrIxw5xOw/master.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png",Metro TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="015 MetroTV" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ythls.urfan.web.id/stream/XKueVSGTk2o/master.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TVRI World" tvg-logo="https://iptv.urfan.web.id/logo/tvriworld.png",TVRI World
+#EXTINF:-1 group-title="INDONESIA" tvg-id="016 TVRI World" tvg-logo="https://iptv.urfan.web.id/logo/tvriworld.png",TVRI World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TVRI Sport" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport
+#EXTINF:-1 group-title="INDONESIA" tvg-id="017 TVRI Sport" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="iNews" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",iNews
+#EXTINF:-1 group-title="INDONESIA" tvg-id="018 iNews" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",iNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://testfunctionlive.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="OChannel" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",Moji
+#EXTINF:-1 group-title="INDONESIA" tvg-id="019 OChannel" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="MentariTV" tvg-logo="https://iptv.urfan.web.id/logo/mentari.png",Mentari TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="020 MentariTV" tvg-logo="https://iptv.urfan.web.id/logo/mentari.png",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="CNN Indonesia" tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png",CNN Indonesia
+#EXTINF:-1 group-title="INDONESIA" tvg-id="021 CNN Indonesia" tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="CNBC Indonesia" tvg-logo="https://iptv.urfan.web.id/logo/cnbcid.png",CNBC Indonesia
+#EXTINF:-1 group-title="INDONESIA" tvg-id="022 CNBC Indonesia" tvg-logo="https://iptv.urfan.web.id/logo/cnbcid.png",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="magna channel" tvg-logo="https://iptv.urfan.web.id/logo/magna.png",Magna Channel
+#EXTINF:-1 group-title="INDONESIA" tvg-id="023 magna channel" tvg-logo="https://iptv.urfan.web.id/logo/magna.png",Magna Channel
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch111.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="bnchannel" tvg-logo="https://iptv.urfan.web.id/logo/bn.png",BN Channel
+#EXTINF:-1 group-title="INDONESIA" tvg-id="024 bnchannel" tvg-logo="https://iptv.urfan.web.id/logo/bn.png",BN Channel
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch112.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="metroglobenetwork" tvg-logo="https://iptv.urfan.web.id/logo/mgn.png",Metro Globe Network
+#EXTINF:-1 group-title="INDONESIA" tvg-id="025 metroglobenetwork" tvg-logo="https://iptv.urfan.web.id/logo/mgn.png",Metro Globe Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="seatoday" tvg-logo="https://iptv.urfan.web.id/logo/seatoday.png",SEA TODAY
+#EXTINF:-1 group-title="INDONESIA" tvg-id="026 seatoday" tvg-logo="https://iptv.urfan.web.id/logo/seatoday.png",SEA TODAY
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch106.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="GARUDATV" tvg-logo="https://iptv.urfan.web.id/logo/garudatv.png",Garuda TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="027 GARUDATV" tvg-logo="https://iptv.urfan.web.id/logo/garudatv.png",Garuda TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="IDTV" tvg-logo="https://iptv.urfan.web.id/logo/idtv.png",IDTV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="028 IDTV" tvg-logo="https://iptv.urfan.web.id/logo/idtv.png",IDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="MTATV" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png",MTA TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="030 MTATV" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png",MTA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ythls.urfan.web.id/stream/UCIrj7gqiu8uUfgMitYFzkNg/master.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="daaitv" tvg-logo="https://iptv.urfan.web.id/logo/daaitv.png",DAAITV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="031 daaitv" tvg-logo="https://iptv.urfan.web.id/logo/daaitv.png",DAAITV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="Maxstream" tvg-logo="https://iptv.urfan.web.id/logo/maxstream.png",MAXSTREAM
+#EXTINF:-1 group-title="INDONESIA" tvg-id="032 Maxstream" tvg-logo="https://iptv.urfan.web.id/logo/maxstream.png",MAXSTREAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="tvkesehatan" tvg-logo="https://iptv.urfan.web.id/logo/tvkesehatan.png",TV Kesehatan
+#EXTINF:-1 group-title="INDONESIA" tvg-id="033 tvkesehatan" tvg-logo="https://iptv.urfan.web.id/logo/tvkesehatan.png",TV Kesehatan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="Digione" tvg-logo="https://iptv.urfan.web.id/logo/digione.png",Digione
+#EXTINF:-1 group-title="INDONESIA" tvg-id="034 Digione" tvg-logo="https://iptv.urfan.web.id/logo/digione.png",Digione
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="RRINET" tvg-logo="https://iptv.urfan.web.id/logo/rrinettv.png",RRI NET
+#EXTINF:-1 group-title="INDONESIA" tvg-id="035 RRINET" tvg-logo="https://iptv.urfan.web.id/logo/rrinettv.png",RRI NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://rrinet.rri.co.id/hls/live.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="BeritaSatu" tvg-logo="https://iptv.urfan.web.id/logo/btv.png",BTV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="036 BeritaSatu" tvg-logo="https://iptv.urfan.web.id/logo/btv.png",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="GPRTV" tvg-logo="https://iptv.urfan.web.id/logo/gprtv.png",GPR TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="037 GPRTV" tvg-logo="https://iptv.urfan.web.id/logo/gprtv.png",GPR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ythls.urfan.web.id/stream/UCn-Ex0zXXTVElhMr12o0zwA/master.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="IndonesianaTV" tvg-logo="https://iptv.urfan.web.id/logo/indonesiana.png",Indonesiana TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="038 IndonesianaTV" tvg-logo="https://iptv.urfan.web.id/logo/indonesiana.png",Indonesiana TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
+
+
 
 
 
